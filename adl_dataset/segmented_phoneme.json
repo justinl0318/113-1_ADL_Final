@@ -1,0 +1,730 @@
+[
+  {
+    "word": "破大防",
+    "transcriptions": [
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.0,
+            "text": "昨天你看到那個直播主的結局嗎?",
+            "segmented": "昨天 你 看到 那個 直播 主 的 結局 嗎 ?",
+            "pinyin_phoneme": "zuo2tian1 ni3 kan4dao4 na4ge4 zhi2bo1 zhu3 de jie2ju2 ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 8.5,
+            "text": "有,他辛苦打了三個小時,結果最後被隊友誤傷輸掉,整個破大房,當場砸滑鼠。",
+            "segmented": "有 , 他 辛苦 打 了 三個 小時 , 結果 最 後 被 隊友誤 傷輸 掉 , 整個 破大房 , 當場 砸 滑鼠 。",
+            "pinyin_phoneme": "you3 , ta1 xin1ku3 da3 le san1ge4 xiao3shi2 , jie2guo3 zui4 hou4 bei4 dui4you3wu4 shang1shu1 diao4 , zheng3ge4 po4da4fang2 , dang1chang3 za2 hua2shu3 。"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.4,
+            "text": "呦,你最近怎麼看起來心情很差?",
+            "segmented": "呦 , 你 最近 怎麼 看 起來 心情 很差 ?",
+            "pinyin_phoneme": "you1 , ni3 zui4jin4 zen3me kan4 qi3lai2 xin1qing2 hen3cha4 ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 8.0,
+            "text": "別提了,我下班累得要命,結果回家發現外送少送我最想吃的炸雞瞬間破大房。",
+            "segmented": "別提 了 , 我 下班 累 得 要命 , 結果 回家 發現 外 送少 送 我 最 想 吃 的 炸雞 瞬間 破大房 。",
+            "pinyin_phoneme": "bie2ti2 le , wo3 xia4ban1 lei4 de2 yao4ming4 , jie2guo3 hui2jia1 fa1xian4 wai4 song4shao3 song4 wo3 zui4 xiang3 chi1 de zha4ji1 shun4jian1 po4da4fang2 。"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.0,
+            "text": "你看,那個偶像劇的新劇情了嗎?",
+            "segmented": "你 看 , 那個 偶像 劇的 新劇情 了 嗎 ?",
+            "pinyin_phoneme": "ni3 kan4 , na4ge4 ou3xiang4 ju4de xin1ju4qing2 le ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 0.7,
+            "text": "看了",
+            "segmented": "看 了",
+            "pinyin_phoneme": "kan4 le"
+          },
+          {
+            "start": 0.7,
+            "end": 3.0,
+            "text": "男主角竟然背叛女主角",
+            "segmented": "男主角 竟然 背叛 女主角",
+            "pinyin_phoneme": "nan2zhu3jue2 jing4ran2 bei4pan4 nv3zhu3jue2"
+          },
+          {
+            "start": 3.0,
+            "end": 4.3,
+            "text": "我直接破大房",
+            "segmented": "我 直接 破大房",
+            "pinyin_phoneme": "wo3 zhi2jie1 po4da4fang2"
+          },
+          {
+            "start": 4.3,
+            "end": 5.5,
+            "text": "氣到罵出聲",
+            "segmented": "氣到 罵 出聲",
+            "pinyin_phoneme": "qi4dao4 ma4 chu1sheng1"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "昨晚結賽你看了嗎?",
+            "segmented": "昨晚 結賽 你 看 了 嗎 ?",
+            "pinyin_phoneme": "zuo2wan3 jie2sai4 ni3 kan4 le ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 2.5,
+            "text": "看了我們隊伍眼看要逆轉了",
+            "segmented": "看 了 我們 隊伍 眼看 要逆轉 了",
+            "pinyin_phoneme": "kan4 le wo3men dui4wu3 yan3kan4 yao4ni4zhuan3 le"
+          },
+          {
+            "start": 2.5,
+            "end": 4.8,
+            "text": "結果最後一波操作失誤",
+            "segmented": "結果 最後一波 操作 失誤",
+            "pinyin_phoneme": "jie2guo3 zui4hou4yi1bo1 cao1zuo4 shi1wu4"
+          },
+          {
+            "start": 4.8,
+            "end": 7.8,
+            "text": "整個破大房聊天室爆炸了",
+            "segmented": "整個 破大房 聊天室 爆炸 了",
+            "pinyin_phoneme": "zheng3ge4 po4da4fang2 liao2tian1shi4 bao4zha4 le"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "昨天期末考,考得怎麼樣?",
+            "segmented": "昨天 期末考 , 考得 怎麼樣 ?",
+            "pinyin_phoneme": "zuo2tian1 qi1mo4kao3 , kao3de2 zen3meyang4 ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 1.0,
+            "text": "考題超難",
+            "segmented": "考題 超難",
+            "pinyin_phoneme": "kao3ti2 chao1nan2"
+          },
+          {
+            "start": 1.0,
+            "end": 3.0,
+            "text": "最後一題完全不會寫",
+            "segmented": "最後一題 完全 不會 寫",
+            "pinyin_phoneme": "zui4hou4yi1ti2 wan2quan2 bu4hui4 xie3"
+          },
+          {
+            "start": 3.0,
+            "end": 5.0,
+            "text": "當下破大房",
+            "segmented": "當下 破大房",
+            "pinyin_phoneme": "dang1xia4 po4da4fang2"
+          },
+          {
+            "start": 5.0,
+            "end": 7.0,
+            "text": "差點直接交白卷",
+            "segmented": "差點 直接 交白卷",
+            "pinyin_phoneme": "cha4dian3 zhi2jie1 jiao1bai2juan4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "傻爆屁眼",
+    "transcriptions": [
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.4,
+            "text": "呦,你昨天有看到阿明的IG線動嗎?",
+            "segmented": "呦 , 你 昨天 有 看到 阿明 的 IG 線動 嗎 ?",
+            "pinyin_phoneme": "you1 , ni3 zuo2tian1 you3 kan4dao4 a1ming2 de IG xian4dong4 ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 5.0,
+            "text": "有,他竟然跑去沖繩玩,完全沒跟我們說傻抱屁眼",
+            "segmented": "有 , 他 竟然 跑 去 沖 繩 玩 , 完全 沒 跟 我們 說 傻 抱 屁眼",
+            "pinyin_phoneme": "you3 , ta1 jing4ran2 pao3 qu4 chong1 sheng2 wan2 , wan2quan2 mei2 gen1 wo3men shuo1 sha3 bao4 pi4yan3"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 4.0,
+            "text": "我剛買的飲料打翻在電腦鍵盤上怎麼辦啦",
+            "segmented": "我剛 買 的 飲料 打翻 在 電腦鍵 盤 上 怎麼 辦 啦",
+            "pinyin_phoneme": "wo3gang1 mai3 de yin3liao4 da3fan1 zai4 dian4nao3jian4 pan2 shang4 zen3me ban4 la"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 1.5,
+            "text": "還有太慘了吧",
+            "segmented": "還有 太慘 了 吧",
+            "pinyin_phoneme": "hai2you3 tai4can3 le ba"
+          },
+          {
+            "start": 1.5,
+            "end": 4.5,
+            "text": "這情況真的只能說傻包聘眼",
+            "segmented": "這情況 真的 只能 說 傻 包聘眼",
+            "pinyin_phoneme": "zhe4qing2kuang4 zhen1de zhi3neng2 shuo1 sha3 bao1pin4yan3"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 6.0,
+            "text": "今天開會的時候主管講了一堆廢話,結果什麼都沒決定。",
+            "segmented": "今天 開會 的 時候 主管 講了 一堆 廢話 , 結果 什麼 都 沒 決定 。",
+            "pinyin_phoneme": "jin1tian1 kai1hui4 de shi2hou4 zhu3guan3 jiang3le yi1dui1 fei4hua4 , jie2guo3 shen2me dou1 mei2 jue2ding4 。"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 3.0,
+            "text": "天,這種會議真的傻爆批演員",
+            "segmented": "天 , 這種 會議 真的 傻 爆批 演員",
+            "pinyin_phoneme": "tian1 , zhe4zhong3 hui4yi4 zhen1de sha3 bao4pi1 yan3yuan2"
+          },
+          {
+            "start": 3.0,
+            "end": 5.0,
+            "text": "浪費時間到極點",
+            "segmented": "浪費 時間 到 極點",
+            "pinyin_phoneme": "lang4fei4 shi2jian1 dao4 ji2dian3"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 4.0,
+            "text": "我朋友今天考試遲到,結果老師剛好鎖門了。",
+            "segmented": "我 朋友 今天 考試 遲到 , 結果 老師剛 好鎖門 了 。",
+            "pinyin_phoneme": "wo3 peng2you3 jin1tian1 kao3shi4 chi2dao4 , jie2guo3 lao3shi1gang1 hao3suo3men2 le 。"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "這運氣也太差了吧",
+            "segmented": "這運氣 也 太差 了 吧",
+            "pinyin_phoneme": "zhe4yun4qi4 ye3 tai4cha4 le ba"
+          },
+          {
+            "start": 2.0,
+            "end": 4.5,
+            "text": "真的只能說傻包屁牙",
+            "segmented": "真的 只能 說 傻 包屁牙",
+            "pinyin_phoneme": "zhen1de zhi3neng2 shuo1 sha3 bao1pi4ya2"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 1.8,
+            "text": "我排了一個小時的隊",
+            "segmented": "我排 了 一個 小時 的 隊",
+            "pinyin_phoneme": "wo3pai2 le yi1ge4 xiao3shi2 de dui4"
+          },
+          {
+            "start": 1.8,
+            "end": 3.6,
+            "text": "結果聞到我時",
+            "segmented": "結果 聞 到 我 時",
+            "pinyin_phoneme": "jie2guo3 wen2 dao4 wo3 shi2"
+          },
+          {
+            "start": 3.6,
+            "end": 5.4,
+            "text": "店員說賣完了",
+            "segmented": "店員 說 賣 完 了",
+            "pinyin_phoneme": "dian4yuan2 shuo1 mai4 wan2 le"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 4.8,
+            "text": "蛤,這真的會氣到傻包批言,排那麼久,根本白費",
+            "segmented": "蛤 , 這 真的 會氣 到 傻 包批 言 , 排 那麼 久 , 根本 白費",
+            "pinyin_phoneme": "ha2 , zhe4 zhen1de hui4qi4 dao4 sha3 bao1pi1 yan2 , pai2 na4me jiu3 , gen1ben3 bai2fei4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "肥宅",
+    "transcriptions": [
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 2.5,
+            "text": "呦,你週末有沒有出去玩?",
+            "segmented": "呦 , 你 週末 有 沒 有 出去玩 ?",
+            "pinyin_phoneme": "you1 , ni3 zhou1mo4 you3 mei2 you3 chu1qu4wan2 ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 1.2,
+            "text": "哪有出去",
+            "segmented": "哪有 出去",
+            "pinyin_phoneme": "na3you3 chu1qu4"
+          },
+          {
+            "start": 1.2,
+            "end": 2.8,
+            "text": "我可是專業肥宅",
+            "segmented": "我 可是 專業 肥宅",
+            "pinyin_phoneme": "wo3 ke3shi4 zhuan1ye4 fei2zhai2"
+          },
+          {
+            "start": 2.8,
+            "end": 5.0,
+            "text": "我家裡打了一整天手遊",
+            "segmented": "我家 裡打 了 一整天 手遊",
+            "pinyin_phoneme": "wo3jia1 li3da3 le yi1zheng3tian1 shou3you2"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 4.0,
+            "text": "最近天氣這麼好,你怎麼不出門走走?",
+            "segmented": "最近 天氣 這麼 好 , 你 怎麼 不 出門 走走 ?",
+            "pinyin_phoneme": "zui4jin4 tian1qi4 zhe4me hao3 , ni3 zen3me bu4 chu1men2 zou3zou3 ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 2.5,
+            "text": "敲出門肥宅不需要陽光",
+            "segmented": "敲出 門肥宅 不 需要 陽光",
+            "pinyin_phoneme": "qiao1chu1 men2fei2zhai2 bu4 xu1yao4 yang2guang1"
+          },
+          {
+            "start": 2.5,
+            "end": 5.0,
+            "text": "外減發才是我的生命之光",
+            "segmented": "外減 發才 是 我 的 生命 之光",
+            "pinyin_phoneme": "wai4jian3 fa1cai2 shi4 wo3 de sheng1ming4 zhi1guang1"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "你暑假計劃去哪裡玩",
+            "segmented": "你 暑假 計劃 去 哪裡 玩",
+            "pinyin_phoneme": "ni3 shu3jia4 ji4hua4 qu4 na3li3 wan2"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 6.0,
+            "text": "我的計劃是宅在家裡,追完三步翻,身為肥宅,這才是完美假期。",
+            "segmented": "我 的 計劃 是 宅 在家 裡 , 追完 三步 翻 , 身為 肥宅 , 這才 是 完美 假期 。",
+            "pinyin_phoneme": "wo3 de ji4hua4 shi4 zhai2 zai4jia1 li3 , zhui1wan2 san1bu4 fan1 , shen1wei4 fei2zhai2 , zhe4cai2 shi4 wan2mei3 jia4qi1 。"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 2.4,
+            "text": "你看起來很久沒運動了耶",
+            "segmented": "你 看 起來 很久 沒運動 了 耶",
+            "pinyin_phoneme": "ni3 kan4 qi3lai2 hen3jiu3 mei2yun4dong4 le ye2"
+          },
+          {
+            "start": 2.4,
+            "end": 4.0,
+            "text": "要不要去跑步",
+            "segmented": "要 不要 去 跑步",
+            "pinyin_phoneme": "yao4 bu2yao4 qu4 pao3bu4"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 7.0,
+            "text": "蟹腰,肥宅運動就是滑鼠點擊和鍵盤敲擊,跑步不在技能術上。",
+            "segmented": "蟹 腰 , 肥宅 運動 就是 滑鼠 點擊 和 鍵盤 敲擊 , 跑步 不 在 技能 術 上 。",
+            "pinyin_phoneme": "xie4 yao1 , fei2zhai2 yun4dong4 jiu4shi4 hua2shu3 dian3ji1 he2 jian4pan2 qiao1ji1 , pao3bu4 bu4 zai4 ji4neng2 shu4 shang4 。"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "昨天那部新翻超好看",
+            "segmented": "昨天 那部 新 翻超 好看",
+            "pinyin_phoneme": "zuo2tian1 na4bu4 xin1 fan1chao1 hao3kan4"
+          },
+          {
+            "start": 2.0,
+            "end": 3.0,
+            "text": "你有追嗎?",
+            "segmented": "你 有 追 嗎 ?",
+            "pinyin_phoneme": "ni3 you3 zhui1 ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 4.0,
+            "text": "當然有,肥宅的本質就是追番,以及不辣",
+            "segmented": "當然 有 , 肥宅 的 本質 就是 追番 , 以及 不辣",
+            "pinyin_phoneme": "dang1ran2 you3 , fei2zhai2 de ben3zhi4 jiu4shi4 zhui1fan1 , yi3ji2 bu4la4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "魯蛇",
+    "transcriptions": [
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.0,
+            "text": "柔,你怎麼最近都不出門聚會?",
+            "segmented": "柔 , 你 怎麼 最近 都 不 出門 聚會 ?",
+            "pinyin_phoneme": "rou2 , ni3 zen3me zui4jin4 dou1 bu4 chu1men2 ju4hui4 ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 3.0,
+            "text": "最近找工作一直碰壁",
+            "segmented": "最近 找 工作 一直 碰壁",
+            "pinyin_phoneme": "zui4jin4 zhao3 gong1zuo4 yi4zhi2 peng4bi4"
+          },
+          {
+            "start": 3.0,
+            "end": 5.0,
+            "text": "覺得自己根本就是個魯蛇",
+            "segmented": "覺得 自己 根本就是 個魯蛇",
+            "pinyin_phoneme": "jue2de2 zi4ji3 gen1ben3jiu4shi4 ge4lu3she2"
+          },
+          {
+            "start": 5.0,
+            "end": 7.0,
+            "text": "哪有心情玩",
+            "segmented": "哪有 心情 玩",
+            "pinyin_phoneme": "na3you3 xin1qing2 wan2"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 2.4,
+            "text": "聽說你在新創公司上班",
+            "segmented": "聽 說 你 在 新創 公司 上班",
+            "pinyin_phoneme": "ting1 shuo1 ni3 zai4 xin1chuang4 gong1si1 shang4ban1"
+          },
+          {
+            "start": 2.4,
+            "end": 3.4,
+            "text": "怎麼樣",
+            "segmented": "怎麼樣",
+            "pinyin_phoneme": "zen3meyang4"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 6.0,
+            "text": "別提了,薪水少得可憐,根本魯蛇打工在,還要天天加班。",
+            "segmented": "別提 了 , 薪水 少得 可憐 , 根本 魯蛇 打工 在 , 還要 天天 加班 。",
+            "pinyin_phoneme": "bie2ti2 le , xin1shui3 shao3de2 ke3lian2 , gen1ben3 lu3she2 da3gong1 zai4 , hai2yao4 tian1tian1 jia1ban1 。"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 4.0,
+            "text": "你不是跟小美曖昧很久了嗎?有進展嗎?",
+            "segmented": "你 不是 跟 小美 曖昧 很 久 了 嗎 ? 有 進展 嗎 ?",
+            "pinyin_phoneme": "ni3 bu2shi4 gen1 xiao3mei3 ai4mei4 hen3 jiu3 le ma ? you3 jin4zhan3 ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 5.0,
+            "text": "人家早就叫了男朋友,我這個魯蛇只能當工具人罷了",
+            "segmented": "人家 早就 叫 了 男朋友 , 我 這個 魯蛇 只能 當 工具 人罷 了",
+            "pinyin_phoneme": "ren2jia1 zao3jiu4 jiao4 le nan2peng2you3 , wo3 zhe4ge4 lu3she2 zhi3neng2 dang1 gong1ju4 ren2ba4 le"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.0,
+            "text": "最近,股票市場很熱,你有投資嗎?",
+            "segmented": "最近 , 股票 市場 很熱 , 你 有 投資 嗎 ?",
+            "pinyin_phoneme": "zui4jin4 , gu3piao4 shi4chang3 hen3re4 , ni3 you3 tou2zi1 ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 5.0,
+            "text": "投什麼?我這個魯蛇薪水都不夠付,房租還投資?",
+            "segmented": "投什麼 ? 我 這個 魯蛇 薪水 都 不夠 付 , 房租 還投資 ?",
+            "pinyin_phoneme": "tou2shen2me ? wo3 zhe4ge4 lu3she2 xin1shui3 dou1 bu4gou4 fu4 , fang2zu1 hai2tou2zi1 ?"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.4,
+            "text": "你,週末都在家打電動,不會無聊嗎?",
+            "segmented": "你 , 週末 都 在家 打電動 , 不會 無聊 嗎 ?",
+            "pinyin_phoneme": "ni3 , zhou1mo4 dou1 zai4jia1 da3dian4dong4 , bu4hui4 wu2liao2 ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 3.4,
+            "text": "路學的娛樂不就是窩在家打遊戲",
+            "segmented": "路學 的 娛樂 不 就是 窩 在家 打遊戲",
+            "pinyin_phoneme": "lu4xue2 de yu2le4 bu4 jiu4shi4 wo1 zai4jia1 da3you2xi4"
+          },
+          {
+            "start": 3.4,
+            "end": 5.8,
+            "text": "總比出門被現實打臉好",
+            "segmented": "總比 出門 被 現實 打臉 好",
+            "pinyin_phoneme": "zong3bi3 chu1men2 bei4 xian4shi2 da3lian3 hao3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "溫拿",
+    "transcriptions": [
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 4.4,
+            "text": "你昨天不是參加那個遊戲比賽嗎?結果如何?",
+            "segmented": "你 昨天 不是 參加 那個 遊戲 比賽 嗎 ? 結果 如何 ?",
+            "pinyin_phoneme": "ni3 zuo2tian1 bu2shi4 can1jia1 na4ge4 you2xi4 bi3sai4 ma ? jie2guo3 ru2he2 ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 4.6,
+            "text": "我拿了第一名,直接當場被主持人稱作本場的溫拿",
+            "segmented": "我 拿 了 第一名 , 直接 當場 被 主持人 稱作 本場 的 溫 拿",
+            "pinyin_phoneme": "wo3 na2 le di4yi4ming2 , zhi2jie1 dang1chang3 bei4 zhu3chi2ren2 cheng1zuo4 ben3chang3 de wen1 na2"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.2,
+            "text": "聽說你們公司的提案競標很激烈",
+            "segmented": "聽 說 你 們 公司 的 提案 競標 很 激烈",
+            "pinyin_phoneme": "ting1 shuo1 ni3 men gong1si1 de ti2an4 jing4biao1 hen3 ji1lie4"
+          },
+          {
+            "start": 3.2,
+            "end": 4.8,
+            "text": "最後結果怎樣",
+            "segmented": "最後結果 怎樣",
+            "pinyin_phoneme": "zui4hou4jie2guo3 zen3yang4"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "我們成功拿下大案子了",
+            "segmented": "我們 成功 拿下 大 案子 了",
+            "pinyin_phoneme": "wo3men cheng2gong1 na2xia4 da4 an4zi le"
+          },
+          {
+            "start": 2.0,
+            "end": 6.5,
+            "text": "如果還說我們團隊是這次競標的最大溫拿",
+            "segmented": "如果 還說 我們 團隊 是 這次 競標 的 最大 溫拿",
+            "pinyin_phoneme": "ru2guo3 hai2shuo1 wo3men tuan2dui4 shi4 zhe4ci4 jing4biao1 de zui4da4 wen1na2"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.5,
+            "text": "你怎麼這麼快就搶到演唱會全排票?",
+            "segmented": "你 怎麼 這麼 快 就 搶 到 演唱 會全 排票 ?",
+            "pinyin_phoneme": "ni3 zen3me zhe4me kuai4 jiu4 qiang3 dao4 yan3chang4 hui4quan2 pai2piao4 ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 4.0,
+            "text": "哈哈,靠助手速成為購票系統的溫拿",
+            "segmented": "哈哈 , 靠 助手 速成 為 購票 系統 的 溫 拿",
+            "pinyin_phoneme": "ha1ha1 , kao4 zhu4shou3 su4cheng2 wei4 gou4piao4 xi4tong3 de wen1 na2"
+          },
+          {
+            "start": 4.0,
+            "end": 6.0,
+            "text": "不然早就被搶光了",
+            "segmented": "不然 早就 被 搶光 了",
+            "pinyin_phoneme": "bu4ran2 zao3jiu4 bei4 qiang3guang1 le"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 2.8,
+            "text": "昨天抽Switch,你參加了嗎?",
+            "segmented": "昨天 抽 Switch , 你 參加 了 嗎 ?",
+            "pinyin_phoneme": "zuo2tian1 chou1 Switch , ni3 can1jia1 le ma ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 1.0,
+            "text": "參加了",
+            "segmented": "參加 了",
+            "pinyin_phoneme": "can1jia1 le"
+          },
+          {
+            "start": 1.0,
+            "end": 3.0,
+            "text": "而且我居然中了",
+            "segmented": "而且 我 居然 中 了",
+            "pinyin_phoneme": "er2qie3 wo3 ju1ran2 zhong1 le"
+          },
+          {
+            "start": 3.0,
+            "end": 6.0,
+            "text": "直接被朋友封為抽獎界的溫拿",
+            "segmented": "直接 被 朋友 封為 抽獎界 的 溫 拿",
+            "pinyin_phoneme": "zhi2jie1 bei4 peng2you3 feng1wei4 chou1jiang3jie4 de wen1 na2"
+          }
+        ]
+      },
+      {
+        "A": [
+          {
+            "start": 0.0,
+            "end": 3.0,
+            "text": "你不是說這學期要拼全科A嗎?",
+            "segmented": "你 不是 說 這學期 要 拼 全科 A 嗎 ?",
+            "pinyin_phoneme": "ni3 bu2shi4 shuo1 zhe4xue2qi1 yao4 pin1 quan2ke1 A ma ?"
+          },
+          {
+            "start": 3.0,
+            "end": 5.0,
+            "text": "成績單拿到了沒?",
+            "segmented": "成績 單 拿到 了 沒 ?",
+            "pinyin_phoneme": "cheng2ji1 dan1 na2dao4 le mei2 ?"
+          }
+        ],
+        "B": [
+          {
+            "start": 0.0,
+            "end": 2.0,
+            "text": "拿到了全A5",
+            "segmented": "拿到 了 全 A5",
+            "pinyin_phoneme": "na2dao4 le quan2 A5"
+          },
+          {
+            "start": 2.0,
+            "end": 4.5,
+            "text": "這學期我真的是學霸界的溫拿",
+            "segmented": "這學期 我 真的 是 學霸界 的 溫 拿",
+            "pinyin_phoneme": "zhe4xue2qi1 wo3 zhen1de shi4 xue2ba4jie4 de wen1 na2"
+          }
+        ]
+      }
+    ]
+  }
+]
