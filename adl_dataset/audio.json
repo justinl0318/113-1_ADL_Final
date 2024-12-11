@@ -1,36 +1,34 @@
 [
   {
     "word": "破大防",
+    "word_audio_path": "audio_files/0.wav",
     "paths": [
       {
-        "A": "audio_files/0.wav",
-        "B": "audio_files/1.wav"
+        "A": "audio_files/1.wav",
+        "B": "audio_files/2.wav"
       },
       {
-        "A": "audio_files/2.wav",
-        "B": "audio_files/3.wav"
+        "A": "audio_files/3.wav",
+        "B": "audio_files/4.wav"
       },
       {
-        "A": "audio_files/4.wav",
-        "B": "audio_files/5.wav"
+        "A": "audio_files/5.wav",
+        "B": "audio_files/6.wav"
       },
       {
-        "A": "audio_files/6.wav",
-        "B": "audio_files/7.wav"
+        "A": "audio_files/7.wav",
+        "B": "audio_files/8.wav"
       },
       {
-        "A": "audio_files/8.wav",
-        "B": "audio_files/9.wav"
+        "A": "audio_files/9.wav",
+        "B": "audio_files/10.wav"
       }
     ]
   },
   {
     "word": "傻爆屁眼",
+    "word_audio_path": "audio_files/11.wav",
     "paths": [
-      {
-        "A": "audio_files/10.wav",
-        "B": "audio_files/11.wav"
-      },
       {
         "A": "audio_files/12.wav",
         "B": "audio_files/13.wav"
@@ -46,45 +44,43 @@
       {
         "A": "audio_files/18.wav",
         "B": "audio_files/19.wav"
+      },
+      {
+        "A": "audio_files/20.wav",
+        "B": "audio_files/21.wav"
       }
     ]
   },
   {
     "word": "肥宅",
+    "word_audio_path": "audio_files/22.wav",
     "paths": [
       {
-        "A": "audio_files/20.wav",
-        "B": "audio_files/21.wav"
+        "A": "audio_files/23.wav",
+        "B": "audio_files/24.wav"
       },
       {
-        "A": "audio_files/22.wav",
-        "B": "audio_files/23.wav"
+        "A": "audio_files/25.wav",
+        "B": "audio_files/26.wav"
       },
       {
-        "A": "audio_files/24.wav",
-        "B": "audio_files/25.wav"
+        "A": "audio_files/27.wav",
+        "B": "audio_files/28.wav"
       },
       {
-        "A": "audio_files/26.wav",
-        "B": "audio_files/27.wav"
+        "A": "audio_files/29.wav",
+        "B": "audio_files/30.wav"
       },
       {
-        "A": "audio_files/28.wav",
-        "B": "audio_files/29.wav"
+        "A": "audio_files/31.wav",
+        "B": "audio_files/32.wav"
       }
     ]
   },
   {
     "word": "魯蛇",
+    "word_audio_path": "audio_files/33.wav",
     "paths": [
-      {
-        "A": "audio_files/30.wav",
-        "B": "audio_files/31.wav"
-      },
-      {
-        "A": "audio_files/32.wav",
-        "B": "audio_files/33.wav"
-      },
       {
         "A": "audio_files/34.wav",
         "B": "audio_files/35.wav"
@@ -96,12 +92,7 @@
       {
         "A": "audio_files/38.wav",
         "B": "audio_files/39.wav"
-      }
-    ]
-  },
-  {
-    "word": "溫拿",
-    "paths": [
+      },
       {
         "A": "audio_files/40.wav",
         "B": "audio_files/41.wav"
@@ -109,18 +100,32 @@
       {
         "A": "audio_files/42.wav",
         "B": "audio_files/43.wav"
+      }
+    ]
+  },
+  {
+    "word": "溫拿",
+    "word_audio_path": "audio_files/44.wav",
+    "paths": [
+      {
+        "A": "audio_files/45.wav",
+        "B": "audio_files/46.wav"
       },
       {
-        "A": "audio_files/44.wav",
-        "B": "audio_files/45.wav"
+        "A": "audio_files/47.wav",
+        "B": "audio_files/48.wav"
       },
       {
-        "A": "audio_files/46.wav",
-        "B": "audio_files/47.wav"
+        "A": "audio_files/49.wav",
+        "B": "audio_files/50.wav"
       },
       {
-        "A": "audio_files/48.wav",
-        "B": "audio_files/49.wav"
+        "A": "audio_files/51.wav",
+        "B": "audio_files/52.wav"
+      },
+      {
+        "A": "audio_files/53.wav",
+        "B": "audio_files/54.wav"
       }
     ]
   }
