@@ -6,8 +6,9 @@ numpy
 pypinyin
 phonemizer
 ipdb
+transformers
+datasets
+chromadb
+librosa
+soundfile
 
-
-
-# ckiptagger==0.2.1
-# tensorflow==2.12
