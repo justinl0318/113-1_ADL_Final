@@ -1,14 +1,12 @@
 import json
 from pypinyin import pinyin, Style
 from phonemizer import phonemize
-import ipdb
 
 def convert_pinyin(segmented_text):
     word_list = segmented_text.split()
     phoneme_list = []
     for word in word_list:
         phonemes = pinyin(word, style=Style.TONE3, strict=False)
-        # ipdb.set_trace()
         phoneme_list.append(''.join([p[0] for p in phonemes]))
     return ' '.join(phoneme_list)
 
@@ -17,7 +15,7 @@ def convert_phonemizer(segmented_text):
     phoneme_list = []
     for word in word_list:
         phonemes = phonemize(
-            word, 
+            word,
             language='zh-cn',
             backend='espeak',
             preserve_punctuation=True,
@@ -29,7 +27,7 @@ def convert_phonemizer(segmented_text):
 def process_file(input_path, output_path):
     with open(input_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
-    
+
     result = []
     for entry in data:
         processed_entry = {
@@ -38,24 +36,25 @@ def process_file(input_path, output_path):
         }
         
         for trans in entry["transcriptions"]:
-            processed_trans = {"A": [], "B": []}
-            
-            for speaker in ["A", "B"]:
-                for utt in trans[speaker]:
-                    processed_utt = {
-                        "start": utt["start"],
-                        "end": utt["end"],
-                        "text": utt["text"],
-                        "segmented": utt["segmented"],
-                        "pinyin_phoneme": convert_pinyin(utt["segmented"])
-                        # "esp_phoneme": convert_phonemizer(utt["segmented"])
-                    }
-                    processed_trans[speaker].append(processed_utt)
-            
+            processed_trans = {
+                "A": {
+                    "text": trans["A"]["text"],
+                    "segmented": trans["A"]["segmented"],
+                    "pinyin_phoneme": convert_pinyin(trans["A"]["segmented"]),
+                    # "esp_phoneme": convert_phonemizer(trans["A"]["segmented"])
+                },
+                "B": {
+                    "text": trans["B"]["text"],
+                    "segmented": trans["B"]["segmented"],
+                    "pinyin_phoneme": convert_pinyin(trans["B"]["segmented"]),
+                    # "esp_phoneme": convert_phonemizer(trans["B"]["segmented"])
+                }
+            }
             processed_entry["transcriptions"].append(processed_trans)
         
+        processed_entry["word_level_transcriptions"] = entry["word_level_transcriptions"]
         result.append(processed_entry)
-    
+
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 

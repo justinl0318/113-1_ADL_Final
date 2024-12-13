@@ -10,15 +10,9 @@ def process_text(text):
 
 def process_utterances(utterances):
     """Process a list of utterances."""
-    processed = []
-    for utterance in utterances:
-        segments = process_text(utterance["text"])
-        processed.append({
-            "start": utterance["start"],
-            "end": utterance["end"],
-            "text": utterance["text"],
-            "segmented": " ".join(segments)
-        })
+    processed = {}
+    processed["text"] = utterances
+    processed["segmented"] = " ".join(process_text(utterances))
     return processed
 
 def process_transcriptions(data):
@@ -28,7 +22,7 @@ def process_transcriptions(data):
     for word_entry in data:
         processed_transcriptions = []
         
-        for transcript in word_entry["transcriptions"]:
+        for transcript in word_entry["sentences"]:
             # process both speakers' utterances
             processed_dialogue = {
                 "A": process_utterances(transcript["A"]),
@@ -38,7 +32,8 @@ def process_transcriptions(data):
         
         processed_data.append({
             "word": word_entry["word"],
-            "transcriptions": processed_transcriptions
+            "transcriptions": processed_transcriptions,
+            "word_level_transcriptions": word_entry["word_level_transcriptions"]
         })
     
     return processed_data

@@ -11,7 +11,114 @@
         "B": {
           "text": "有,他辛苦他了三個小時結果最後被隊友誤傷輸掉整個鋪大房當場砸滑鼠",
           "segmented": "有 , 他 辛苦 他 了 三個 小時 結果 最 後 被 隊友誤 傷輸 掉 整個 鋪 大房 當場 砸 滑鼠",
-          "pinyin_phoneme": "you3 , ta1 xin1ku3 ta1 le san1ge4 xiao3shi2 jie2guo3 zui4 hou4 bei4 dui4you3wu4 shang1shu1 diao4 zheng3ge4 pu4 da4fang2 dang1chang3 za2 hua2shu3"
+          "pinyin_phoneme": "you3 , ta1 xin1ku3 ta1 le san1ge4 xiao3shi2 jie2guo3 zui4 hou4 bei4 dui4you3wu4 shang1shu1 diao4 zheng3ge4 pu4 da4fang2 dang1chang3 za2 hua2shu3",
+          "alignments": [
+            {
+              "segment": "有",
+              "start": 0.0,
+              "end": 0.38
+            },
+            {
+              "segment": ",",
+              "start": 0.0,
+              "end": 0.38
+            },
+            {
+              "segment": "他",
+              "start": 0.86,
+              "end": 1.06
+            },
+            {
+              "segment": "辛苦",
+              "start": 1.06,
+              "end": 1.4
+            },
+            {
+              "segment": "他",
+              "start": 1.4,
+              "end": 1.58
+            },
+            {
+              "segment": "了",
+              "start": 1.58,
+              "end": 1.7
+            },
+            {
+              "segment": "三個",
+              "start": 1.7,
+              "end": 1.98
+            },
+            {
+              "segment": "小時",
+              "start": 1.98,
+              "end": 2.38
+            },
+            {
+              "segment": "結果",
+              "start": 2.38,
+              "end": 3.1
+            },
+            {
+              "segment": "最",
+              "start": 3.1,
+              "end": 3.6
+            },
+            {
+              "segment": "後",
+              "start": 3.1,
+              "end": 3.6
+            },
+            {
+              "segment": "被",
+              "start": 3.6,
+              "end": 3.78
+            },
+            {
+              "segment": "隊友誤",
+              "start": 3.78,
+              "end": 4.54
+            },
+            {
+              "segment": "傷輸",
+              "start": 4.54,
+              "end": 5.16
+            },
+            {
+              "segment": "掉",
+              "start": 5.16,
+              "end": 5.62
+            },
+            {
+              "segment": "整個",
+              "start": 5.62,
+              "end": 6.12
+            },
+            {
+              "segment": "鋪",
+              "start": 6.12,
+              "end": 6.3
+            },
+            {
+              "segment": "大房",
+              "start": 6.3,
+              "end": 6.92
+            },
+            {
+              "segment": "當場",
+              "start": 6.92,
+              "end": 7.66
+            },
+            {
+              "segment": "砸",
+              "start": 7.66,
+              "end": 7.84
+            },
+            {
+              "segment": "滑鼠",
+              "start": 7.84,
+              "end": 8.26
+            }
+          ]
         }
       },
       {
@@ -23,7 +130,129 @@
         "B": {
           "text": "別提了,我下班累得要命,結果回家發些外送,少送我,最想吃的炸雞瞬間破大房。",
           "segmented": "別提 了 , 我 下班 累 得 要命 , 結果 回家 發些 外送 , 少送 我 , 最想 吃 的 炸雞 瞬間 破大房 。",
-          "pinyin_phoneme": "bie2ti2 le , wo3 xia4ban1 lei4 de2 yao4ming4 , jie2guo3 hui2jia1 fa1xie1 wai4song4 , shao3song4 wo3 , zui4xiang3 chi1 de zha4ji1 shun4jian1 po4da4fang2 。"
+          "pinyin_phoneme": "bie2ti2 le , wo3 xia4ban1 lei4 de2 yao4ming4 , jie2guo3 hui2jia1 fa1xie1 wai4song4 , shao3song4 wo3 , zui4xiang3 chi1 de zha4ji1 shun4jian1 po4da4fang2 。",
+          "alignments": [
+            {
+              "segment": "別提",
+              "start": 0.0,
+              "end": 0.54
+            },
+            {
+              "segment": "了",
+              "start": 0.54,
+              "end": 0.82
+            },
+            {
+              "segment": ",",
+              "start": 0.54,
+              "end": 0.82
+            },
+            {
+              "segment": "我",
+              "start": 1.04,
+              "end": 1.16
+            },
+            {
+              "segment": "下班",
+              "start": 1.16,
+              "end": 1.46
+            },
+            {
+              "segment": "累",
+              "start": 1.46,
+              "end": 1.6
+            },
+            {
+              "segment": "得",
+              "start": 1.6,
+              "end": 1.7
+            },
+            {
+              "segment": "要命",
+              "start": 1.7,
+              "end": 2.24
+            },
+            {
+              "segment": ",",
+              "start": 1.84,
+              "end": 2.24
+            },
+            {
+              "segment": "結果",
+              "start": 2.48,
+              "end": 2.74
+            },
+            {
+              "segment": "回家",
+              "start": 2.74,
+              "end": 3.32
+            },
+            {
+              "segment": "發些",
+              "start": 3.32,
+              "end": 3.6
+            },
+            {
+              "segment": "外送",
+              "start": 3.6,
+              "end": 3.98
+            },
+            {
+              "segment": ",",
+              "start": 3.78,
+              "end": 3.98
+            },
+            {
+              "segment": "少送",
+              "start": 4.3,
+              "end": 4.58
+            },
+            {
+              "segment": "我",
+              "start": 4.58,
+              "end": 5.18
+            },
+            {
+              "segment": ",",
+              "start": 4.58,
+              "end": 5.18
+            },
+            {
+              "segment": "最想",
+              "start": 5.18,
+              "end": 5.68
+            },
+            {
+              "segment": "吃",
+              "start": 5.68,
+              "end": 5.78
+            },
+            {
+              "segment": "的",
+              "start": 5.78,
+              "end": 5.92
+            },
+            {
+              "segment": "炸雞",
+              "start": 5.92,
+              "end": 6.26
+            },
+            {
+              "segment": "瞬間",
+              "start": 6.26,
+              "end": 6.88
+            },
+            {
+              "segment": "破大房",
+              "start": 6.88,
+              "end": 7.48
+            },
+            {
+              "segment": "。",
+              "start": 7.26,
+              "end": 7.48
+            }
+          ]
         }
       },
       {
@@ -35,7 +264,69 @@
         "B": {
           "text": "看了男主角竟然被判女主角我直接破大房氣到罵出聲",
           "segmented": "看 了 男主角 竟然 被判 女主角 我 直接 破大房 氣到 罵 出聲",
-          "pinyin_phoneme": "kan4 le nan2zhu3jue2 jing4ran2 bei4pan4 nv3zhu3jue2 wo3 zhi2jie1 po4da4fang2 qi4dao4 ma4 chu1sheng1"
+          "pinyin_phoneme": "kan4 le nan2zhu3jue2 jing4ran2 bei4pan4 nv3zhu3jue2 wo3 zhi2jie1 po4da4fang2 qi4dao4 ma4 chu1sheng1",
+          "alignments": [
+            {
+              "segment": "看",
+              "start": 0.0,
+              "end": 0.4
+            },
+            {
+              "segment": "了",
+              "start": 0.4,
+              "end": 0.5
+            },
+            {
+              "segment": "男主角",
+              "start": 0.5,
+              "end": 0.98
+            },
+            {
+              "segment": "竟然",
+              "start": 0.98,
+              "end": 1.5
+            },
+            {
+              "segment": "被判",
+              "start": 1.5,
+              "end": 1.86
+            },
+            {
+              "segment": "女主角",
+              "start": 1.86,
+              "end": 2.48
+            },
+            {
+              "segment": "我",
+              "start": 2.48,
+              "end": 3.08
+            },
+            {
+              "segment": "直接",
+              "start": 3.08,
+              "end": 3.4
+            },
+            {
+              "segment": "破大房",
+              "start": 3.4,
+              "end": 4.26
+            },
+            {
+              "segment": "氣到",
+              "start": 4.26,
+              "end": 4.94
+            },
+            {
+              "segment": "罵",
+              "start": 4.94,
+              "end": 5.22
+            },
+            {
+              "segment": "出聲",
+              "start": 5.22,
+              "end": 5.7
+            }
+          ]
         }
       },
       {
@@ -47,7 +338,119 @@
         "B": {
           "text": "看了,我們隊伍眼開要逆轉了,結果最後一波操作失誤,整個破大房,聊天室爆炸了。",
           "segmented": "看 了 , 我們 隊伍 眼開 要 逆轉 了 , 結果 最後一波 操作 失誤 , 整個 破大房 , 聊天室 爆炸 了 。",
-          "pinyin_phoneme": "kan4 le , wo3men dui4wu3 yan3kai1 yao4 ni4zhuan3 le , jie2guo3 zui4hou4yi1bo1 cao1zuo4 shi1wu4 , zheng3ge4 po4da4fang2 , liao2tian1shi4 bao4zha4 le 。"
+          "pinyin_phoneme": "kan4 le , wo3men dui4wu3 yan3kai1 yao4 ni4zhuan3 le , jie2guo3 zui4hou4yi1bo1 cao1zuo4 shi1wu4 , zheng3ge4 po4da4fang2 , liao2tian1shi4 bao4zha4 le 。",
+          "alignments": [
+            {
+              "segment": "看",
+              "start": 0.0,
+              "end": 0.38
+            },
+            {
+              "segment": "了",
+              "start": 0.38,
+              "end": 0.72
+            },
+            {
+              "segment": ",",
+              "start": 0.38,
+              "end": 0.72
+            },
+            {
+              "segment": "我們",
+              "start": 0.98,
+              "end": 1.12
+            },
+            {
+              "segment": "隊伍",
+              "start": 1.12,
+              "end": 1.4
+            },
+            {
+              "segment": "眼開",
+              "start": 1.4,
+              "end": 1.74
+            },
+            {
+              "segment": "要",
+              "start": 1.74,
+              "end": 1.9
+            },
+            {
+              "segment": "逆轉",
+              "start": 1.9,
+              "end": 2.24
+            },
+            {
+              "segment": "了",
+              "start": 2.24,
+              "end": 2.68
+            },
+            {
+              "segment": ",",
+              "start": 2.24,
+              "end": 2.68
+            },
+            {
+              "segment": "結果",
+              "start": 2.68,
+              "end": 3.04
+            },
+            {
+              "segment": "最後一波",
+              "start": 3.04,
+              "end": 3.82
+            },
+            {
+              "segment": "操作",
+              "start": 3.82,
+              "end": 4.22
+            },
+            {
+              "segment": "失誤",
+              "start": 4.22,
+              "end": 4.74
+            },
+            {
+              "segment": ",",
+              "start": 4.42,
+              "end": 4.74
+            },
+            {
+              "segment": "整個",
+              "start": 4.74,
+              "end": 5.26
+            },
+            {
+              "segment": "破大房",
+              "start": 5.26,
+              "end": 5.98
+            },
+            {
+              "segment": ",",
+              "start": 5.66,
+              "end": 5.98
+            },
+            {
+              "segment": "聊天室",
+              "start": 6.26,
+              "end": 6.88
+            },
+            {
+              "segment": "爆炸",
+              "start": 6.88,
+              "end": 7.32
+            },
+            {
+              "segment": "了",
+              "start": 7.32,
+              "end": 7.56
+            },
+            {
+              "segment": "。",
+              "start": 7.32,
+              "end": 7.56
+            }
+          ]
         }
       },
       {
@@ -59,7 +462,74 @@
         "B": {
           "text": "考題超難,最後一題完全不會學當下破大房,差點直接交百卷",
           "segmented": "考題 超難 , 最後一題 完全 不會學 當下 破大房 , 差點 直接 交 百卷",
-          "pinyin_phoneme": "kao3ti2 chao1nan2 , zui4hou4yi1ti2 wan2quan2 bu4hui4xue2 dang1xia4 po4da4fang2 , cha4dian3 zhi2jie1 jiao1 bai3juan3"
+          "pinyin_phoneme": "kao3ti2 chao1nan2 , zui4hou4yi1ti2 wan2quan2 bu4hui4xue2 dang1xia4 po4da4fang2 , cha4dian3 zhi2jie1 jiao1 bai3juan3",
+          "alignments": [
+            {
+              "segment": "考題",
+              "start": 0.0,
+              "end": 0.54
+            },
+            {
+              "segment": "超難",
+              "start": 0.54,
+              "end": 0.98
+            },
+            {
+              "segment": ",",
+              "start": 0.74,
+              "end": 0.98
+            },
+            {
+              "segment": "最後一題",
+              "start": 1.36,
+              "end": 2.02
+            },
+            {
+              "segment": "完全",
+              "start": 2.02,
+              "end": 2.54
+            },
+            {
+              "segment": "不會學",
+              "start": 2.54,
+              "end": 3.52
+            },
+            {
+              "segment": "當下",
+              "start": 3.52,
+              "end": 4.2
+            },
+            {
+              "segment": "破大房",
+              "start": 4.2,
+              "end": 4.96
+            },
+            {
+              "segment": ",",
+              "start": 4.74,
+              "end": 4.96
+            },
+            {
+              "segment": "差點",
+              "start": 5.16,
+              "end": 5.54
+            },
+            {
+              "segment": "直接",
+              "start": 5.54,
+              "end": 5.86
+            },
+            {
+              "segment": "交",
+              "start": 5.86,
+              "end": 6.08
+            },
+            {
+              "segment": "百卷",
+              "start": 6.08,
+              "end": 6.46
+            }
+          ]
         }
       }
     ],
@@ -1003,7 +1473,104 @@
         "B": {
           "text": "有,他居然逃去沖繩玩,完全沒跟我們說,傻抱屁眼。",
           "segmented": "有 , 他 居然 逃去 沖 繩 玩 , 完全 沒 跟 我們 說 , 傻 抱 屁眼 。",
-          "pinyin_phoneme": "you3 , ta1 ju1ran2 tao2qu4 chong1 sheng2 wan2 , wan2quan2 mei2 gen1 wo3men shuo1 , sha3 bao4 pi4yan3 。"
+          "pinyin_phoneme": "you3 , ta1 ju1ran2 tao2qu4 chong1 sheng2 wan2 , wan2quan2 mei2 gen1 wo3men shuo1 , sha3 bao4 pi4yan3 。",
+          "alignments": [
+            {
+              "segment": "有",
+              "start": 0.0,
+              "end": 0.36
+            },
+            {
+              "segment": ",",
+              "start": 0.0,
+              "end": 0.36
+            },
+            {
+              "segment": "他",
+              "start": 0.84,
+              "end": 0.98
+            },
+            {
+              "segment": "居然",
+              "start": 0.98,
+              "end": 1.28
+            },
+            {
+              "segment": "逃去",
+              "start": 1.28,
+              "end": 1.62
+            },
+            {
+              "segment": "沖",
+              "start": 1.62,
+              "end": 1.84
+            },
+            {
+              "segment": "繩",
+              "start": 1.84,
+              "end": 2.02
+            },
+            {
+              "segment": "玩",
+              "start": 2.02,
+              "end": 2.36
+            },
+            {
+              "segment": ",",
+              "start": 2.02,
+              "end": 2.36
+            },
+            {
+              "segment": "完全",
+              "start": 2.58,
+              "end": 2.92
+            },
+            {
+              "segment": "沒",
+              "start": 2.92,
+              "end": 3.18
+            },
+            {
+              "segment": "跟",
+              "start": 3.18,
+              "end": 3.3
+            },
+            {
+              "segment": "我們",
+              "start": 3.3,
+              "end": 3.54
+            },
+            {
+              "segment": "說",
+              "start": 3.54,
+              "end": 3.96
+            },
+            {
+              "segment": ",",
+              "start": 3.54,
+              "end": 3.96
+            },
+            {
+              "segment": "傻",
+              "start": 3.96,
+              "end": 4.36
+            },
+            {
+              "segment": "抱",
+              "start": 4.36,
+              "end": 4.56
+            },
+            {
+              "segment": "屁眼",
+              "start": 4.56,
+              "end": 5.08
+            },
+            {
+              "segment": "。",
+              "start": 4.8,
+              "end": 5.08
+            }
+          ]
         }
       },
       {
@@ -1015,7 +1582,74 @@
         "B": {
           "text": "好,也太慘了吧這情況真的只能說傻包屁眼",
           "segmented": "好 , 也 太慘 了 吧 這情況 真的 只能 說 傻 包 屁眼",
-          "pinyin_phoneme": "hao3 , ye3 tai4can3 le ba zhe4qing2kuang4 zhen1de zhi3neng2 shuo1 sha3 bao1 pi4yan3"
+          "pinyin_phoneme": "hao3 , ye3 tai4can3 le ba zhe4qing2kuang4 zhen1de zhi3neng2 shuo1 sha3 bao1 pi4yan3",
+          "alignments": [
+            {
+              "segment": "好",
+              "start": 0.0,
+              "end": 0.32
+            },
+            {
+              "segment": ",",
+              "start": 0.0,
+              "end": 0.32
+            },
+            {
+              "segment": "也",
+              "start": 0.72,
+              "end": 0.84
+            },
+            {
+              "segment": "太慘",
+              "start": 0.84,
+              "end": 1.3
+            },
+            {
+              "segment": "了",
+              "start": 1.3,
+              "end": 1.68
+            },
+            {
+              "segment": "吧",
+              "start": 1.3,
+              "end": 1.68
+            },
+            {
+              "segment": "這情況",
+              "start": 1.68,
+              "end": 2.6
+            },
+            {
+              "segment": "真的",
+              "start": 2.6,
+              "end": 3.02
+            },
+            {
+              "segment": "只能",
+              "start": 3.02,
+              "end": 3.36
+            },
+            {
+              "segment": "說",
+              "start": 3.36,
+              "end": 3.84
+            },
+            {
+              "segment": "傻",
+              "start": 3.84,
+              "end": 4.16
+            },
+            {
+              "segment": "包",
+              "start": 4.16,
+              "end": 4.3
+            },
+            {
+              "segment": "屁眼",
+              "start": 4.3,
+              "end": 4.82
+            }
+          ]
         }
       },
       {
@@ -1027,7 +1661,74 @@
         "B": {
           "text": "天,這種會議真的傻爆屁眼耶,浪費時間到極點",
           "segmented": "天 , 這種 會議 真的 傻爆 屁眼 耶 , 浪費 時間 到 極點",
-          "pinyin_phoneme": "tian1 , zhe4zhong3 hui4yi4 zhen1de sha3bao4 pi4yan3 ye2 , lang4fei4 shi2jian1 dao4 ji2dian3"
+          "pinyin_phoneme": "tian1 , zhe4zhong3 hui4yi4 zhen1de sha3bao4 pi4yan3 ye2 , lang4fei4 shi2jian1 dao4 ji2dian3",
+          "alignments": [
+            {
+              "segment": "天",
+              "start": 0.0,
+              "end": 0.3
+            },
+            {
+              "segment": ",",
+              "start": 0.0,
+              "end": 0.3
+            },
+            {
+              "segment": "這種",
+              "start": 0.7,
+              "end": 0.92
+            },
+            {
+              "segment": "會議",
+              "start": 0.92,
+              "end": 1.3
+            },
+            {
+              "segment": "真的",
+              "start": 1.3,
+              "end": 1.74
+            },
+            {
+              "segment": "傻爆",
+              "start": 1.74,
+              "end": 2.1
+            },
+            {
+              "segment": "屁眼",
+              "start": 2.1,
+              "end": 2.92
+            },
+            {
+              "segment": "耶",
+              "start": 2.92,
+              "end": 3.04
+            },
+            {
+              "segment": ",",
+              "start": 2.92,
+              "end": 3.04
+            },
+            {
+              "segment": "浪費",
+              "start": 3.44,
+              "end": 3.72
+            },
+            {
+              "segment": "時間",
+              "start": 3.72,
+              "end": 4.02
+            },
+            {
+              "segment": "到",
+              "start": 4.02,
+              "end": 4.22
+            },
+            {
+              "segment": "極點",
+              "start": 4.22,
+              "end": 4.66
+            }
+          ]
         }
       },
       {
@@ -1039,7 +1740,64 @@
         "B": {
           "text": "這運氣也太差了吧真的只能說傻抱屁眼",
           "segmented": "這運氣 也 太差 了 吧 真的 只能 說 傻 抱 屁眼",
-          "pinyin_phoneme": "zhe4yun4qi4 ye3 tai4cha4 le ba zhen1de zhi3neng2 shuo1 sha3 bao4 pi4yan3"
+          "pinyin_phoneme": "zhe4yun4qi4 ye3 tai4cha4 le ba zhen1de zhi3neng2 shuo1 sha3 bao4 pi4yan3",
+          "alignments": [
+            {
+              "segment": "這運氣",
+              "start": 0.0,
+              "end": 0.9
+            },
+            {
+              "segment": "也",
+              "start": 0.9,
+              "end": 1.1
+            },
+            {
+              "segment": "太差",
+              "start": 1.1,
+              "end": 1.56
+            },
+            {
+              "segment": "了",
+              "start": 1.56,
+              "end": 1.84
+            },
+            {
+              "segment": "吧",
+              "start": 1.56,
+              "end": 1.84
+            },
+            {
+              "segment": "真的",
+              "start": 1.84,
+              "end": 2.54
+            },
+            {
+              "segment": "只能",
+              "start": 2.54,
+              "end": 2.94
+            },
+            {
+              "segment": "說",
+              "start": 2.94,
+              "end": 3.3
+            },
+            {
+              "segment": "傻",
+              "start": 3.3,
+              "end": 3.6
+            },
+            {
+              "segment": "抱",
+              "start": 3.6,
+              "end": 3.74
+            },
+            {
+              "segment": "屁眼",
+              "start": 3.74,
+              "end": 4.14
+            }
+          ]
         }
       },
       {
@@ -1051,7 +1809,74 @@
         "B": {
           "text": "哈,這真的會氣盪傻包披眼排那麼久,根本白費",
           "segmented": "哈 , 這 真的 會氣盪 傻 包披 眼排 那麼 久 , 根本 白費",
-          "pinyin_phoneme": "ha1 , zhe4 zhen1de hui4qi4dang4 sha3 bao1pi1 yan3pai2 na4me jiu3 , gen1ben3 bai2fei4"
+          "pinyin_phoneme": "ha1 , zhe4 zhen1de hui4qi4dang4 sha3 bao1pi1 yan3pai2 na4me jiu3 , gen1ben3 bai2fei4",
+          "alignments": [
+            {
+              "segment": "哈",
+              "start": 0.0,
+              "end": 0.44
+            },
+            {
+              "segment": ",",
+              "start": 0.0,
+              "end": 0.44
+            },
+            {
+              "segment": "這",
+              "start": 0.8,
+              "end": 0.86
+            },
+            {
+              "segment": "真的",
+              "start": 0.86,
+              "end": 1.12
+            },
+            {
+              "segment": "會氣盪",
+              "start": 1.12,
+              "end": 1.62
+            },
+            {
+              "segment": "傻",
+              "start": 1.62,
+              "end": 1.98
+            },
+            {
+              "segment": "包披",
+              "start": 1.98,
+              "end": 2.28
+            },
+            {
+              "segment": "眼排",
+              "start": 2.28,
+              "end": 3.14
+            },
+            {
+              "segment": "那麼",
+              "start": 3.14,
+              "end": 3.36
+            },
+            {
+              "segment": "久",
+              "start": 3.36,
+              "end": 3.7
+            },
+            {
+              "segment": ",",
+              "start": 3.36,
+              "end": 3.7
+            },
+            {
+              "segment": "根本",
+              "start": 3.84,
+              "end": 4.32
+            },
+            {
+              "segment": "白費",
+              "start": 4.32,
+              "end": 4.74
+            }
+          ]
         }
       }
     ],
@@ -1900,7 +2725,69 @@
         "B": {
           "text": "哪有出去?我可是專業肥宅我家裡打了一整天手遊",
           "segmented": "哪有 出去 ? 我 可是 專業 肥宅 我家 裡打 了 一整天 手遊",
-          "pinyin_phoneme": "na3you3 chu1qu4 ? wo3 ke3shi4 zhuan1ye4 fei2zhai2 wo3jia1 li3da3 le yi1zheng3tian1 shou3you2"
+          "pinyin_phoneme": "na3you3 chu1qu4 ? wo3 ke3shi4 zhuan1ye4 fei2zhai2 wo3jia1 li3da3 le yi1zheng3tian1 shou3you2",
+          "alignments": [
+            {
+              "segment": "哪有",
+              "start": 0.0,
+              "end": 0.44
+            },
+            {
+              "segment": "出去",
+              "start": 0.44,
+              "end": 0.76
+            },
+            {
+              "segment": "?",
+              "start": 0.44,
+              "end": 0.76
+            },
+            {
+              "segment": "我",
+              "start": 0.44,
+              "end": 1.26
+            },
+            {
+              "segment": "可是",
+              "start": 1.12,
+              "end": 1.48
+            },
+            {
+              "segment": "專業",
+              "start": 1.12,
+              "end": 1.86
+            },
+            {
+              "segment": "肥宅",
+              "start": 1.86,
+              "end": 2.28
+            },
+            {
+              "segment": "我家",
+              "start": 2.28,
+              "end": 3.0
+            },
+            {
+              "segment": "裡打",
+              "start": 3.0,
+              "end": 3.48
+            },
+            {
+              "segment": "了",
+              "start": 3.48,
+              "end": 3.6
+            },
+            {
+              "segment": "一整天",
+              "start": 3.6,
+              "end": 4.06
+            },
+            {
+              "segment": "手遊",
+              "start": 4.06,
+              "end": 4.38
+            }
+          ]
         }
       },
       {
@@ -1912,7 +2799,69 @@
         "B": {
           "text": "出門肥宅不需要陽光外減發才是我的生命之光",
           "segmented": "出門 肥宅 不 需要 陽光外 減發 才 是 我 的 生命 之光",
-          "pinyin_phoneme": "chu1men2 fei2zhai2 bu4 xu1yao4 yang2guang1wai4 jian3fa1 cai2 shi4 wo3 de sheng1ming4 zhi1guang1"
+          "pinyin_phoneme": "chu1men2 fei2zhai2 bu4 xu1yao4 yang2guang1wai4 jian3fa1 cai2 shi4 wo3 de sheng1ming4 zhi1guang1",
+          "alignments": [
+            {
+              "segment": "出門",
+              "start": 0.0,
+              "end": 0.7
+            },
+            {
+              "segment": "肥宅",
+              "start": 0.7,
+              "end": 1.46
+            },
+            {
+              "segment": "不",
+              "start": 1.46,
+              "end": 1.78
+            },
+            {
+              "segment": "需要",
+              "start": 1.78,
+              "end": 2.02
+            },
+            {
+              "segment": "陽光外",
+              "start": 2.02,
+              "end": 3.2
+            },
+            {
+              "segment": "減發",
+              "start": 3.2,
+              "end": 3.84
+            },
+            {
+              "segment": "才",
+              "start": 3.84,
+              "end": 4.16
+            },
+            {
+              "segment": "是",
+              "start": 4.16,
+              "end": 4.3
+            },
+            {
+              "segment": "我",
+              "start": 4.3,
+              "end": 4.52
+            },
+            {
+              "segment": "的",
+              "start": 4.3,
+              "end": 4.52
+            },
+            {
+              "segment": "生命",
+              "start": 4.52,
+              "end": 4.82
+            },
+            {
+              "segment": "之光",
+              "start": 4.82,
+              "end": 5.18
+            }
+          ]
         }
       },
       {
@@ -1924,7 +2873,94 @@
         "B": {
           "text": "我的計劃是宅在家裡只玩三不翻身為肥宅這才是完美假期",
           "segmented": "我 的 計劃 是 宅 在家 裡只 玩 三 不 翻身 為 肥宅 這才 是 完美 假期",
-          "pinyin_phoneme": "wo3 de ji4hua4 shi4 zhai2 zai4jia1 li3zhi3 wan2 san1 bu4 fan1shen1 wei4 fei2zhai2 zhe4cai2 shi4 wan2mei3 jia4qi1"
+          "pinyin_phoneme": "wo3 de ji4hua4 shi4 zhai2 zai4jia1 li3zhi3 wan2 san1 bu4 fan1shen1 wei4 fei2zhai2 zhe4cai2 shi4 wan2mei3 jia4qi1",
+          "alignments": [
+            {
+              "segment": "我",
+              "start": 0.0,
+              "end": 0.4
+            },
+            {
+              "segment": "的",
+              "start": 0.0,
+              "end": 0.4
+            },
+            {
+              "segment": "計劃",
+              "start": 0.4,
+              "end": 0.72
+            },
+            {
+              "segment": "是",
+              "start": 0.72,
+              "end": 0.98
+            },
+            {
+              "segment": "宅",
+              "start": 0.98,
+              "end": 1.1
+            },
+            {
+              "segment": "在家",
+              "start": 1.1,
+              "end": 1.6
+            },
+            {
+              "segment": "裡只",
+              "start": 1.6,
+              "end": 2.38
+            },
+            {
+              "segment": "玩",
+              "start": 2.38,
+              "end": 2.54
+            },
+            {
+              "segment": "三",
+              "start": 2.54,
+              "end": 2.8
+            },
+            {
+              "segment": "不",
+              "start": 2.8,
+              "end": 2.96
+            },
+            {
+              "segment": "翻身",
+              "start": 2.96,
+              "end": 3.64
+            },
+            {
+              "segment": "為",
+              "start": 3.64,
+              "end": 3.8
+            },
+            {
+              "segment": "肥宅",
+              "start": 3.8,
+              "end": 4.46
+            },
+            {
+              "segment": "這才",
+              "start": 4.46,
+              "end": 5.18
+            },
+            {
+              "segment": "是",
+              "start": 5.18,
+              "end": 5.34
+            },
+            {
+              "segment": "完美",
+              "start": 5.34,
+              "end": 5.68
+            },
+            {
+              "segment": "假期",
+              "start": 5.68,
+              "end": 6.14
+            }
+          ]
         }
       },
       {
@@ -1936,7 +2972,99 @@
         "B": {
           "text": "血腰肥宅運動就是滑鼠,扁肌和鍵盤敲肌,跑步不在技能樹上。",
           "segmented": "血腰 肥宅 運動 就是 滑鼠 , 扁 肌和鍵 盤 敲 肌 , 跑步 不 在 技能 樹上 。",
-          "pinyin_phoneme": "xue4yao1 fei2zhai2 yun4dong4 jiu4shi4 hua2shu3 , bian3 ji1he2jian4 pan2 qiao1 ji1 , pao3bu4 bu4 zai4 ji4neng2 shu4shang4 。"
+          "pinyin_phoneme": "xue4yao1 fei2zhai2 yun4dong4 jiu4shi4 hua2shu3 , bian3 ji1he2jian4 pan2 qiao1 ji1 , pao3bu4 bu4 zai4 ji4neng2 shu4shang4 。",
+          "alignments": [
+            {
+              "segment": "血腰",
+              "start": 0.0,
+              "end": 0.74
+            },
+            {
+              "segment": "肥宅",
+              "start": 0.74,
+              "end": 1.36
+            },
+            {
+              "segment": "運動",
+              "start": 1.36,
+              "end": 1.74
+            },
+            {
+              "segment": "就是",
+              "start": 1.74,
+              "end": 2.12
+            },
+            {
+              "segment": "滑鼠",
+              "start": 2.12,
+              "end": 2.9
+            },
+            {
+              "segment": ",",
+              "start": 2.36,
+              "end": 2.9
+            },
+            {
+              "segment": "扁",
+              "start": 2.96,
+              "end": 3.22
+            },
+            {
+              "segment": "肌和鍵",
+              "start": 3.22,
+              "end": 3.9
+            },
+            {
+              "segment": "盤",
+              "start": 3.9,
+              "end": 4.06
+            },
+            {
+              "segment": "敲",
+              "start": 4.06,
+              "end": 4.3
+            },
+            {
+              "segment": "肌",
+              "start": 4.3,
+              "end": 4.84
+            },
+            {
+              "segment": ",",
+              "start": 4.3,
+              "end": 4.84
+            },
+            {
+              "segment": "跑步",
+              "start": 4.84,
+              "end": 5.46
+            },
+            {
+              "segment": "不",
+              "start": 5.46,
+              "end": 5.8
+            },
+            {
+              "segment": "在",
+              "start": 5.8,
+              "end": 5.98
+            },
+            {
+              "segment": "技能",
+              "start": 5.98,
+              "end": 6.2
+            },
+            {
+              "segment": "樹上",
+              "start": 6.2,
+              "end": 6.6
+            },
+            {
+              "segment": "。",
+              "start": 6.38,
+              "end": 6.6
+            }
+          ]
         }
       },
       {
@@ -1948,7 +3076,69 @@
         "B": {
           "text": "當然有,肥宅的本質就是追翻,一級不辣。",
           "segmented": "當然 有 , 肥宅 的 本質 就是 追翻 , 一級 不辣 。",
-          "pinyin_phoneme": "dang1ran2 you3 , fei2zhai2 de ben3zhi4 jiu4shi4 zhui1fan1 , yi1ji2 bu4la4 。"
+          "pinyin_phoneme": "dang1ran2 you3 , fei2zhai2 de ben3zhi4 jiu4shi4 zhui1fan1 , yi1ji2 bu4la4 。",
+          "alignments": [
+            {
+              "segment": "當然",
+              "start": 0.0,
+              "end": 0.38
+            },
+            {
+              "segment": "有",
+              "start": 0.38,
+              "end": 0.88
+            },
+            {
+              "segment": ",",
+              "start": 0.38,
+              "end": 0.88
+            },
+            {
+              "segment": "肥宅",
+              "start": 1.34,
+              "end": 1.64
+            },
+            {
+              "segment": "的",
+              "start": 1.64,
+              "end": 1.78
+            },
+            {
+              "segment": "本質",
+              "start": 1.78,
+              "end": 2.2
+            },
+            {
+              "segment": "就是",
+              "start": 2.2,
+              "end": 2.64
+            },
+            {
+              "segment": "追翻",
+              "start": 2.64,
+              "end": 3.24
+            },
+            {
+              "segment": ",",
+              "start": 2.88,
+              "end": 3.24
+            },
+            {
+              "segment": "一級",
+              "start": 3.3,
+              "end": 3.74
+            },
+            {
+              "segment": "不辣",
+              "start": 3.74,
+              "end": 4.1
+            },
+            {
+              "segment": "。",
+              "start": 3.92,
+              "end": 4.1
+            }
+          ]
         }
       }
     ],
@@ -2752,7 +3942,74 @@
         "B": {
           "text": "最近找工作一直碰壁覺得自己根本就是個魯蛇哪有心情玩",
           "segmented": "最近 找 工作 一直 碰壁 覺得 自己 根本就是 個魯蛇 哪 有 心情 玩",
-          "pinyin_phoneme": "zui4jin4 zhao3 gong1zuo4 yi4zhi2 peng4bi4 jue2de2 zi4ji3 gen1ben3jiu4shi4 ge4lu3she2 na3 you3 xin1qing2 wan2"
+          "pinyin_phoneme": "zui4jin4 zhao3 gong1zuo4 yi4zhi2 peng4bi4 jue2de2 zi4ji3 gen1ben3jiu4shi4 ge4lu3she2 na3 you3 xin1qing2 wan2",
+          "alignments": [
+            {
+              "segment": "最近",
+              "start": 0.6199999999999994,
+              "end": 1.22
+            },
+            {
+              "segment": "找",
+              "start": 1.22,
+              "end": 1.54
+            },
+            {
+              "segment": "工作",
+              "start": 1.54,
+              "end": 1.88
+            },
+            {
+              "segment": "一直",
+              "start": 1.88,
+              "end": 2.42
+            },
+            {
+              "segment": "碰壁",
+              "start": 2.42,
+              "end": 3.08
+            },
+            {
+              "segment": "覺得",
+              "start": 3.08,
+              "end": 3.44
+            },
+            {
+              "segment": "自己",
+              "start": 3.44,
+              "end": 3.74
+            },
+            {
+              "segment": "根本就是",
+              "start": 3.74,
+              "end": 4.48
+            },
+            {
+              "segment": "個魯蛇",
+              "start": 4.48,
+              "end": 5.3
+            },
+            {
+              "segment": "哪",
+              "start": 5.3,
+              "end": 5.62
+            },
+            {
+              "segment": "有",
+              "start": 5.62,
+              "end": 5.82
+            },
+            {
+              "segment": "心情",
+              "start": 5.82,
+              "end": 6.16
+            },
+            {
+              "segment": "玩",
+              "start": 6.16,
+              "end": 6.36
+            }
+          ]
         }
       },
       {
@@ -2764,7 +4021,79 @@
         "B": {
           "text": "別提了,薪水少得可憐,根本魯蛇打工仔還要天天加班。",
           "segmented": "別提 了 , 薪水 少得 可憐 , 根本 魯蛇 打工仔 還要 天天 加班 。",
-          "pinyin_phoneme": "bie2ti2 le , xin1shui3 shao3de2 ke3lian2 , gen1ben3 lu3she2 da3gong1zai3 hai2yao4 tian1tian1 jia1ban1 。"
+          "pinyin_phoneme": "bie2ti2 le , xin1shui3 shao3de2 ke3lian2 , gen1ben3 lu3she2 da3gong1zai3 hai2yao4 tian1tian1 jia1ban1 。",
+          "alignments": [
+            {
+              "segment": "別提",
+              "start": 0.0,
+              "end": 0.72
+            },
+            {
+              "segment": "了",
+              "start": 0.72,
+              "end": 1.36
+            },
+            {
+              "segment": ",",
+              "start": 0.72,
+              "end": 1.36
+            },
+            {
+              "segment": "薪水",
+              "start": 1.44,
+              "end": 1.74
+            },
+            {
+              "segment": "少得",
+              "start": 1.74,
+              "end": 2.02
+            },
+            {
+              "segment": "可憐",
+              "start": 2.02,
+              "end": 2.4
+            },
+            {
+              "segment": ",",
+              "start": 2.2,
+              "end": 2.4
+            },
+            {
+              "segment": "根本",
+              "start": 2.56,
+              "end": 3.32
+            },
+            {
+              "segment": "魯蛇",
+              "start": 3.32,
+              "end": 3.86
+            },
+            {
+              "segment": "打工仔",
+              "start": 3.86,
+              "end": 4.74
+            },
+            {
+              "segment": "還要",
+              "start": 4.74,
+              "end": 5.2
+            },
+            {
+              "segment": "天天",
+              "start": 5.2,
+              "end": 5.52
+            },
+            {
+              "segment": "加班",
+              "start": 5.52,
+              "end": 5.88
+            },
+            {
+              "segment": "。",
+              "start": 5.66,
+              "end": 5.88
+            }
+          ]
         }
       },
       {
@@ -2776,7 +4105,79 @@
         "B": {
           "text": "人家早就交了男朋友,我這個魯蛇只能當工具人罷了。",
           "segmented": "人家 早就 交了 男朋友 , 我 這個 魯蛇 只能 當 工具 人罷 了 。",
-          "pinyin_phoneme": "ren2jia1 zao3jiu4 jiao1le nan2peng2you3 , wo3 zhe4ge4 lu3she2 zhi3neng2 dang1 gong1ju4 ren2ba4 le 。"
+          "pinyin_phoneme": "ren2jia1 zao3jiu4 jiao1le nan2peng2you3 , wo3 zhe4ge4 lu3she2 zhi3neng2 dang1 gong1ju4 ren2ba4 le 。",
+          "alignments": [
+            {
+              "segment": "人家",
+              "start": 0.0,
+              "end": 0.8
+            },
+            {
+              "segment": "早就",
+              "start": 0.8,
+              "end": 1.32
+            },
+            {
+              "segment": "交了",
+              "start": 1.32,
+              "end": 1.6
+            },
+            {
+              "segment": "男朋友",
+              "start": 1.6,
+              "end": 2.12
+            },
+            {
+              "segment": ",",
+              "start": 1.74,
+              "end": 2.12
+            },
+            {
+              "segment": "我",
+              "start": 1.74,
+              "end": 2.7
+            },
+            {
+              "segment": "這個",
+              "start": 2.46,
+              "end": 2.94
+            },
+            {
+              "segment": "魯蛇",
+              "start": 2.46,
+              "end": 3.36
+            },
+            {
+              "segment": "只能",
+              "start": 3.36,
+              "end": 3.84
+            },
+            {
+              "segment": "當",
+              "start": 3.84,
+              "end": 4.04
+            },
+            {
+              "segment": "工具",
+              "start": 4.04,
+              "end": 4.36
+            },
+            {
+              "segment": "人罷",
+              "start": 4.36,
+              "end": 4.68
+            },
+            {
+              "segment": "了",
+              "start": 4.68,
+              "end": 4.9
+            },
+            {
+              "segment": "。",
+              "start": 4.68,
+              "end": 4.9
+            }
+          ]
         }
       },
       {
@@ -2788,7 +4189,74 @@
         "B": {
           "text": "投什麼?我這個魯蛇薪水都不夠付房租,還投資?",
           "segmented": "投什麼 ? 我 這個 魯蛇 薪水 都 不夠 付 房租 , 還投資 ?",
-          "pinyin_phoneme": "tou2shen2me ? wo3 zhe4ge4 lu3she2 xin1shui3 dou1 bu4gou4 fu4 fang2zu1 , hai2tou2zi1 ?"
+          "pinyin_phoneme": "tou2shen2me ? wo3 zhe4ge4 lu3she2 xin1shui3 dou1 bu4gou4 fu4 fang2zu1 , hai2tou2zi1 ?",
+          "alignments": [
+            {
+              "segment": "投什麼",
+              "start": 0.0,
+              "end": 0.76
+            },
+            {
+              "segment": "?",
+              "start": 0.42,
+              "end": 0.76
+            },
+            {
+              "segment": "我",
+              "start": 0.42,
+              "end": 1.28
+            },
+            {
+              "segment": "這個",
+              "start": 1.18,
+              "end": 1.48
+            },
+            {
+              "segment": "魯蛇",
+              "start": 1.18,
+              "end": 1.86
+            },
+            {
+              "segment": "薪水",
+              "start": 1.86,
+              "end": 2.5
+            },
+            {
+              "segment": "都",
+              "start": 2.5,
+              "end": 2.68
+            },
+            {
+              "segment": "不夠",
+              "start": 2.68,
+              "end": 2.94
+            },
+            {
+              "segment": "付",
+              "start": 2.94,
+              "end": 3.08
+            },
+            {
+              "segment": "房租",
+              "start": 3.08,
+              "end": 3.48
+            },
+            {
+              "segment": ",",
+              "start": 3.26,
+              "end": 3.48
+            },
+            {
+              "segment": "還投資",
+              "start": 3.66,
+              "end": 4.3
+            },
+            {
+              "segment": "?",
+              "start": 4.1,
+              "end": 4.3
+            }
+          ]
         }
       },
       {
@@ -2800,7 +4268,89 @@
         "B": {
           "text": "魯蛇的娛樂不就是我在家打遊戲,總比出門被現實打臉好。",
           "segmented": "魯蛇 的 娛樂 不 就是 我 在家 打遊戲 , 總比 出門 被 現實 打臉 好 。",
-          "pinyin_phoneme": "lu3she2 de yu2le4 bu4 jiu4shi4 wo3 zai4jia1 da3you2xi4 , zong3bi3 chu1men2 bei4 xian4shi2 da3lian3 hao3 。"
+          "pinyin_phoneme": "lu3she2 de yu2le4 bu4 jiu4shi4 wo3 zai4jia1 da3you2xi4 , zong3bi3 chu1men2 bei4 xian4shi2 da3lian3 hao3 。",
+          "alignments": [
+            {
+              "segment": "魯蛇",
+              "start": 0.0,
+              "end": 1.14
+            },
+            {
+              "segment": "的",
+              "start": 1.14,
+              "end": 1.26
+            },
+            {
+              "segment": "娛樂",
+              "start": 1.26,
+              "end": 1.58
+            },
+            {
+              "segment": "不",
+              "start": 1.58,
+              "end": 1.96
+            },
+            {
+              "segment": "就是",
+              "start": 1.96,
+              "end": 2.34
+            },
+            {
+              "segment": "我",
+              "start": 2.34,
+              "end": 2.62
+            },
+            {
+              "segment": "在家",
+              "start": 2.34,
+              "end": 2.86
+            },
+            {
+              "segment": "打遊戲",
+              "start": 2.86,
+              "end": 3.38
+            },
+            {
+              "segment": ",",
+              "start": 3.0,
+              "end": 3.38
+            },
+            {
+              "segment": "總比",
+              "start": 3.0,
+              "end": 4.4
+            },
+            {
+              "segment": "出門",
+              "start": 4.16,
+              "end": 4.98
+            },
+            {
+              "segment": "被",
+              "start": 4.16,
+              "end": 5.18
+            },
+            {
+              "segment": "現實",
+              "start": 4.4,
+              "end": 5.5
+            },
+            {
+              "segment": "打臉",
+              "start": 5.38,
+              "end": 5.9
+            },
+            {
+              "segment": "好",
+              "start": 5.38,
+              "end": 6.22
+            },
+            {
+              "segment": "。",
+              "start": 5.38,
+              "end": 6.22
+            }
+          ]
         }
       }
     ],
@@ -3634,7 +5184,84 @@
         "B": {
           "text": "我拿了第一名,直接當場被主持人稱作本場的溫拿。",
           "segmented": "我 拿 了 第一名 , 直接 當場 被 主持人 稱作 本場 的 溫 拿 。",
-          "pinyin_phoneme": "wo3 na2 le di4yi4ming2 , zhi2jie1 dang1chang3 bei4 zhu3chi2ren2 cheng1zuo4 ben3chang3 de wen1 na2 。"
+          "pinyin_phoneme": "wo3 na2 le di4yi4ming2 , zhi2jie1 dang1chang3 bei4 zhu3chi2ren2 cheng1zuo4 ben3chang3 de wen1 na2 。",
+          "alignments": [
+            {
+              "segment": "我",
+              "start": 0.0,
+              "end": 0.22
+            },
+            {
+              "segment": "拿",
+              "start": 0.22,
+              "end": 0.36
+            },
+            {
+              "segment": "了",
+              "start": 0.36,
+              "end": 0.5
+            },
+            {
+              "segment": "第一名",
+              "start": 0.5,
+              "end": 1.26
+            },
+            {
+              "segment": ",",
+              "start": 0.7,
+              "end": 1.26
+            },
+            {
+              "segment": "直接",
+              "start": 1.38,
+              "end": 1.56
+            },
+            {
+              "segment": "當場",
+              "start": 1.56,
+              "end": 2.06
+            },
+            {
+              "segment": "被",
+              "start": 2.06,
+              "end": 2.42
+            },
+            {
+              "segment": "主持人",
+              "start": 2.42,
+              "end": 2.88
+            },
+            {
+              "segment": "稱作",
+              "start": 2.88,
+              "end": 3.46
+            },
+            {
+              "segment": "本場",
+              "start": 3.46,
+              "end": 3.92
+            },
+            {
+              "segment": "的",
+              "start": 3.92,
+              "end": 4.06
+            },
+            {
+              "segment": "溫",
+              "start": 4.06,
+              "end": 4.24
+            },
+            {
+              "segment": "拿",
+              "start": 4.24,
+              "end": 4.44
+            },
+            {
+              "segment": "。",
+              "start": 4.24,
+              "end": 4.44
+            }
+          ]
         }
       },
       {
@@ -3646,7 +5273,89 @@
         "B": {
           "text": "我們成功拿下大案子了主管還說我們團隊是這次競標的最大溫拿",
           "segmented": "我們 成功 拿下 大 案子 了 主管 還說 我們 團隊 是 這次 競標 的 最大 溫拿",
-          "pinyin_phoneme": "wo3men cheng2gong1 na2xia4 da4 an4zi le zhu3guan3 hai2shuo1 wo3men tuan2dui4 shi4 zhe4ci4 jing4biao1 de zui4da4 wen1na2"
+          "pinyin_phoneme": "wo3men cheng2gong1 na2xia4 da4 an4zi le zhu3guan3 hai2shuo1 wo3men tuan2dui4 shi4 zhe4ci4 jing4biao1 de zui4da4 wen1na2",
+          "alignments": [
+            {
+              "segment": "我們",
+              "start": 0.0,
+              "end": 0.58
+            },
+            {
+              "segment": "成功",
+              "start": 0.58,
+              "end": 1.02
+            },
+            {
+              "segment": "拿下",
+              "start": 1.02,
+              "end": 1.3
+            },
+            {
+              "segment": "大",
+              "start": 1.3,
+              "end": 1.48
+            },
+            {
+              "segment": "案子",
+              "start": 1.48,
+              "end": 1.78
+            },
+            {
+              "segment": "了",
+              "start": 1.78,
+              "end": 2.08
+            },
+            {
+              "segment": "主管",
+              "start": 2.08,
+              "end": 2.68
+            },
+            {
+              "segment": "還說",
+              "start": 2.68,
+              "end": 3.34
+            },
+            {
+              "segment": "我們",
+              "start": 3.34,
+              "end": 3.7
+            },
+            {
+              "segment": "團隊",
+              "start": 3.7,
+              "end": 4.22
+            },
+            {
+              "segment": "是",
+              "start": 4.22,
+              "end": 4.46
+            },
+            {
+              "segment": "這次",
+              "start": 4.46,
+              "end": 4.74
+            },
+            {
+              "segment": "競標",
+              "start": 4.74,
+              "end": 5.04
+            },
+            {
+              "segment": "的",
+              "start": 5.04,
+              "end": 5.36
+            },
+            {
+              "segment": "最大",
+              "start": 5.36,
+              "end": 5.78
+            },
+            {
+              "segment": "溫拿",
+              "start": 5.78,
+              "end": 6.16
+            }
+          ]
         }
       },
       {
@@ -3658,7 +5367,84 @@
         "B": {
           "text": "哈哈 靠助手速 成為購票系統的溫拿不然 早就被搶光了",
           "segmented": "哈哈   靠 助手 速   成為 購票 系統 的 溫 拿 不然   早就 被 搶光 了",
-          "pinyin_phoneme": "ha1ha1 kao4 zhu4shou3 su4 cheng2wei4 gou4piao4 xi4tong3 de wen1 na2 bu4ran2 zao3jiu4 bei4 qiang3guang1 le"
+          "pinyin_phoneme": "ha1ha1 kao4 zhu4shou3 su4 cheng2wei4 gou4piao4 xi4tong3 de wen1 na2 bu4ran2 zao3jiu4 bei4 qiang3guang1 le",
+          "alignments": [
+            {
+              "segment": "哈哈",
+              "start": 0.0,
+              "end": 0.36
+            },
+            {
+              "segment": "靠",
+              "start": 1.0,
+              "end": 1.0
+            },
+            {
+              "segment": "助手",
+              "start": 1.0,
+              "end": 1.46
+            },
+            {
+              "segment": "速",
+              "start": 1.24,
+              "end": 1.62
+            },
+            {
+              "segment": "成為",
+              "start": 1.96,
+              "end": 2.12
+            },
+            {
+              "segment": "購票",
+              "start": 2.0,
+              "end": 2.44
+            },
+            {
+              "segment": "系統",
+              "start": 2.44,
+              "end": 2.76
+            },
+            {
+              "segment": "的",
+              "start": 2.76,
+              "end": 2.88
+            },
+            {
+              "segment": "溫",
+              "start": 2.88,
+              "end": 3.04
+            },
+            {
+              "segment": "拿",
+              "start": 3.04,
+              "end": 3.22
+            },
+            {
+              "segment": "不然",
+              "start": 3.22,
+              "end": 3.92
+            },
+            {
+              "segment": "早就",
+              "start": 4.2,
+              "end": 4.44
+            },
+            {
+              "segment": "被",
+              "start": 4.28,
+              "end": 4.58
+            },
+            {
+              "segment": "搶光",
+              "start": 4.58,
+              "end": 4.98
+            },
+            {
+              "segment": "了",
+              "start": 4.98,
+              "end": 5.14
+            }
+          ]
         }
       },
       {
@@ -3670,7 +5456,84 @@
         "B": {
           "text": "參加了而且我居然中了直接被朋友封為抽獎界的溫拿",
           "segmented": "參加 了 而且 我 居然 中 了 直接 被 朋友 封為 抽獎界 的 溫 拿",
-          "pinyin_phoneme": "can1jia1 le er2qie3 wo3 ju1ran2 zhong1 le zhi2jie1 bei4 peng2you3 feng1wei4 chou1jiang3jie4 de wen1 na2"
+          "pinyin_phoneme": "can1jia1 le er2qie3 wo3 ju1ran2 zhong1 le zhi2jie1 bei4 peng2you3 feng1wei4 chou1jiang3jie4 de wen1 na2",
+          "alignments": [
+            {
+              "segment": "參加",
+              "start": 0.0,
+              "end": 0.54
+            },
+            {
+              "segment": "了",
+              "start": 0.54,
+              "end": 1.0
+            },
+            {
+              "segment": "而且",
+              "start": 1.0,
+              "end": 1.48
+            },
+            {
+              "segment": "我",
+              "start": 1.48,
+              "end": 1.9
+            },
+            {
+              "segment": "居然",
+              "start": 1.9,
+              "end": 2.14
+            },
+            {
+              "segment": "中",
+              "start": 2.14,
+              "end": 2.34
+            },
+            {
+              "segment": "了",
+              "start": 2.34,
+              "end": 2.92
+            },
+            {
+              "segment": "直接",
+              "start": 2.92,
+              "end": 3.34
+            },
+            {
+              "segment": "被",
+              "start": 3.34,
+              "end": 3.48
+            },
+            {
+              "segment": "朋友",
+              "start": 3.48,
+              "end": 3.92
+            },
+            {
+              "segment": "封為",
+              "start": 3.92,
+              "end": 4.42
+            },
+            {
+              "segment": "抽獎界",
+              "start": 4.42,
+              "end": 4.96
+            },
+            {
+              "segment": "的",
+              "start": 4.96,
+              "end": 5.18
+            },
+            {
+              "segment": "溫",
+              "start": 5.18,
+              "end": 5.4
+            },
+            {
+              "segment": "拿",
+              "start": 5.4,
+              "end": 5.62
+            }
+          ]
         }
       },
       {
@@ -3682,7 +5545,74 @@
         "B": {
           "text": "拿到了全A無誤這學期我真的是學霸界的溫拿",
           "segmented": "拿到 了 全 A 無誤 這學期 我 真的 是 學霸界 的 溫 拿",
-          "pinyin_phoneme": "na2dao4 le quan2 A wu2wu4 zhe4xue2qi1 wo3 zhen1de shi4 xue2ba4jie4 de wen1 na2"
+          "pinyin_phoneme": "na2dao4 le quan2 A wu2wu4 zhe4xue2qi1 wo3 zhen1de shi4 xue2ba4jie4 de wen1 na2",
+          "alignments": [
+            {
+              "segment": "拿到",
+              "start": 0.0,
+              "end": 1.02
+            },
+            {
+              "segment": "了",
+              "start": 0.68,
+              "end": 1.02
+            },
+            {
+              "segment": "全",
+              "start": 1.02,
+              "end": 1.54
+            },
+            {
+              "segment": "A",
+              "start": 1.54,
+              "end": 1.84
+            },
+            {
+              "segment": "無誤",
+              "start": 1.84,
+              "end": 2.58
+            },
+            {
+              "segment": "這學期",
+              "start": 2.58,
+              "end": 3.3
+            },
+            {
+              "segment": "我",
+              "start": 3.3,
+              "end": 3.7
+            },
+            {
+              "segment": "真的",
+              "start": 3.7,
+              "end": 4.08
+            },
+            {
+              "segment": "是",
+              "start": 3.7,
+              "end": 4.08
+            },
+            {
+              "segment": "學霸界",
+              "start": 3.7,
+              "end": 4.6
+            },
+            {
+              "segment": "的",
+              "start": 4.46,
+              "end": 4.74
+            },
+            {
+              "segment": "溫",
+              "start": 4.46,
+              "end": 4.88
+            },
+            {
+              "segment": "拿",
+              "start": 4.46,
+              "end": 5.06
+            }
+          ]
         }
       }
     ],
