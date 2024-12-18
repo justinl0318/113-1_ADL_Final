@@ -1,3 +1,7 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 from transformers import ClapModel, ClapProcessor, AutoTokenizer
 from datasets import Dataset, Audio
 from typing import Optional, Union, cast

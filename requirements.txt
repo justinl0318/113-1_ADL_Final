@@ -16,3 +16,6 @@ pydub
 datasets
 chromadb
 accelerate
+pysqlite3-binary
+librosa
+soundfile
