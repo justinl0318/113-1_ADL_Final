@@ -1,5 +1,5 @@
 from transformers import ClapModel, ClapProcessor, AutoTokenizer
-from datasets import load_dataset, Dataset, Audio
+from datasets import Dataset, Audio
 from typing import Optional, Union, cast
 import json
 import pandas as pd
@@ -12,7 +12,6 @@ from chromadb.api.types import (
     EmbeddingFunction,
     Embeddings,
 )
-
 
 class CLAPEmbeddingFunction(EmbeddingFunction[Union[Documents, Documents]]):
     def __init__(
@@ -58,10 +57,10 @@ class Chromadb:
         chroma_client = chromadb.Client()
         embedding_function = CLAPEmbeddingFunction()
         self.collection = chroma_client.get_or_create_collection(name="audio_text_collection", embedding_function=embedding_function)
-        self.df = pd.read_csv('adl_dataset/活網用語辭典.csv')
+        self.df = pd.read_csv('../raw_dataset/活網用語辭典.csv')
     
     def store_text(self):
-        path_to_data = 'adl_dataset/concat_data.json'
+        path_to_data = '../raw_dataset/audio.json'
         
         with open(path_to_data, 'r') as f:
             data = json.load(f)
@@ -69,22 +68,16 @@ class Chromadb:
         items = []    
         ids = []
         for i in range(len(data)):
-            items.append(data[i]['concat_text'])
+            items.append(data[i]['word'])
             ids.append(str(i))
 
-        # items = []
-        # ids = []
-        # for i in range(len(self.df)):
-        #     items.append(self.df.loc[i]['詞彙'])
-        #     ids.append(str(i))
-        
         self.collection.add(
             documents=items,
             ids=ids
         )
         
     def store_audio(self):
-        path_to_data = 'adl_dataset/concat_data.json'
+        path_to_data = '../raw_dataset/audio.json'
         
         with open(path_to_data, 'r') as f:
             data = json.load(f)
@@ -92,9 +85,9 @@ class Chromadb:
         items = []    
         ids = []
         for i in range(len(data)):
-            items.append('adl_dataset/' + data[i]['concat_audio_path'])
+            items.append('../raw_dataset/' + data[i]['word_audio_path'])
             ids.append(str(i))
-        
+
         self.collection.add(
             documents=items,
             ids=ids
@@ -115,33 +108,68 @@ class Chromadb:
         return results
 
 def query_text(db, k):
-    with open('adl_dataset/keyword_query.json', 'r') as f:
+    with open('keyword_query_gemini.json', 'r') as f:
         data = json.load(f)
-    correct = 0
+    
+    for i in range(len(data)):
+        if i % 20 == 0:
+            print(i)
+        for j in range(len(data[i]['transcriptions'])):
+            for c in ['A', 'B']:
+                results = db.retrieve_from_text(data[i]['transcriptions'][j][c]['best_match']['word'], k)
+                data[i]['transcriptions'][j][c]['retrieve'] = results
+                if str(i) in results['ids'][0]:
+                    data[i]['transcriptions'][j][c]['correct'] = '1'
+                else:
+                    data[i]['transcriptions'][j][c]['correct'] = '0'
+    
+    return data                
+    
+        
+def segment_audio(input_file, start_time, end_time, output_file):
+    audio = AudioSegment.from_wav(input_file)
+    
+    start_ms = start_time * 1000
+    end_ms = end_time * 1000
+    
+    segmented_audio = audio[start_ms:end_ms]
+    
+    segmented_audio.export(output_file, format="wav")
+                    
+    
+def query_audio(db, k):
+    with open('keyword_query_gemini.json', 'r') as f:
+        data = json.load(f)
+    with open('../raw_dataset/audio.json', 'r') as f:
+        path = json.load(f)
+        
     for i in range(len(data)):
         for j in range(len(data[i]['transcriptions'])):
-            results = db.retrieve_from_text(data[i]['transcriptions'][j]['A']['text'], k)
-            data[i]['transcriptions'][j]['A']['retrieve'] = results
-            if str(i) in results['ids'][0]:
-                correct += 1
-           
-            results = db.retrieve_from_text(data[i]['transcriptions'][j]['B']['text'], k)
-            data[i]['transcriptions'][j]['B']['retrieve'] = results
-            if str(i) in results['ids'][0]:
-                correct += 1
-    
-            
+            for c in ['A', 'B']:
+                if i % 20 == 0:
+                    print(i)
+                input_audio = '../raw_dataset/' + path[i]['paths'][j][c]
+                segment_audio(input_audio, data[i]['transcriptions'][j][c]['best_match']['start_time'], data[i]['transcriptions'][j][c]['best_match']['end_time'], 'tmp.wav')
+                results = db.retrieve_from_audio('tmp.wav', k)
+                data[i]['transcriptions'][j][c]['retrieve'] = results
+                if str(i) in results['ids'][0]:
+                    data[i]['transcriptions'][j][c]['correct'] = '1'
+                else:
+                    data[i]['transcriptions'][j][c]['correct'] = '0'
+                    
 def main():
     db = Chromadb()
     db.store_text()
-    query_text(db, 30)
-    # query_audio(db)
+    data = query_text(db, 10)
+    with open('retrieve_text2text.json', 'w') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
     
     
     db = Chromadb()
-    db.store_text()
-    query_text(db, 30)
-    # query_audio(db)
+    db.store_audio()
+    data = query_text(db, 10)
+    with open('retrieve_text2audio.json', 'w') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
     
     
 if __name__ == "__main__":
