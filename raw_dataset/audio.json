@@ -1,0 +1,7048 @@
+[
+  {
+    "word": "54",
+    "word_audio_path": "audio_files/0.wav",
+    "paths": [
+      {
+        "A": "audio_files/1.wav",
+        "B": "audio_files/2.wav"
+      },
+      {
+        "A": "audio_files/3.wav",
+        "B": "audio_files/4.wav"
+      },
+      {
+        "A": "audio_files/5.wav",
+        "B": "audio_files/6.wav"
+      },
+      {
+        "A": "audio_files/7.wav",
+        "B": "audio_files/8.wav"
+      },
+      {
+        "A": "audio_files/9.wav",
+        "B": "audio_files/10.wav"
+      }
+    ]
+  },
+  {
+    "word": "80",
+    "word_audio_path": "audio_files/11.wav",
+    "paths": [
+      {
+        "A": "audio_files/12.wav",
+        "B": "audio_files/13.wav"
+      },
+      {
+        "A": "audio_files/14.wav",
+        "B": "audio_files/15.wav"
+      },
+      {
+        "A": "audio_files/16.wav",
+        "B": "audio_files/17.wav"
+      },
+      {
+        "A": "audio_files/18.wav",
+        "B": "audio_files/19.wav"
+      },
+      {
+        "A": "audio_files/20.wav",
+        "B": "audio_files/21.wav"
+      }
+    ]
+  },
+  {
+    "word": "484",
+    "word_audio_path": "audio_files/22.wav",
+    "paths": [
+      {
+        "A": "audio_files/23.wav",
+        "B": "audio_files/24.wav"
+      },
+      {
+        "A": "audio_files/25.wav",
+        "B": "audio_files/26.wav"
+      },
+      {
+        "A": "audio_files/27.wav",
+        "B": "audio_files/28.wav"
+      },
+      {
+        "A": "audio_files/29.wav",
+        "B": "audio_files/30.wav"
+      },
+      {
+        "A": "audio_files/31.wav",
+        "B": "audio_files/32.wav"
+      }
+    ]
+  },
+  {
+    "word": "543",
+    "word_audio_path": "audio_files/33.wav",
+    "paths": [
+      {
+        "A": "audio_files/34.wav",
+        "B": "audio_files/35.wav"
+      },
+      {
+        "A": "audio_files/36.wav",
+        "B": "audio_files/37.wav"
+      },
+      {
+        "A": "audio_files/38.wav",
+        "B": "audio_files/39.wav"
+      },
+      {
+        "A": "audio_files/40.wav",
+        "B": "audio_files/41.wav"
+      },
+      {
+        "A": "audio_files/42.wav",
+        "B": "audio_files/43.wav"
+      }
+    ]
+  },
+  {
+    "word": "666",
+    "word_audio_path": "audio_files/44.wav",
+    "paths": [
+      {
+        "A": "audio_files/45.wav",
+        "B": "audio_files/46.wav"
+      },
+      {
+        "A": "audio_files/47.wav",
+        "B": "audio_files/48.wav"
+      },
+      {
+        "A": "audio_files/49.wav",
+        "B": "audio_files/50.wav"
+      },
+      {
+        "A": "audio_files/51.wav",
+        "B": "audio_files/52.wav"
+      },
+      {
+        "A": "audio_files/53.wav",
+        "B": "audio_files/54.wav"
+      }
+    ]
+  },
+  {
+    "word": "948",
+    "word_audio_path": "audio_files/55.wav",
+    "paths": [
+      {
+        "A": "audio_files/56.wav",
+        "B": "audio_files/57.wav"
+      },
+      {
+        "A": "audio_files/58.wav",
+        "B": "audio_files/59.wav"
+      },
+      {
+        "A": "audio_files/60.wav",
+        "B": "audio_files/61.wav"
+      },
+      {
+        "A": "audio_files/62.wav",
+        "B": "audio_files/63.wav"
+      },
+      {
+        "A": "audio_files/64.wav",
+        "B": "audio_files/65.wav"
+      }
+    ]
+  },
+  {
+    "word": "1450",
+    "word_audio_path": "audio_files/66.wav",
+    "paths": [
+      {
+        "A": "audio_files/67.wav",
+        "B": "audio_files/68.wav"
+      },
+      {
+        "A": "audio_files/69.wav",
+        "B": "audio_files/70.wav"
+      },
+      {
+        "A": "audio_files/71.wav",
+        "B": "audio_files/72.wav"
+      },
+      {
+        "A": "audio_files/73.wav",
+        "B": "audio_files/74.wav"
+      },
+      {
+        "A": "audio_files/75.wav",
+        "B": "audio_files/76.wav"
+      }
+    ]
+  },
+  {
+    "word": "2266",
+    "word_audio_path": "audio_files/77.wav",
+    "paths": [
+      {
+        "A": "audio_files/78.wav",
+        "B": "audio_files/79.wav"
+      },
+      {
+        "A": "audio_files/80.wav",
+        "B": "audio_files/81.wav"
+      },
+      {
+        "A": "audio_files/82.wav",
+        "B": "audio_files/83.wav"
+      },
+      {
+        "A": "audio_files/84.wav",
+        "B": "audio_files/85.wav"
+      },
+      {
+        "A": "audio_files/86.wav",
+        "B": "audio_files/87.wav"
+      }
+    ]
+  },
+  {
+    "word": "2486",
+    "word_audio_path": "audio_files/88.wav",
+    "paths": [
+      {
+        "A": "audio_files/89.wav",
+        "B": "audio_files/90.wav"
+      },
+      {
+        "A": "audio_files/91.wav",
+        "B": "audio_files/92.wav"
+      },
+      {
+        "A": "audio_files/93.wav",
+        "B": "audio_files/94.wav"
+      },
+      {
+        "A": "audio_files/95.wav",
+        "B": "audio_files/96.wav"
+      },
+      {
+        "A": "audio_files/97.wav",
+        "B": "audio_files/98.wav"
+      }
+    ]
+  },
+  {
+    "word": "7414",
+    "word_audio_path": "audio_files/99.wav",
+    "paths": [
+      {
+        "A": "audio_files/100.wav",
+        "B": "audio_files/101.wav"
+      },
+      {
+        "A": "audio_files/102.wav",
+        "B": "audio_files/103.wav"
+      },
+      {
+        "A": "audio_files/104.wav",
+        "B": "audio_files/105.wav"
+      },
+      {
+        "A": "audio_files/106.wav",
+        "B": "audio_files/107.wav"
+      },
+      {
+        "A": "audio_files/108.wav",
+        "B": "audio_files/109.wav"
+      }
+    ]
+  },
+  {
+    "word": "9487",
+    "word_audio_path": "audio_files/110.wav",
+    "paths": [
+      {
+        "A": "audio_files/111.wav",
+        "B": "audio_files/112.wav"
+      },
+      {
+        "A": "audio_files/113.wav",
+        "B": "audio_files/114.wav"
+      },
+      {
+        "A": "audio_files/115.wav",
+        "B": "audio_files/116.wav"
+      },
+      {
+        "A": "audio_files/117.wav",
+        "B": "audio_files/118.wav"
+      },
+      {
+        "A": "audio_files/119.wav",
+        "B": "audio_files/120.wav"
+      }
+    ]
+  },
+  {
+    "word": "+1",
+    "word_audio_path": "audio_files/121.wav",
+    "paths": [
+      {
+        "A": "audio_files/122.wav",
+        "B": "audio_files/123.wav"
+      },
+      {
+        "A": "audio_files/124.wav",
+        "B": "audio_files/125.wav"
+      },
+      {
+        "A": "audio_files/126.wav",
+        "B": "audio_files/127.wav"
+      },
+      {
+        "A": "audio_files/128.wav",
+        "B": "audio_files/129.wav"
+      },
+      {
+        "A": "audio_files/130.wav",
+        "B": "audio_files/131.wav"
+      }
+    ]
+  },
+  {
+    "word": "==",
+    "word_audio_path": "audio_files/132.wav",
+    "paths": [
+      {
+        "A": "audio_files/133.wav",
+        "B": "audio_files/134.wav"
+      },
+      {
+        "A": "audio_files/135.wav",
+        "B": "audio_files/136.wav"
+      },
+      {
+        "A": "audio_files/137.wav",
+        "B": "audio_files/138.wav"
+      },
+      {
+        "A": "audio_files/139.wav",
+        "B": "audio_files/140.wav"
+      },
+      {
+        "A": "audio_files/141.wav",
+        "B": "audio_files/142.wav"
+      }
+    ]
+  },
+  {
+    "word": "～系",
+    "word_audio_path": "audio_files/143.wav",
+    "paths": [
+      {
+        "A": "audio_files/144.wav",
+        "B": "audio_files/145.wav"
+      },
+      {
+        "A": "audio_files/146.wav",
+        "B": "audio_files/147.wav"
+      },
+      {
+        "A": "audio_files/148.wav",
+        "B": "audio_files/149.wav"
+      },
+      {
+        "A": "audio_files/150.wav",
+        "B": "audio_files/151.wav"
+      },
+      {
+        "A": "audio_files/152.wav",
+        "B": "audio_files/153.wav"
+      }
+    ]
+  },
+  {
+    "word": "～粉",
+    "word_audio_path": "audio_files/154.wav",
+    "paths": [
+      {
+        "A": "audio_files/155.wav",
+        "B": "audio_files/156.wav"
+      },
+      {
+        "A": "audio_files/157.wav",
+        "B": "audio_files/158.wav"
+      },
+      {
+        "A": "audio_files/159.wav",
+        "B": "audio_files/160.wav"
+      },
+      {
+        "A": "audio_files/161.wav",
+        "B": "audio_files/162.wav"
+      },
+      {
+        "A": "audio_files/163.wav",
+        "B": "audio_files/164.wav"
+      }
+    ]
+  },
+  {
+    "word": "～控",
+    "word_audio_path": "audio_files/165.wav",
+    "paths": [
+      {
+        "A": "audio_files/166.wav",
+        "B": "audio_files/167.wav"
+      },
+      {
+        "A": "audio_files/168.wav",
+        "B": "audio_files/169.wav"
+      },
+      {
+        "A": "audio_files/170.wav",
+        "B": "audio_files/171.wav"
+      },
+      {
+        "A": "audio_files/172.wav",
+        "B": "audio_files/173.wav"
+      },
+      {
+        "A": "audio_files/174.wav",
+        "B": "audio_files/175.wav"
+      }
+    ]
+  },
+  {
+    "word": "～殘",
+    "word_audio_path": "audio_files/176.wav",
+    "paths": [
+      {
+        "A": "audio_files/177.wav",
+        "B": "audio_files/178.wav"
+      },
+      {
+        "A": "audio_files/179.wav",
+        "B": "audio_files/180.wav"
+      },
+      {
+        "A": "audio_files/181.wav",
+        "B": "audio_files/182.wav"
+      },
+      {
+        "A": "audio_files/183.wav",
+        "B": "audio_files/184.wav"
+      },
+      {
+        "A": "audio_files/185.wav",
+        "B": "audio_files/186.wav"
+      }
+    ]
+  },
+  {
+    "word": "1314",
+    "word_audio_path": "audio_files/187.wav",
+    "paths": [
+      {
+        "A": "audio_files/188.wav",
+        "B": "audio_files/189.wav"
+      },
+      {
+        "A": "audio_files/190.wav",
+        "B": "audio_files/191.wav"
+      },
+      {
+        "A": "audio_files/192.wav",
+        "B": "audio_files/193.wav"
+      },
+      {
+        "A": "audio_files/194.wav",
+        "B": "audio_files/195.wav"
+      },
+      {
+        "A": "audio_files/196.wav",
+        "B": "audio_files/197.wav"
+      }
+    ]
+  },
+  {
+    "word": "377",
+    "word_audio_path": "audio_files/198.wav",
+    "paths": [
+      {
+        "A": "audio_files/199.wav",
+        "B": "audio_files/200.wav"
+      },
+      {
+        "A": "audio_files/201.wav",
+        "B": "audio_files/202.wav"
+      },
+      {
+        "A": "audio_files/203.wav",
+        "B": "audio_files/204.wav"
+      },
+      {
+        "A": "audio_files/205.wav",
+        "B": "audio_files/206.wav"
+      },
+      {
+        "A": "audio_files/207.wav",
+        "B": "audio_files/208.wav"
+      }
+    ]
+  },
+  {
+    "word": "404",
+    "word_audio_path": "audio_files/209.wav",
+    "paths": [
+      {
+        "A": "audio_files/210.wav",
+        "B": "audio_files/211.wav"
+      },
+      {
+        "A": "audio_files/212.wav",
+        "B": "audio_files/213.wav"
+      },
+      {
+        "A": "audio_files/214.wav",
+        "B": "audio_files/215.wav"
+      },
+      {
+        "A": "audio_files/216.wav",
+        "B": "audio_files/217.wav"
+      },
+      {
+        "A": "audio_files/218.wav",
+        "B": "audio_files/219.wav"
+      }
+    ]
+  },
+  {
+    "word": "4輪",
+    "word_audio_path": "audio_files/220.wav",
+    "paths": [
+      {
+        "A": "audio_files/221.wav",
+        "B": "audio_files/222.wav"
+      },
+      {
+        "A": "audio_files/223.wav",
+        "B": "audio_files/224.wav"
+      },
+      {
+        "A": "audio_files/225.wav",
+        "B": "audio_files/226.wav"
+      },
+      {
+        "A": "audio_files/227.wav",
+        "B": "audio_files/228.wav"
+      },
+      {
+        "A": "audio_files/229.wav",
+        "B": "audio_files/230.wav"
+      }
+    ]
+  },
+  {
+    "word": "4ni",
+    "word_audio_path": "audio_files/231.wav",
+    "paths": [
+      {
+        "A": "audio_files/232.wav",
+        "B": "audio_files/233.wav"
+      },
+      {
+        "A": "audio_files/234.wav",
+        "B": "audio_files/235.wav"
+      },
+      {
+        "A": "audio_files/236.wav",
+        "B": "audio_files/237.wav"
+      },
+      {
+        "A": "audio_files/238.wav",
+        "B": "audio_files/239.wav"
+      },
+      {
+        "A": "audio_files/240.wav",
+        "B": "audio_files/241.wav"
+      }
+    ]
+  },
+  {
+    "word": "520",
+    "word_audio_path": "audio_files/242.wav",
+    "paths": [
+      {
+        "A": "audio_files/243.wav",
+        "B": "audio_files/244.wav"
+      },
+      {
+        "A": "audio_files/245.wav",
+        "B": "audio_files/246.wav"
+      },
+      {
+        "A": "audio_files/247.wav",
+        "B": "audio_files/248.wav"
+      },
+      {
+        "A": "audio_files/249.wav",
+        "B": "audio_files/250.wav"
+      },
+      {
+        "A": "audio_files/251.wav",
+        "B": "audio_files/252.wav"
+      }
+    ]
+  },
+  {
+    "word": "54",
+    "word_audio_path": "audio_files/253.wav",
+    "paths": [
+      {
+        "A": "audio_files/254.wav",
+        "B": "audio_files/255.wav"
+      },
+      {
+        "A": "audio_files/256.wav",
+        "B": "audio_files/257.wav"
+      },
+      {
+        "A": "audio_files/258.wav",
+        "B": "audio_files/259.wav"
+      },
+      {
+        "A": "audio_files/260.wav",
+        "B": "audio_files/261.wav"
+      },
+      {
+        "A": "audio_files/262.wav",
+        "B": "audio_files/263.wav"
+      }
+    ]
+  },
+  {
+    "word": "555",
+    "word_audio_path": "audio_files/264.wav",
+    "paths": [
+      {
+        "A": "audio_files/265.wav",
+        "B": "audio_files/266.wav"
+      },
+      {
+        "A": "audio_files/267.wav",
+        "B": "audio_files/268.wav"
+      },
+      {
+        "A": "audio_files/269.wav",
+        "B": "audio_files/270.wav"
+      },
+      {
+        "A": "audio_files/271.wav",
+        "B": "audio_files/272.wav"
+      },
+      {
+        "A": "audio_files/273.wav",
+        "B": "audio_files/274.wav"
+      }
+    ]
+  },
+  {
+    "word": "666",
+    "word_audio_path": "audio_files/275.wav",
+    "paths": [
+      {
+        "A": "audio_files/276.wav",
+        "B": "audio_files/277.wav"
+      },
+      {
+        "A": "audio_files/278.wav",
+        "B": "audio_files/279.wav"
+      },
+      {
+        "A": "audio_files/280.wav",
+        "B": "audio_files/281.wav"
+      },
+      {
+        "A": "audio_files/282.wav",
+        "B": "audio_files/283.wav"
+      },
+      {
+        "A": "audio_files/284.wav",
+        "B": "audio_files/285.wav"
+      }
+    ]
+  },
+  {
+    "word": "7pupu",
+    "word_audio_path": "audio_files/286.wav",
+    "paths": [
+      {
+        "A": "audio_files/287.wav",
+        "B": "audio_files/288.wav"
+      },
+      {
+        "A": "audio_files/289.wav",
+        "B": "audio_files/290.wav"
+      },
+      {
+        "A": "audio_files/291.wav",
+        "B": "audio_files/292.wav"
+      },
+      {
+        "A": "audio_files/293.wav",
+        "B": "audio_files/294.wav"
+      },
+      {
+        "A": "audio_files/295.wav",
+        "B": "audio_files/296.wav"
+      }
+    ]
+  },
+  {
+    "word": "8+9",
+    "word_audio_path": "audio_files/297.wav",
+    "paths": [
+      {
+        "A": "audio_files/298.wav",
+        "B": "audio_files/299.wav"
+      },
+      {
+        "A": "audio_files/300.wav",
+        "B": "audio_files/301.wav"
+      },
+      {
+        "A": "audio_files/302.wav",
+        "B": "audio_files/303.wav"
+      },
+      {
+        "A": "audio_files/304.wav",
+        "B": "audio_files/305.wav"
+      },
+      {
+        "A": "audio_files/306.wav",
+        "B": "audio_files/307.wav"
+      }
+    ]
+  },
+  {
+    "word": "8181",
+    "word_audio_path": "audio_files/308.wav",
+    "paths": [
+      {
+        "A": "audio_files/309.wav",
+        "B": "audio_files/310.wav"
+      },
+      {
+        "A": "audio_files/311.wav",
+        "B": "audio_files/312.wav"
+      },
+      {
+        "A": "audio_files/313.wav",
+        "B": "audio_files/314.wav"
+      },
+      {
+        "A": "audio_files/315.wav",
+        "B": "audio_files/316.wav"
+      },
+      {
+        "A": "audio_files/317.wav",
+        "B": "audio_files/318.wav"
+      }
+    ]
+  },
+  {
+    "word": "87%",
+    "word_audio_path": "audio_files/319.wav",
+    "paths": [
+      {
+        "A": "audio_files/320.wav",
+        "B": "audio_files/321.wav"
+      },
+      {
+        "A": "audio_files/322.wav",
+        "B": "audio_files/323.wav"
+      },
+      {
+        "A": "audio_files/324.wav",
+        "B": "audio_files/325.wav"
+      },
+      {
+        "A": "audio_files/326.wav",
+        "B": "audio_files/327.wav"
+      },
+      {
+        "A": "audio_files/328.wav",
+        "B": "audio_files/329.wav"
+      }
+    ]
+  },
+  {
+    "word": "87分",
+    "word_audio_path": "audio_files/330.wav",
+    "paths": [
+      {
+        "A": "audio_files/331.wav",
+        "B": "audio_files/332.wav"
+      },
+      {
+        "A": "audio_files/333.wav",
+        "B": "audio_files/334.wav"
+      },
+      {
+        "A": "audio_files/335.wav",
+        "B": "audio_files/336.wav"
+      },
+      {
+        "A": "audio_files/337.wav",
+        "B": "audio_files/338.wav"
+      },
+      {
+        "A": "audio_files/339.wav",
+        "B": "audio_files/340.wav"
+      }
+    ]
+  },
+  {
+    "word": "87分，不能再高了",
+    "word_audio_path": "audio_files/341.wav",
+    "paths": [
+      {
+        "A": "audio_files/342.wav",
+        "B": "audio_files/343.wav"
+      },
+      {
+        "A": "audio_files/344.wav",
+        "B": "audio_files/345.wav"
+      },
+      {
+        "A": "audio_files/346.wav",
+        "B": "audio_files/347.wav"
+      },
+      {
+        "A": "audio_files/348.wav",
+        "B": "audio_files/349.wav"
+      },
+      {
+        "A": "audio_files/350.wav",
+        "B": "audio_files/351.wav"
+      }
+    ]
+  },
+  {
+    "word": "87趴",
+    "word_audio_path": "audio_files/352.wav",
+    "paths": [
+      {
+        "A": "audio_files/353.wav",
+        "B": "audio_files/354.wav"
+      },
+      {
+        "A": "audio_files/355.wav",
+        "B": "audio_files/356.wav"
+      },
+      {
+        "A": "audio_files/357.wav",
+        "B": "audio_files/358.wav"
+      },
+      {
+        "A": "audio_files/359.wav",
+        "B": "audio_files/360.wav"
+      },
+      {
+        "A": "audio_files/361.wav",
+        "B": "audio_files/362.wav"
+      }
+    ]
+  },
+  {
+    "word": "88",
+    "word_audio_path": "audio_files/363.wav",
+    "paths": [
+      {
+        "A": "audio_files/364.wav",
+        "B": "audio_files/365.wav"
+      },
+      {
+        "A": "audio_files/366.wav",
+        "B": "audio_files/367.wav"
+      },
+      {
+        "A": "audio_files/368.wav",
+        "B": "audio_files/369.wav"
+      },
+      {
+        "A": "audio_files/370.wav",
+        "B": "audio_files/371.wav"
+      },
+      {
+        "A": "audio_files/372.wav",
+        "B": "audio_files/373.wav"
+      }
+    ]
+  },
+  {
+    "word": "881",
+    "word_audio_path": "audio_files/374.wav",
+    "paths": [
+      {
+        "A": "audio_files/375.wav",
+        "B": "audio_files/376.wav"
+      },
+      {
+        "A": "audio_files/377.wav",
+        "B": "audio_files/378.wav"
+      },
+      {
+        "A": "audio_files/379.wav",
+        "B": "audio_files/380.wav"
+      },
+      {
+        "A": "audio_files/381.wav",
+        "B": "audio_files/382.wav"
+      },
+      {
+        "A": "audio_files/383.wav",
+        "B": "audio_files/384.wav"
+      }
+    ]
+  },
+  {
+    "word": "886",
+    "word_audio_path": "audio_files/385.wav",
+    "paths": [
+      {
+        "A": "audio_files/386.wav",
+        "B": "audio_files/387.wav"
+      },
+      {
+        "A": "audio_files/388.wav",
+        "B": "audio_files/389.wav"
+      },
+      {
+        "A": "audio_files/390.wav",
+        "B": "audio_files/391.wav"
+      },
+      {
+        "A": "audio_files/392.wav",
+        "B": "audio_files/393.wav"
+      },
+      {
+        "A": "audio_files/394.wav",
+        "B": "audio_files/395.wav"
+      }
+    ]
+  },
+  {
+    "word": "94",
+    "word_audio_path": "audio_files/396.wav",
+    "paths": [
+      {
+        "A": "audio_files/397.wav",
+        "B": "audio_files/398.wav"
+      },
+      {
+        "A": "audio_files/399.wav",
+        "B": "audio_files/400.wav"
+      },
+      {
+        "A": "audio_files/401.wav",
+        "B": "audio_files/402.wav"
+      },
+      {
+        "A": "audio_files/403.wav",
+        "B": "audio_files/404.wav"
+      },
+      {
+        "A": "audio_files/405.wav",
+        "B": "audio_files/406.wav"
+      }
+    ]
+  },
+  {
+    "word": "945",
+    "word_audio_path": "audio_files/407.wav",
+    "paths": [
+      {
+        "A": "audio_files/408.wav",
+        "B": "audio_files/409.wav"
+      },
+      {
+        "A": "audio_files/410.wav",
+        "B": "audio_files/411.wav"
+      },
+      {
+        "A": "audio_files/412.wav",
+        "B": "audio_files/413.wav"
+      },
+      {
+        "A": "audio_files/414.wav",
+        "B": "audio_files/415.wav"
+      },
+      {
+        "A": "audio_files/416.wav",
+        "B": "audio_files/417.wav"
+      }
+    ]
+  },
+  {
+    "word": "995",
+    "word_audio_path": "audio_files/418.wav",
+    "paths": [
+      {
+        "A": "audio_files/419.wav",
+        "B": "audio_files/420.wav"
+      },
+      {
+        "A": "audio_files/421.wav",
+        "B": "audio_files/422.wav"
+      },
+      {
+        "A": "audio_files/423.wav",
+        "B": "audio_files/424.wav"
+      },
+      {
+        "A": "audio_files/425.wav",
+        "B": "audio_files/426.wav"
+      },
+      {
+        "A": "audio_files/427.wav",
+        "B": "audio_files/428.wav"
+      }
+    ]
+  },
+  {
+    "word": "二外",
+    "word_audio_path": "audio_files/429.wav",
+    "paths": [
+      {
+        "A": "audio_files/430.wav",
+        "B": "audio_files/431.wav"
+      },
+      {
+        "A": "audio_files/432.wav",
+        "B": "audio_files/433.wav"
+      },
+      {
+        "A": "audio_files/434.wav",
+        "B": "audio_files/435.wav"
+      },
+      {
+        "A": "audio_files/436.wav",
+        "B": "audio_files/437.wav"
+      },
+      {
+        "A": "audio_files/438.wav",
+        "B": "audio_files/439.wav"
+      }
+    ]
+  },
+  {
+    "word": "二次元",
+    "word_audio_path": "audio_files/440.wav",
+    "paths": [
+      {
+        "A": "audio_files/441.wav",
+        "B": "audio_files/442.wav"
+      },
+      {
+        "A": "audio_files/443.wav",
+        "B": "audio_files/444.wav"
+      },
+      {
+        "A": "audio_files/445.wav",
+        "B": "audio_files/446.wav"
+      },
+      {
+        "A": "audio_files/447.wav",
+        "B": "audio_files/448.wav"
+      },
+      {
+        "A": "audio_files/449.wav",
+        "B": "audio_files/450.wav"
+      }
+    ]
+  },
+  {
+    "word": "二創",
+    "word_audio_path": "audio_files/451.wav",
+    "paths": [
+      {
+        "A": "audio_files/452.wav",
+        "B": "audio_files/453.wav"
+      },
+      {
+        "A": "audio_files/454.wav",
+        "B": "audio_files/455.wav"
+      },
+      {
+        "A": "audio_files/456.wav",
+        "B": "audio_files/457.wav"
+      },
+      {
+        "A": "audio_files/458.wav",
+        "B": "audio_files/459.wav"
+      },
+      {
+        "A": "audio_files/460.wav",
+        "B": "audio_files/461.wav"
+      }
+    ]
+  },
+  {
+    "word": "人生勝利組",
+    "word_audio_path": "audio_files/462.wav",
+    "paths": [
+      {
+        "A": "audio_files/463.wav",
+        "B": "audio_files/464.wav"
+      },
+      {
+        "A": "audio_files/465.wav",
+        "B": "audio_files/466.wav"
+      },
+      {
+        "A": "audio_files/467.wav",
+        "B": "audio_files/468.wav"
+      },
+      {
+        "A": "audio_files/469.wav",
+        "B": "audio_files/470.wav"
+      },
+      {
+        "A": "audio_files/471.wav",
+        "B": "audio_files/472.wav"
+      }
+    ]
+  },
+  {
+    "word": "人品",
+    "word_audio_path": "audio_files/473.wav",
+    "paths": [
+      {
+        "A": "audio_files/474.wav",
+        "B": "audio_files/475.wav"
+      },
+      {
+        "A": "audio_files/476.wav",
+        "B": "audio_files/477.wav"
+      },
+      {
+        "A": "audio_files/478.wav",
+        "B": "audio_files/479.wav"
+      },
+      {
+        "A": "audio_files/480.wav",
+        "B": "audio_files/481.wav"
+      },
+      {
+        "A": "audio_files/482.wav",
+        "B": "audio_files/483.wav"
+      }
+    ]
+  },
+  {
+    "word": "人帥真好，人醜性騷擾",
+    "word_audio_path": "audio_files/484.wav",
+    "paths": [
+      {
+        "A": "audio_files/485.wav",
+        "B": "audio_files/486.wav"
+      },
+      {
+        "A": "audio_files/487.wav",
+        "B": "audio_files/488.wav"
+      },
+      {
+        "A": "audio_files/489.wav",
+        "B": "audio_files/490.wav"
+      },
+      {
+        "A": "audio_files/491.wav",
+        "B": "audio_files/492.wav"
+      },
+      {
+        "A": "audio_files/493.wav",
+        "B": "audio_files/494.wav"
+      }
+    ]
+  },
+  {
+    "word": "人情保單",
+    "word_audio_path": "audio_files/495.wav",
+    "paths": [
+      {
+        "A": "audio_files/496.wav",
+        "B": "audio_files/497.wav"
+      },
+      {
+        "A": "audio_files/498.wav",
+        "B": "audio_files/499.wav"
+      },
+      {
+        "A": "audio_files/500.wav",
+        "B": "audio_files/501.wav"
+      },
+      {
+        "A": "audio_files/502.wav",
+        "B": "audio_files/503.wav"
+      },
+      {
+        "A": "audio_files/504.wav",
+        "B": "audio_files/505.wav"
+      }
+    ]
+  },
+  {
+    "word": "人設",
+    "word_audio_path": "audio_files/506.wav",
+    "paths": [
+      {
+        "A": "audio_files/507.wav",
+        "B": "audio_files/508.wav"
+      },
+      {
+        "A": "audio_files/509.wav",
+        "B": "audio_files/510.wav"
+      },
+      {
+        "A": "audio_files/511.wav",
+        "B": "audio_files/512.wav"
+      },
+      {
+        "A": "audio_files/513.wav",
+        "B": "audio_files/514.wav"
+      },
+      {
+        "A": "audio_files/515.wav",
+        "B": "audio_files/516.wav"
+      }
+    ]
+  },
+  {
+    "word": "人礦",
+    "word_audio_path": "audio_files/517.wav",
+    "paths": [
+      {
+        "A": "audio_files/518.wav",
+        "B": "audio_files/519.wav"
+      },
+      {
+        "A": "audio_files/520.wav",
+        "B": "audio_files/521.wav"
+      },
+      {
+        "A": "audio_files/522.wav",
+        "B": "audio_files/523.wav"
+      },
+      {
+        "A": "audio_files/524.wav",
+        "B": "audio_files/525.wav"
+      },
+      {
+        "A": "audio_files/526.wav",
+        "B": "audio_files/527.wav"
+      }
+    ]
+  },
+  {
+    "word": "入坑",
+    "word_audio_path": "audio_files/528.wav",
+    "paths": [
+      {
+        "A": "audio_files/529.wav",
+        "B": "audio_files/530.wav"
+      },
+      {
+        "A": "audio_files/531.wav",
+        "B": "audio_files/532.wav"
+      },
+      {
+        "A": "audio_files/533.wav",
+        "B": "audio_files/534.wav"
+      },
+      {
+        "A": "audio_files/535.wav",
+        "B": "audio_files/536.wav"
+      },
+      {
+        "A": "audio_files/537.wav",
+        "B": "audio_files/538.wav"
+      }
+    ]
+  },
+  {
+    "word": "力主",
+    "word_audio_path": "audio_files/539.wav",
+    "paths": [
+      {
+        "A": "audio_files/540.wav",
+        "B": "audio_files/541.wav"
+      },
+      {
+        "A": "audio_files/542.wav",
+        "B": "audio_files/543.wav"
+      },
+      {
+        "A": "audio_files/544.wav",
+        "B": "audio_files/545.wav"
+      },
+      {
+        "A": "audio_files/546.wav",
+        "B": "audio_files/547.wav"
+      },
+      {
+        "A": "audio_files/548.wav",
+        "B": "audio_files/549.wav"
+      }
+    ]
+  },
+  {
+    "word": "三小",
+    "word_audio_path": "audio_files/550.wav",
+    "paths": [
+      {
+        "A": "audio_files/551.wav",
+        "B": "audio_files/552.wav"
+      },
+      {
+        "A": "audio_files/553.wav",
+        "B": "audio_files/554.wav"
+      },
+      {
+        "A": "audio_files/555.wav",
+        "B": "audio_files/556.wav"
+      },
+      {
+        "A": "audio_files/557.wav",
+        "B": "audio_files/558.wav"
+      },
+      {
+        "A": "audio_files/559.wav",
+        "B": "audio_files/560.wav"
+      }
+    ]
+  },
+  {
+    "word": "三高男",
+    "word_audio_path": "audio_files/561.wav",
+    "paths": [
+      {
+        "A": "audio_files/562.wav",
+        "B": "audio_files/563.wav"
+      },
+      {
+        "A": "audio_files/564.wav",
+        "B": "audio_files/565.wav"
+      },
+      {
+        "A": "audio_files/566.wav",
+        "B": "audio_files/567.wav"
+      },
+      {
+        "A": "audio_files/568.wav",
+        "B": "audio_files/569.wav"
+      },
+      {
+        "A": "audio_files/570.wav",
+        "B": "audio_files/571.wav"
+      }
+    ]
+  },
+  {
+    "word": "三寶",
+    "word_audio_path": "audio_files/572.wav",
+    "paths": [
+      {
+        "A": "audio_files/573.wav",
+        "B": "audio_files/574.wav"
+      },
+      {
+        "A": "audio_files/575.wav",
+        "B": "audio_files/576.wav"
+      },
+      {
+        "A": "audio_files/577.wav",
+        "B": "audio_files/578.wav"
+      },
+      {
+        "A": "audio_files/579.wav",
+        "B": "audio_files/580.wav"
+      },
+      {
+        "A": "audio_files/581.wav",
+        "B": "audio_files/582.wav"
+      }
+    ]
+  },
+  {
+    "word": "上車",
+    "word_audio_path": "audio_files/583.wav",
+    "paths": [
+      {
+        "A": "audio_files/584.wav",
+        "B": "audio_files/585.wav"
+      },
+      {
+        "A": "audio_files/586.wav",
+        "B": "audio_files/587.wav"
+      },
+      {
+        "A": "audio_files/588.wav",
+        "B": "audio_files/589.wav"
+      },
+      {
+        "A": "audio_files/590.wav",
+        "B": "audio_files/591.wav"
+      },
+      {
+        "A": "audio_files/592.wav",
+        "B": "audio_files/593.wav"
+      }
+    ]
+  },
+  {
+    "word": "上頭",
+    "word_audio_path": "audio_files/594.wav",
+    "paths": [
+      {
+        "A": "audio_files/595.wav",
+        "B": "audio_files/596.wav"
+      },
+      {
+        "A": "audio_files/597.wav",
+        "B": "audio_files/598.wav"
+      },
+      {
+        "A": "audio_files/599.wav",
+        "B": "audio_files/600.wav"
+      },
+      {
+        "A": "audio_files/601.wav",
+        "B": "audio_files/602.wav"
+      },
+      {
+        "A": "audio_files/603.wav",
+        "B": "audio_files/604.wav"
+      }
+    ]
+  },
+  {
+    "word": "下車",
+    "word_audio_path": "audio_files/605.wav",
+    "paths": [
+      {
+        "A": "audio_files/606.wav",
+        "B": "audio_files/607.wav"
+      },
+      {
+        "A": "audio_files/608.wav",
+        "B": "audio_files/609.wav"
+      },
+      {
+        "A": "audio_files/610.wav",
+        "B": "audio_files/611.wav"
+      },
+      {
+        "A": "audio_files/612.wav",
+        "B": "audio_files/613.wav"
+      },
+      {
+        "A": "audio_files/614.wav",
+        "B": "audio_files/615.wav"
+      }
+    ]
+  },
+  {
+    "word": "下船",
+    "word_audio_path": "audio_files/616.wav",
+    "paths": [
+      {
+        "A": "audio_files/617.wav",
+        "B": "audio_files/618.wav"
+      },
+      {
+        "A": "audio_files/619.wav",
+        "B": "audio_files/620.wav"
+      },
+      {
+        "A": "audio_files/621.wav",
+        "B": "audio_files/622.wav"
+      },
+      {
+        "A": "audio_files/623.wav",
+        "B": "audio_files/624.wav"
+      },
+      {
+        "A": "audio_files/625.wav",
+        "B": "audio_files/626.wav"
+      }
+    ]
+  },
+  {
+    "word": "口年",
+    "word_audio_path": "audio_files/627.wav",
+    "paths": [
+      {
+        "A": "audio_files/628.wav",
+        "B": "audio_files/629.wav"
+      },
+      {
+        "A": "audio_files/630.wav",
+        "B": "audio_files/631.wav"
+      },
+      {
+        "A": "audio_files/632.wav",
+        "B": "audio_files/633.wav"
+      },
+      {
+        "A": "audio_files/634.wav",
+        "B": "audio_files/635.wav"
+      },
+      {
+        "A": "audio_files/636.wav",
+        "B": "audio_files/637.wav"
+      }
+    ]
+  },
+  {
+    "word": "口誤",
+    "word_audio_path": "audio_files/638.wav",
+    "paths": [
+      {
+        "A": "audio_files/639.wav",
+        "B": "audio_files/640.wav"
+      },
+      {
+        "A": "audio_files/641.wav",
+        "B": "audio_files/642.wav"
+      },
+      {
+        "A": "audio_files/643.wav",
+        "B": "audio_files/644.wav"
+      },
+      {
+        "A": "audio_files/645.wav",
+        "B": "audio_files/646.wav"
+      },
+      {
+        "A": "audio_files/647.wav",
+        "B": "audio_files/648.wav"
+      }
+    ]
+  },
+  {
+    "word": "大大",
+    "word_audio_path": "audio_files/649.wav",
+    "paths": [
+      {
+        "A": "audio_files/650.wav",
+        "B": "audio_files/651.wav"
+      },
+      {
+        "A": "audio_files/652.wav",
+        "B": "audio_files/653.wav"
+      },
+      {
+        "A": "audio_files/654.wav",
+        "B": "audio_files/655.wav"
+      },
+      {
+        "A": "audio_files/656.wav",
+        "B": "audio_files/657.wav"
+      },
+      {
+        "A": "audio_files/658.wav",
+        "B": "audio_files/659.wav"
+      }
+    ]
+  },
+  {
+    "word": "大奶微微",
+    "word_audio_path": "audio_files/660.wav",
+    "paths": [
+      {
+        "A": "audio_files/661.wav",
+        "B": "audio_files/662.wav"
+      },
+      {
+        "A": "audio_files/663.wav",
+        "B": "audio_files/664.wav"
+      },
+      {
+        "A": "audio_files/665.wav",
+        "B": "audio_files/666.wav"
+      },
+      {
+        "A": "audio_files/667.wav",
+        "B": "audio_files/668.wav"
+      },
+      {
+        "A": "audio_files/669.wav",
+        "B": "audio_files/670.wav"
+      }
+    ]
+  },
+  {
+    "word": "大佬",
+    "word_audio_path": "audio_files/671.wav",
+    "paths": [
+      {
+        "A": "audio_files/672.wav",
+        "B": "audio_files/673.wav"
+      },
+      {
+        "A": "audio_files/674.wav",
+        "B": "audio_files/675.wav"
+      },
+      {
+        "A": "audio_files/676.wav",
+        "B": "audio_files/677.wav"
+      },
+      {
+        "A": "audio_files/678.wav",
+        "B": "audio_files/679.wav"
+      },
+      {
+        "A": "audio_files/680.wav",
+        "B": "audio_files/681.wav"
+      }
+    ]
+  },
+  {
+    "word": "大拜拜",
+    "word_audio_path": "audio_files/682.wav",
+    "paths": [
+      {
+        "A": "audio_files/683.wav",
+        "B": "audio_files/684.wav"
+      },
+      {
+        "A": "audio_files/685.wav",
+        "B": "audio_files/686.wav"
+      },
+      {
+        "A": "audio_files/687.wav",
+        "B": "audio_files/688.wav"
+      },
+      {
+        "A": "audio_files/689.wav",
+        "B": "audio_files/690.wav"
+      },
+      {
+        "A": "audio_files/691.wav",
+        "B": "audio_files/692.wav"
+      }
+    ]
+  },
+  {
+    "word": "大神",
+    "word_audio_path": "audio_files/693.wav",
+    "paths": [
+      {
+        "A": "audio_files/694.wav",
+        "B": "audio_files/695.wav"
+      },
+      {
+        "A": "audio_files/696.wav",
+        "B": "audio_files/697.wav"
+      },
+      {
+        "A": "audio_files/698.wav",
+        "B": "audio_files/699.wav"
+      },
+      {
+        "A": "audio_files/700.wav",
+        "B": "audio_files/701.wav"
+      },
+      {
+        "A": "audio_files/702.wav",
+        "B": "audio_files/703.wav"
+      }
+    ]
+  },
+  {
+    "word": "大推",
+    "word_audio_path": "audio_files/704.wav",
+    "paths": [
+      {
+        "A": "audio_files/705.wav",
+        "B": "audio_files/706.wav"
+      },
+      {
+        "A": "audio_files/707.wav",
+        "B": "audio_files/708.wav"
+      },
+      {
+        "A": "audio_files/709.wav",
+        "B": "audio_files/710.wav"
+      },
+      {
+        "A": "audio_files/711.wav",
+        "B": "audio_files/712.wav"
+      },
+      {
+        "A": "audio_files/713.wav",
+        "B": "audio_files/714.wav"
+      }
+    ]
+  },
+  {
+    "word": "大腦在星爆",
+    "word_audio_path": "audio_files/715.wav",
+    "paths": [
+      {
+        "A": "audio_files/716.wav",
+        "B": "audio_files/717.wav"
+      },
+      {
+        "A": "audio_files/718.wav",
+        "B": "audio_files/719.wav"
+      },
+      {
+        "A": "audio_files/720.wav",
+        "B": "audio_files/721.wav"
+      },
+      {
+        "A": "audio_files/722.wav",
+        "B": "audio_files/723.wav"
+      },
+      {
+        "A": "audio_files/724.wav",
+        "B": "audio_files/725.wav"
+      }
+    ]
+  },
+  {
+    "word": "大聰明",
+    "word_audio_path": "audio_files/726.wav",
+    "paths": [
+      {
+        "A": "audio_files/727.wav",
+        "B": "audio_files/728.wav"
+      },
+      {
+        "A": "audio_files/729.wav",
+        "B": "audio_files/730.wav"
+      },
+      {
+        "A": "audio_files/731.wav",
+        "B": "audio_files/732.wav"
+      },
+      {
+        "A": "audio_files/733.wav",
+        "B": "audio_files/734.wav"
+      },
+      {
+        "A": "audio_files/735.wav",
+        "B": "audio_files/736.wav"
+      }
+    ]
+  },
+  {
+    "word": "女力",
+    "word_audio_path": "audio_files/737.wav",
+    "paths": [
+      {
+        "A": "audio_files/738.wav",
+        "B": "audio_files/739.wav"
+      },
+      {
+        "A": "audio_files/740.wav",
+        "B": "audio_files/741.wav"
+      },
+      {
+        "A": "audio_files/742.wav",
+        "B": "audio_files/743.wav"
+      },
+      {
+        "A": "audio_files/744.wav",
+        "B": "audio_files/745.wav"
+      },
+      {
+        "A": "audio_files/746.wav",
+        "B": "audio_files/747.wav"
+      }
+    ]
+  },
+  {
+    "word": "小白",
+    "word_audio_path": "audio_files/748.wav",
+    "paths": [
+      {
+        "A": "audio_files/749.wav",
+        "B": "audio_files/750.wav"
+      },
+      {
+        "A": "audio_files/751.wav",
+        "B": "audio_files/752.wav"
+      },
+      {
+        "A": "audio_files/753.wav",
+        "B": "audio_files/754.wav"
+      },
+      {
+        "A": "audio_files/755.wav",
+        "B": "audio_files/756.wav"
+      },
+      {
+        "A": "audio_files/757.wav",
+        "B": "audio_files/758.wav"
+      }
+    ]
+  },
+  {
+    "word": "小宇宙",
+    "word_audio_path": "audio_files/759.wav",
+    "paths": [
+      {
+        "A": "audio_files/760.wav",
+        "B": "audio_files/761.wav"
+      },
+      {
+        "A": "audio_files/762.wav",
+        "B": "audio_files/763.wav"
+      },
+      {
+        "A": "audio_files/764.wav",
+        "B": "audio_files/765.wav"
+      },
+      {
+        "A": "audio_files/766.wav",
+        "B": "audio_files/767.wav"
+      },
+      {
+        "A": "audio_files/768.wav",
+        "B": "audio_files/769.wav"
+      }
+    ]
+  },
+  {
+    "word": "小朋友才做選擇",
+    "word_audio_path": "audio_files/770.wav",
+    "paths": [
+      {
+        "A": "audio_files/771.wav",
+        "B": "audio_files/772.wav"
+      },
+      {
+        "A": "audio_files/773.wav",
+        "B": "audio_files/774.wav"
+      },
+      {
+        "A": "audio_files/775.wav",
+        "B": "audio_files/776.wav"
+      },
+      {
+        "A": "audio_files/777.wav",
+        "B": "audio_files/778.wav"
+      },
+      {
+        "A": "audio_files/779.wav",
+        "B": "audio_files/780.wav"
+      }
+    ]
+  },
+  {
+    "word": "小粉红",
+    "word_audio_path": "audio_files/781.wav",
+    "paths": [
+      {
+        "A": "audio_files/782.wav",
+        "B": "audio_files/783.wav"
+      },
+      {
+        "A": "audio_files/784.wav",
+        "B": "audio_files/785.wav"
+      },
+      {
+        "A": "audio_files/786.wav",
+        "B": "audio_files/787.wav"
+      },
+      {
+        "A": "audio_files/788.wav",
+        "B": "audio_files/789.wav"
+      },
+      {
+        "A": "audio_files/790.wav",
+        "B": "audio_files/791.wav"
+      }
+    ]
+  },
+  {
+    "word": "小圈圈",
+    "word_audio_path": "audio_files/792.wav",
+    "paths": [
+      {
+        "A": "audio_files/793.wav",
+        "B": "audio_files/794.wav"
+      },
+      {
+        "A": "audio_files/795.wav",
+        "B": "audio_files/796.wav"
+      },
+      {
+        "A": "audio_files/797.wav",
+        "B": "audio_files/798.wav"
+      },
+      {
+        "A": "audio_files/799.wav",
+        "B": "audio_files/800.wav"
+      },
+      {
+        "A": "audio_files/801.wav",
+        "B": "audio_files/802.wav"
+      }
+    ]
+  },
+  {
+    "word": "小資",
+    "word_audio_path": "audio_files/803.wav",
+    "paths": [
+      {
+        "A": "audio_files/804.wav",
+        "B": "audio_files/805.wav"
+      },
+      {
+        "A": "audio_files/806.wav",
+        "B": "audio_files/807.wav"
+      },
+      {
+        "A": "audio_files/808.wav",
+        "B": "audio_files/809.wav"
+      },
+      {
+        "A": "audio_files/810.wav",
+        "B": "audio_files/811.wav"
+      },
+      {
+        "A": "audio_files/812.wav",
+        "B": "audio_files/813.wav"
+      }
+    ]
+  },
+  {
+    "word": "小資族",
+    "word_audio_path": "audio_files/814.wav",
+    "paths": [
+      {
+        "A": "audio_files/815.wav",
+        "B": "audio_files/816.wav"
+      },
+      {
+        "A": "audio_files/817.wav",
+        "B": "audio_files/818.wav"
+      },
+      {
+        "A": "audio_files/819.wav",
+        "B": "audio_files/820.wav"
+      },
+      {
+        "A": "audio_files/821.wav",
+        "B": "audio_files/822.wav"
+      },
+      {
+        "A": "audio_files/823.wav",
+        "B": "audio_files/824.wav"
+      }
+    ]
+  },
+  {
+    "word": "小鈴鐺",
+    "word_audio_path": "audio_files/825.wav",
+    "paths": [
+      {
+        "A": "audio_files/826.wav",
+        "B": "audio_files/827.wav"
+      },
+      {
+        "A": "audio_files/828.wav",
+        "B": "audio_files/829.wav"
+      },
+      {
+        "A": "audio_files/830.wav",
+        "B": "audio_files/831.wav"
+      },
+      {
+        "A": "audio_files/832.wav",
+        "B": "audio_files/833.wav"
+      },
+      {
+        "A": "audio_files/834.wav",
+        "B": "audio_files/835.wav"
+      }
+    ]
+  },
+  {
+    "word": "小蜜蜂",
+    "word_audio_path": "audio_files/836.wav",
+    "paths": [
+      {
+        "A": "audio_files/837.wav",
+        "B": "audio_files/838.wav"
+      },
+      {
+        "A": "audio_files/839.wav",
+        "B": "audio_files/840.wav"
+      },
+      {
+        "A": "audio_files/841.wav",
+        "B": "audio_files/842.wav"
+      },
+      {
+        "A": "audio_files/843.wav",
+        "B": "audio_files/844.wav"
+      },
+      {
+        "A": "audio_files/845.wav",
+        "B": "audio_files/846.wav"
+      }
+    ]
+  },
+  {
+    "word": "小劇場",
+    "word_audio_path": "audio_files/847.wav",
+    "paths": [
+      {
+        "A": "audio_files/848.wav",
+        "B": "audio_files/849.wav"
+      },
+      {
+        "A": "audio_files/850.wav",
+        "B": "audio_files/851.wav"
+      },
+      {
+        "A": "audio_files/852.wav",
+        "B": "audio_files/853.wav"
+      },
+      {
+        "A": "audio_files/854.wav",
+        "B": "audio_files/855.wav"
+      },
+      {
+        "A": "audio_files/856.wav",
+        "B": "audio_files/857.wav"
+      }
+    ]
+  },
+  {
+    "word": "小模",
+    "word_audio_path": "audio_files/858.wav",
+    "paths": [
+      {
+        "A": "audio_files/859.wav",
+        "B": "audio_files/860.wav"
+      },
+      {
+        "A": "audio_files/861.wav",
+        "B": "audio_files/862.wav"
+      },
+      {
+        "A": "audio_files/863.wav",
+        "B": "audio_files/864.wav"
+      },
+      {
+        "A": "audio_files/865.wav",
+        "B": "audio_files/866.wav"
+      },
+      {
+        "A": "audio_files/867.wav",
+        "B": "audio_files/868.wav"
+      }
+    ]
+  },
+  {
+    "word": "小編",
+    "word_audio_path": "audio_files/869.wav",
+    "paths": [
+      {
+        "A": "audio_files/870.wav",
+        "B": "audio_files/871.wav"
+      },
+      {
+        "A": "audio_files/872.wav",
+        "B": "audio_files/873.wav"
+      },
+      {
+        "A": "audio_files/874.wav",
+        "B": "audio_files/875.wav"
+      },
+      {
+        "A": "audio_files/876.wav",
+        "B": "audio_files/877.wav"
+      },
+      {
+        "A": "audio_files/878.wav",
+        "B": "audio_files/879.wav"
+      }
+    ]
+  },
+  {
+    "word": "山道猴子",
+    "word_audio_path": "audio_files/880.wav",
+    "paths": [
+      {
+        "A": "audio_files/881.wav",
+        "B": "audio_files/882.wav"
+      },
+      {
+        "A": "audio_files/883.wav",
+        "B": "audio_files/884.wav"
+      },
+      {
+        "A": "audio_files/885.wav",
+        "B": "audio_files/886.wav"
+      },
+      {
+        "A": "audio_files/887.wav",
+        "B": "audio_files/888.wav"
+      },
+      {
+        "A": "audio_files/889.wav",
+        "B": "audio_files/890.wav"
+      }
+    ]
+  },
+  {
+    "word": "工具人",
+    "word_audio_path": "audio_files/891.wav",
+    "paths": [
+      {
+        "A": "audio_files/892.wav",
+        "B": "audio_files/893.wav"
+      },
+      {
+        "A": "audio_files/894.wav",
+        "B": "audio_files/895.wav"
+      },
+      {
+        "A": "audio_files/896.wav",
+        "B": "audio_files/897.wav"
+      },
+      {
+        "A": "audio_files/898.wav",
+        "B": "audio_files/899.wav"
+      },
+      {
+        "A": "audio_files/900.wav",
+        "B": "audio_files/901.wav"
+      }
+    ]
+  },
+  {
+    "word": "工具人",
+    "word_audio_path": "audio_files/902.wav",
+    "paths": [
+      {
+        "A": "audio_files/903.wav",
+        "B": "audio_files/904.wav"
+      },
+      {
+        "A": "audio_files/905.wav",
+        "B": "audio_files/906.wav"
+      },
+      {
+        "A": "audio_files/907.wav",
+        "B": "audio_files/908.wav"
+      },
+      {
+        "A": "audio_files/909.wav",
+        "B": "audio_files/910.wav"
+      },
+      {
+        "A": "audio_files/911.wav",
+        "B": "audio_files/912.wav"
+      }
+    ]
+  },
+  {
+    "word": "工商",
+    "word_audio_path": "audio_files/913.wav",
+    "paths": [
+      {
+        "A": "audio_files/914.wav",
+        "B": "audio_files/915.wav"
+      },
+      {
+        "A": "audio_files/916.wav",
+        "B": "audio_files/917.wav"
+      },
+      {
+        "A": "audio_files/918.wav",
+        "B": "audio_files/919.wav"
+      },
+      {
+        "A": "audio_files/920.wav",
+        "B": "audio_files/921.wav"
+      },
+      {
+        "A": "audio_files/922.wav",
+        "B": "audio_files/923.wav"
+      }
+    ]
+  },
+  {
+    "word": "已知用火",
+    "word_audio_path": "audio_files/924.wav",
+    "paths": [
+      {
+        "A": "audio_files/925.wav",
+        "B": "audio_files/926.wav"
+      },
+      {
+        "A": "audio_files/927.wav",
+        "B": "audio_files/928.wav"
+      },
+      {
+        "A": "audio_files/929.wav",
+        "B": "audio_files/930.wav"
+      },
+      {
+        "A": "audio_files/931.wav",
+        "B": "audio_files/932.wav"
+      },
+      {
+        "A": "audio_files/933.wav",
+        "B": "audio_files/934.wav"
+      }
+    ]
+  },
+  {
+    "word": "不是，哥們",
+    "word_audio_path": "audio_files/935.wav",
+    "paths": [
+      {
+        "A": "audio_files/936.wav",
+        "B": "audio_files/937.wav"
+      },
+      {
+        "A": "audio_files/938.wav",
+        "B": "audio_files/939.wav"
+      },
+      {
+        "A": "audio_files/940.wav",
+        "B": "audio_files/941.wav"
+      },
+      {
+        "A": "audio_files/942.wav",
+        "B": "audio_files/943.wav"
+      },
+      {
+        "A": "audio_files/944.wav",
+        "B": "audio_files/945.wav"
+      }
+    ]
+  },
+  {
+    "word": "不能只有我看到",
+    "word_audio_path": "audio_files/946.wav",
+    "paths": [
+      {
+        "A": "audio_files/947.wav",
+        "B": "audio_files/948.wav"
+      },
+      {
+        "A": "audio_files/949.wav",
+        "B": "audio_files/950.wav"
+      },
+      {
+        "A": "audio_files/951.wav",
+        "B": "audio_files/952.wav"
+      },
+      {
+        "A": "audio_files/953.wav",
+        "B": "audio_files/954.wav"
+      },
+      {
+        "A": "audio_files/955.wav",
+        "B": "audio_files/956.wav"
+      }
+    ]
+  },
+  {
+    "word": "不演了",
+    "word_audio_path": "audio_files/957.wav",
+    "paths": [
+      {
+        "A": "audio_files/958.wav",
+        "B": "audio_files/959.wav"
+      },
+      {
+        "A": "audio_files/960.wav",
+        "B": "audio_files/961.wav"
+      },
+      {
+        "A": "audio_files/962.wav",
+        "B": "audio_files/963.wav"
+      },
+      {
+        "A": "audio_files/964.wav",
+        "B": "audio_files/965.wav"
+      },
+      {
+        "A": "audio_files/966.wav",
+        "B": "audio_files/967.wav"
+      }
+    ]
+  },
+  {
+    "word": "不懂就問",
+    "word_audio_path": "audio_files/968.wav",
+    "paths": [
+      {
+        "A": "audio_files/969.wav",
+        "B": "audio_files/970.wav"
+      },
+      {
+        "A": "audio_files/971.wav",
+        "B": "audio_files/972.wav"
+      },
+      {
+        "A": "audio_files/973.wav",
+        "B": "audio_files/974.wav"
+      },
+      {
+        "A": "audio_files/975.wav",
+        "B": "audio_files/976.wav"
+      },
+      {
+        "A": "audio_files/977.wav",
+        "B": "audio_files/978.wav"
+      }
+    ]
+  },
+  {
+    "word": "不EY",
+    "word_audio_path": "audio_files/979.wav",
+    "paths": [
+      {
+        "A": "audio_files/980.wav",
+        "B": "audio_files/981.wav"
+      },
+      {
+        "A": "audio_files/982.wav",
+        "B": "audio_files/983.wav"
+      },
+      {
+        "A": "audio_files/984.wav",
+        "B": "audio_files/985.wav"
+      },
+      {
+        "A": "audio_files/986.wav",
+        "B": "audio_files/987.wav"
+      },
+      {
+        "A": "audio_files/988.wav",
+        "B": "audio_files/989.wav"
+      }
+    ]
+  },
+  {
+    "word": "不U",
+    "word_audio_path": "audio_files/990.wav",
+    "paths": [
+      {
+        "A": "audio_files/991.wav",
+        "B": "audio_files/992.wav"
+      },
+      {
+        "A": "audio_files/993.wav",
+        "B": "audio_files/994.wav"
+      },
+      {
+        "A": "audio_files/995.wav",
+        "B": "audio_files/996.wav"
+      },
+      {
+        "A": "audio_files/997.wav",
+        "B": "audio_files/998.wav"
+      },
+      {
+        "A": "audio_files/999.wav",
+        "B": "audio_files/1000.wav"
+      }
+    ]
+  },
+  {
+    "word": "中二",
+    "word_audio_path": "audio_files/1001.wav",
+    "paths": [
+      {
+        "A": "audio_files/1002.wav",
+        "B": "audio_files/1003.wav"
+      },
+      {
+        "A": "audio_files/1004.wav",
+        "B": "audio_files/1005.wav"
+      },
+      {
+        "A": "audio_files/1006.wav",
+        "B": "audio_files/1007.wav"
+      },
+      {
+        "A": "audio_files/1008.wav",
+        "B": "audio_files/1009.wav"
+      },
+      {
+        "A": "audio_files/1010.wav",
+        "B": "audio_files/1011.wav"
+      }
+    ]
+  },
+  {
+    "word": "中毒太深",
+    "word_audio_path": "audio_files/1012.wav",
+    "paths": [
+      {
+        "A": "audio_files/1013.wav",
+        "B": "audio_files/1014.wav"
+      },
+      {
+        "A": "audio_files/1015.wav",
+        "B": "audio_files/1016.wav"
+      },
+      {
+        "A": "audio_files/1017.wav",
+        "B": "audio_files/1018.wav"
+      },
+      {
+        "A": "audio_files/1019.wav",
+        "B": "audio_files/1020.wav"
+      },
+      {
+        "A": "audio_files/1021.wav",
+        "B": "audio_files/1022.wav"
+      }
+    ]
+  },
+  {
+    "word": "中部粽",
+    "word_audio_path": "audio_files/1023.wav",
+    "paths": [
+      {
+        "A": "audio_files/1024.wav",
+        "B": "audio_files/1025.wav"
+      },
+      {
+        "A": "audio_files/1026.wav",
+        "B": "audio_files/1027.wav"
+      },
+      {
+        "A": "audio_files/1028.wav",
+        "B": "audio_files/1029.wav"
+      },
+      {
+        "A": "audio_files/1030.wav",
+        "B": "audio_files/1031.wav"
+      },
+      {
+        "A": "audio_files/1032.wav",
+        "B": "audio_files/1033.wav"
+      }
+    ]
+  },
+  {
+    "word": "中猴",
+    "word_audio_path": "audio_files/1034.wav",
+    "paths": [
+      {
+        "A": "audio_files/1035.wav",
+        "B": "audio_files/1036.wav"
+      },
+      {
+        "A": "audio_files/1037.wav",
+        "B": "audio_files/1038.wav"
+      },
+      {
+        "A": "audio_files/1039.wav",
+        "B": "audio_files/1040.wav"
+      },
+      {
+        "A": "audio_files/1041.wav",
+        "B": "audio_files/1042.wav"
+      },
+      {
+        "A": "audio_files/1043.wav",
+        "B": "audio_files/1044.wav"
+      }
+    ]
+  },
+  {
+    "word": "中槍",
+    "word_audio_path": "audio_files/1045.wav",
+    "paths": [
+      {
+        "A": "audio_files/1046.wav",
+        "B": "audio_files/1047.wav"
+      },
+      {
+        "A": "audio_files/1048.wav",
+        "B": "audio_files/1049.wav"
+      },
+      {
+        "A": "audio_files/1050.wav",
+        "B": "audio_files/1051.wav"
+      },
+      {
+        "A": "audio_files/1052.wav",
+        "B": "audio_files/1053.wav"
+      },
+      {
+        "A": "audio_files/1054.wav",
+        "B": "audio_files/1055.wav"
+      }
+    ]
+  },
+  {
+    "word": "中獎",
+    "word_audio_path": "audio_files/1056.wav",
+    "paths": [
+      {
+        "A": "audio_files/1057.wav",
+        "B": "audio_files/1058.wav"
+      },
+      {
+        "A": "audio_files/1059.wav",
+        "B": "audio_files/1060.wav"
+      },
+      {
+        "A": "audio_files/1061.wav",
+        "B": "audio_files/1062.wav"
+      },
+      {
+        "A": "audio_files/1063.wav",
+        "B": "audio_files/1064.wav"
+      },
+      {
+        "A": "audio_files/1065.wav",
+        "B": "audio_files/1066.wav"
+      }
+    ]
+  },
+  {
+    "word": "中離",
+    "word_audio_path": "audio_files/1067.wav",
+    "paths": [
+      {
+        "A": "audio_files/1068.wav",
+        "B": "audio_files/1069.wav"
+      },
+      {
+        "A": "audio_files/1070.wav",
+        "B": "audio_files/1071.wav"
+      },
+      {
+        "A": "audio_files/1072.wav",
+        "B": "audio_files/1073.wav"
+      },
+      {
+        "A": "audio_files/1074.wav",
+        "B": "audio_files/1075.wav"
+      },
+      {
+        "A": "audio_files/1076.wav",
+        "B": "audio_files/1077.wav"
+      }
+    ]
+  },
+  {
+    "word": "五五波",
+    "word_audio_path": "audio_files/1078.wav",
+    "paths": [
+      {
+        "A": "audio_files/1079.wav",
+        "B": "audio_files/1080.wav"
+      },
+      {
+        "A": "audio_files/1081.wav",
+        "B": "audio_files/1082.wav"
+      },
+      {
+        "A": "audio_files/1083.wav",
+        "B": "audio_files/1084.wav"
+      },
+      {
+        "A": "audio_files/1085.wav",
+        "B": "audio_files/1086.wav"
+      },
+      {
+        "A": "audio_files/1087.wav",
+        "B": "audio_files/1088.wav"
+      }
+    ]
+  },
+  {
+    "word": "五毛",
+    "word_audio_path": "audio_files/1089.wav",
+    "paths": [
+      {
+        "A": "audio_files/1090.wav",
+        "B": "audio_files/1091.wav"
+      },
+      {
+        "A": "audio_files/1092.wav",
+        "B": "audio_files/1093.wav"
+      },
+      {
+        "A": "audio_files/1094.wav",
+        "B": "audio_files/1095.wav"
+      },
+      {
+        "A": "audio_files/1096.wav",
+        "B": "audio_files/1097.wav"
+      },
+      {
+        "A": "audio_files/1098.wav",
+        "B": "audio_files/1099.wav"
+      }
+    ]
+  },
+  {
+    "word": "元宇宙",
+    "word_audio_path": "audio_files/1100.wav",
+    "paths": [
+      {
+        "A": "audio_files/1101.wav",
+        "B": "audio_files/1102.wav"
+      },
+      {
+        "A": "audio_files/1103.wav",
+        "B": "audio_files/1104.wav"
+      },
+      {
+        "A": "audio_files/1105.wav",
+        "B": "audio_files/1106.wav"
+      },
+      {
+        "A": "audio_files/1107.wav",
+        "B": "audio_files/1108.wav"
+      },
+      {
+        "A": "audio_files/1109.wav",
+        "B": "audio_files/1110.wav"
+      }
+    ]
+  },
+  {
+    "word": "內牛滿面",
+    "word_audio_path": "audio_files/1111.wav",
+    "paths": [
+      {
+        "A": "audio_files/1112.wav",
+        "B": "audio_files/1113.wav"
+      },
+      {
+        "A": "audio_files/1114.wav",
+        "B": "audio_files/1115.wav"
+      },
+      {
+        "A": "audio_files/1116.wav",
+        "B": "audio_files/1117.wav"
+      },
+      {
+        "A": "audio_files/1118.wav",
+        "B": "audio_files/1119.wav"
+      },
+      {
+        "A": "audio_files/1120.wav",
+        "B": "audio_files/1121.wav"
+      }
+    ]
+  },
+  {
+    "word": "內卷",
+    "word_audio_path": "audio_files/1122.wav",
+    "paths": [
+      {
+        "A": "audio_files/1123.wav",
+        "B": "audio_files/1124.wav"
+      },
+      {
+        "A": "audio_files/1125.wav",
+        "B": "audio_files/1126.wav"
+      },
+      {
+        "A": "audio_files/1127.wav",
+        "B": "audio_files/1128.wav"
+      },
+      {
+        "A": "audio_files/1129.wav",
+        "B": "audio_files/1130.wav"
+      },
+      {
+        "A": "audio_files/1131.wav",
+        "B": "audio_files/1132.wav"
+      }
+    ]
+  },
+  {
+    "word": "內容農場",
+    "word_audio_path": "audio_files/1133.wav",
+    "paths": [
+      {
+        "A": "audio_files/1134.wav",
+        "B": "audio_files/1135.wav"
+      },
+      {
+        "A": "audio_files/1136.wav",
+        "B": "audio_files/1137.wav"
+      },
+      {
+        "A": "audio_files/1138.wav",
+        "B": "audio_files/1139.wav"
+      },
+      {
+        "A": "audio_files/1140.wav",
+        "B": "audio_files/1141.wav"
+      },
+      {
+        "A": "audio_files/1142.wav",
+        "B": "audio_files/1143.wav"
+      }
+    ]
+  },
+  {
+    "word": "公務機",
+    "word_audio_path": "audio_files/1144.wav",
+    "paths": [
+      {
+        "A": "audio_files/1145.wav",
+        "B": "audio_files/1146.wav"
+      },
+      {
+        "A": "audio_files/1147.wav",
+        "B": "audio_files/1148.wav"
+      },
+      {
+        "A": "audio_files/1149.wav",
+        "B": "audio_files/1150.wav"
+      },
+      {
+        "A": "audio_files/1151.wav",
+        "B": "audio_files/1152.wav"
+      },
+      {
+        "A": "audio_files/1153.wav",
+        "B": "audio_files/1154.wav"
+      }
+    ]
+  },
+  {
+    "word": "切心",
+    "word_audio_path": "audio_files/1155.wav",
+    "paths": [
+      {
+        "A": "audio_files/1156.wav",
+        "B": "audio_files/1157.wav"
+      },
+      {
+        "A": "audio_files/1158.wav",
+        "B": "audio_files/1159.wav"
+      },
+      {
+        "A": "audio_files/1160.wav",
+        "B": "audio_files/1161.wav"
+      },
+      {
+        "A": "audio_files/1162.wav",
+        "B": "audio_files/1163.wav"
+      },
+      {
+        "A": "audio_files/1164.wav",
+        "B": "audio_files/1165.wav"
+      }
+    ]
+  },
+  {
+    "word": "反串",
+    "word_audio_path": "audio_files/1166.wav",
+    "paths": [
+      {
+        "A": "audio_files/1167.wav",
+        "B": "audio_files/1168.wav"
+      },
+      {
+        "A": "audio_files/1169.wav",
+        "B": "audio_files/1170.wav"
+      },
+      {
+        "A": "audio_files/1171.wav",
+        "B": "audio_files/1172.wav"
+      },
+      {
+        "A": "audio_files/1173.wav",
+        "B": "audio_files/1174.wav"
+      },
+      {
+        "A": "audio_files/1175.wav",
+        "B": "audio_files/1176.wav"
+      }
+    ]
+  },
+  {
+    "word": "天花板",
+    "word_audio_path": "audio_files/1177.wav",
+    "paths": [
+      {
+        "A": "audio_files/1178.wav",
+        "B": "audio_files/1179.wav"
+      },
+      {
+        "A": "audio_files/1180.wav",
+        "B": "audio_files/1181.wav"
+      },
+      {
+        "A": "audio_files/1182.wav",
+        "B": "audio_files/1183.wav"
+      },
+      {
+        "A": "audio_files/1184.wav",
+        "B": "audio_files/1185.wav"
+      },
+      {
+        "A": "audio_files/1186.wav",
+        "B": "audio_files/1187.wav"
+      }
+    ]
+  },
+  {
+    "word": "天菜",
+    "word_audio_path": "audio_files/1188.wav",
+    "paths": [
+      {
+        "A": "audio_files/1189.wav",
+        "B": "audio_files/1190.wav"
+      },
+      {
+        "A": "audio_files/1191.wav",
+        "B": "audio_files/1192.wav"
+      },
+      {
+        "A": "audio_files/1193.wav",
+        "B": "audio_files/1194.wav"
+      },
+      {
+        "A": "audio_files/1195.wav",
+        "B": "audio_files/1196.wav"
+      },
+      {
+        "A": "audio_files/1197.wav",
+        "B": "audio_files/1198.wav"
+      }
+    ]
+  },
+  {
+    "word": "天選之人",
+    "word_audio_path": "audio_files/1199.wav",
+    "paths": [
+      {
+        "A": "audio_files/1200.wav",
+        "B": "audio_files/1201.wav"
+      },
+      {
+        "A": "audio_files/1202.wav",
+        "B": "audio_files/1203.wav"
+      },
+      {
+        "A": "audio_files/1204.wav",
+        "B": "audio_files/1205.wav"
+      },
+      {
+        "A": "audio_files/1206.wav",
+        "B": "audio_files/1207.wav"
+      },
+      {
+        "A": "audio_files/1208.wav",
+        "B": "audio_files/1209.wav"
+      }
+    ]
+  },
+  {
+    "word": "天龍人",
+    "word_audio_path": "audio_files/1210.wav",
+    "paths": [
+      {
+        "A": "audio_files/1211.wav",
+        "B": "audio_files/1212.wav"
+      },
+      {
+        "A": "audio_files/1213.wav",
+        "B": "audio_files/1214.wav"
+      },
+      {
+        "A": "audio_files/1215.wav",
+        "B": "audio_files/1216.wav"
+      },
+      {
+        "A": "audio_files/1217.wav",
+        "B": "audio_files/1218.wav"
+      },
+      {
+        "A": "audio_files/1219.wav",
+        "B": "audio_files/1220.wav"
+      }
+    ]
+  },
+  {
+    "word": "夭壽",
+    "word_audio_path": "audio_files/1221.wav",
+    "paths": [
+      {
+        "A": "audio_files/1222.wav",
+        "B": "audio_files/1223.wav"
+      },
+      {
+        "A": "audio_files/1224.wav",
+        "B": "audio_files/1225.wav"
+      },
+      {
+        "A": "audio_files/1226.wav",
+        "B": "audio_files/1227.wav"
+      },
+      {
+        "A": "audio_files/1228.wav",
+        "B": "audio_files/1229.wav"
+      },
+      {
+        "A": "audio_files/1230.wav",
+        "B": "audio_files/1231.wav"
+      }
+    ]
+  },
+  {
+    "word": "巴嘎nono",
+    "word_audio_path": "audio_files/1232.wav",
+    "paths": [
+      {
+        "A": "audio_files/1233.wav",
+        "B": "audio_files/1234.wav"
+      },
+      {
+        "A": "audio_files/1235.wav",
+        "B": "audio_files/1236.wav"
+      },
+      {
+        "A": "audio_files/1237.wav",
+        "B": "audio_files/1238.wav"
+      },
+      {
+        "A": "audio_files/1239.wav",
+        "B": "audio_files/1240.wav"
+      },
+      {
+        "A": "audio_files/1241.wav",
+        "B": "audio_files/1242.wav"
+      }
+    ]
+  },
+  {
+    "word": "巴蕊",
+    "word_audio_path": "audio_files/1243.wav",
+    "paths": [
+      {
+        "A": "audio_files/1244.wav",
+        "B": "audio_files/1245.wav"
+      },
+      {
+        "A": "audio_files/1246.wav",
+        "B": "audio_files/1247.wav"
+      },
+      {
+        "A": "audio_files/1248.wav",
+        "B": "audio_files/1249.wav"
+      },
+      {
+        "A": "audio_files/1250.wav",
+        "B": "audio_files/1251.wav"
+      },
+      {
+        "A": "audio_files/1252.wav",
+        "B": "audio_files/1253.wav"
+      }
+    ]
+  },
+  {
+    "word": "心結",
+    "word_audio_path": "audio_files/1254.wav",
+    "paths": [
+      {
+        "A": "audio_files/1255.wav",
+        "B": "audio_files/1256.wav"
+      },
+      {
+        "A": "audio_files/1257.wav",
+        "B": "audio_files/1258.wav"
+      },
+      {
+        "A": "audio_files/1259.wav",
+        "B": "audio_files/1260.wav"
+      },
+      {
+        "A": "audio_files/1261.wav",
+        "B": "audio_files/1262.wav"
+      },
+      {
+        "A": "audio_files/1263.wav",
+        "B": "audio_files/1264.wav"
+      }
+    ]
+  },
+  {
+    "word": "手刀",
+    "word_audio_path": "audio_files/1265.wav",
+    "paths": [
+      {
+        "A": "audio_files/1266.wav",
+        "B": "audio_files/1267.wav"
+      },
+      {
+        "A": "audio_files/1268.wav",
+        "B": "audio_files/1269.wav"
+      },
+      {
+        "A": "audio_files/1270.wav",
+        "B": "audio_files/1271.wav"
+      },
+      {
+        "A": "audio_files/1272.wav",
+        "B": "audio_files/1273.wav"
+      },
+      {
+        "A": "audio_files/1274.wav",
+        "B": "audio_files/1275.wav"
+      }
+    ]
+  },
+  {
+    "word": "手搖",
+    "word_audio_path": "audio_files/1276.wav",
+    "paths": [
+      {
+        "A": "audio_files/1277.wav",
+        "B": "audio_files/1278.wav"
+      },
+      {
+        "A": "audio_files/1279.wav",
+        "B": "audio_files/1280.wav"
+      },
+      {
+        "A": "audio_files/1281.wav",
+        "B": "audio_files/1282.wav"
+      },
+      {
+        "A": "audio_files/1283.wav",
+        "B": "audio_files/1284.wav"
+      },
+      {
+        "A": "audio_files/1285.wav",
+        "B": "audio_files/1286.wav"
+      }
+    ]
+  },
+  {
+    "word": "手遊",
+    "word_audio_path": "audio_files/1287.wav",
+    "paths": [
+      {
+        "A": "audio_files/1288.wav",
+        "B": "audio_files/1289.wav"
+      },
+      {
+        "A": "audio_files/1290.wav",
+        "B": "audio_files/1291.wav"
+      },
+      {
+        "A": "audio_files/1292.wav",
+        "B": "audio_files/1293.wav"
+      },
+      {
+        "A": "audio_files/1294.wav",
+        "B": "audio_files/1295.wav"
+      },
+      {
+        "A": "audio_files/1296.wav",
+        "B": "audio_files/1297.wav"
+      }
+    ]
+  },
+  {
+    "word": "支語",
+    "word_audio_path": "audio_files/1298.wav",
+    "paths": [
+      {
+        "A": "audio_files/1299.wav",
+        "B": "audio_files/1300.wav"
+      },
+      {
+        "A": "audio_files/1301.wav",
+        "B": "audio_files/1302.wav"
+      },
+      {
+        "A": "audio_files/1303.wav",
+        "B": "audio_files/1304.wav"
+      },
+      {
+        "A": "audio_files/1305.wav",
+        "B": "audio_files/1306.wav"
+      },
+      {
+        "A": "audio_files/1307.wav",
+        "B": "audio_files/1308.wav"
+      }
+    ]
+  },
+  {
+    "word": "支語警察",
+    "word_audio_path": "audio_files/1309.wav",
+    "paths": [
+      {
+        "A": "audio_files/1310.wav",
+        "B": "audio_files/1311.wav"
+      },
+      {
+        "A": "audio_files/1312.wav",
+        "B": "audio_files/1313.wav"
+      },
+      {
+        "A": "audio_files/1314.wav",
+        "B": "audio_files/1315.wav"
+      },
+      {
+        "A": "audio_files/1316.wav",
+        "B": "audio_files/1317.wav"
+      },
+      {
+        "A": "audio_files/1318.wav",
+        "B": "audio_files/1319.wav"
+      }
+    ]
+  },
+  {
+    "word": "斗內",
+    "word_audio_path": "audio_files/1320.wav",
+    "paths": [
+      {
+        "A": "audio_files/1321.wav",
+        "B": "audio_files/1322.wav"
+      },
+      {
+        "A": "audio_files/1323.wav",
+        "B": "audio_files/1324.wav"
+      },
+      {
+        "A": "audio_files/1325.wav",
+        "B": "audio_files/1326.wav"
+      },
+      {
+        "A": "audio_files/1327.wav",
+        "B": "audio_files/1328.wav"
+      },
+      {
+        "A": "audio_files/1329.wav",
+        "B": "audio_files/1330.wav"
+      }
+    ]
+  },
+  {
+    "word": "月經文",
+    "word_audio_path": "audio_files/1331.wav",
+    "paths": [
+      {
+        "A": "audio_files/1332.wav",
+        "B": "audio_files/1333.wav"
+      },
+      {
+        "A": "audio_files/1334.wav",
+        "B": "audio_files/1335.wav"
+      },
+      {
+        "A": "audio_files/1336.wav",
+        "B": "audio_files/1337.wav"
+      },
+      {
+        "A": "audio_files/1338.wav",
+        "B": "audio_files/1339.wav"
+      },
+      {
+        "A": "audio_files/1340.wav",
+        "B": "audio_files/1341.wav"
+      }
+    ]
+  },
+  {
+    "word": "木耳",
+    "word_audio_path": "audio_files/1342.wav",
+    "paths": [
+      {
+        "A": "audio_files/1343.wav",
+        "B": "audio_files/1344.wav"
+      },
+      {
+        "A": "audio_files/1345.wav",
+        "B": "audio_files/1346.wav"
+      },
+      {
+        "A": "audio_files/1347.wav",
+        "B": "audio_files/1348.wav"
+      },
+      {
+        "A": "audio_files/1349.wav",
+        "B": "audio_files/1350.wav"
+      },
+      {
+        "A": "audio_files/1351.wav",
+        "B": "audio_files/1352.wav"
+      }
+    ]
+  },
+  {
+    "word": "木舌",
+    "word_audio_path": "audio_files/1353.wav",
+    "paths": [
+      {
+        "A": "audio_files/1354.wav",
+        "B": "audio_files/1355.wav"
+      },
+      {
+        "A": "audio_files/1356.wav",
+        "B": "audio_files/1357.wav"
+      },
+      {
+        "A": "audio_files/1358.wav",
+        "B": "audio_files/1359.wav"
+      },
+      {
+        "A": "audio_files/1360.wav",
+        "B": "audio_files/1361.wav"
+      },
+      {
+        "A": "audio_files/1362.wav",
+        "B": "audio_files/1363.wav"
+      }
+    ]
+  },
+  {
+    "word": "毛",
+    "word_audio_path": "audio_files/1364.wav",
+    "paths": [
+      {
+        "A": "audio_files/1365.wav",
+        "B": "audio_files/1366.wav"
+      },
+      {
+        "A": "audio_files/1367.wav",
+        "B": "audio_files/1368.wav"
+      },
+      {
+        "A": "audio_files/1369.wav",
+        "B": "audio_files/1370.wav"
+      },
+      {
+        "A": "audio_files/1371.wav",
+        "B": "audio_files/1372.wav"
+      },
+      {
+        "A": "audio_files/1373.wav",
+        "B": "audio_files/1374.wav"
+      }
+    ]
+  },
+  {
+    "word": "毛小孩",
+    "word_audio_path": "audio_files/1375.wav",
+    "paths": [
+      {
+        "A": "audio_files/1376.wav",
+        "B": "audio_files/1377.wav"
+      },
+      {
+        "A": "audio_files/1378.wav",
+        "B": "audio_files/1379.wav"
+      },
+      {
+        "A": "audio_files/1380.wav",
+        "B": "audio_files/1381.wav"
+      },
+      {
+        "A": "audio_files/1382.wav",
+        "B": "audio_files/1383.wav"
+      },
+      {
+        "A": "audio_files/1384.wav",
+        "B": "audio_files/1385.wav"
+      }
+    ]
+  },
+  {
+    "word": "毛孩",
+    "word_audio_path": "audio_files/1386.wav",
+    "paths": [
+      {
+        "A": "audio_files/1387.wav",
+        "B": "audio_files/1388.wav"
+      },
+      {
+        "A": "audio_files/1389.wav",
+        "B": "audio_files/1390.wav"
+      },
+      {
+        "A": "audio_files/1391.wav",
+        "B": "audio_files/1392.wav"
+      },
+      {
+        "A": "audio_files/1393.wav",
+        "B": "audio_files/1394.wav"
+      },
+      {
+        "A": "audio_files/1395.wav",
+        "B": "audio_files/1396.wav"
+      }
+    ]
+  },
+  {
+    "word": "毛很多",
+    "word_audio_path": "audio_files/1397.wav",
+    "paths": [
+      {
+        "A": "audio_files/1398.wav",
+        "B": "audio_files/1399.wav"
+      },
+      {
+        "A": "audio_files/1400.wav",
+        "B": "audio_files/1401.wav"
+      },
+      {
+        "A": "audio_files/1402.wav",
+        "B": "audio_files/1403.wav"
+      },
+      {
+        "A": "audio_files/1404.wav",
+        "B": "audio_files/1405.wav"
+      },
+      {
+        "A": "audio_files/1406.wav",
+        "B": "audio_files/1407.wav"
+      }
+    ]
+  },
+  {
+    "word": "水",
+    "word_audio_path": "audio_files/1408.wav",
+    "paths": [
+      {
+        "A": "audio_files/1409.wav",
+        "B": "audio_files/1410.wav"
+      },
+      {
+        "A": "audio_files/1411.wav",
+        "B": "audio_files/1412.wav"
+      },
+      {
+        "A": "audio_files/1413.wav",
+        "B": "audio_files/1414.wav"
+      },
+      {
+        "A": "audio_files/1415.wav",
+        "B": "audio_files/1416.wav"
+      },
+      {
+        "A": "audio_files/1417.wav",
+        "B": "audio_files/1418.wav"
+      }
+    ]
+  },
+  {
+    "word": "水水",
+    "word_audio_path": "audio_files/1419.wav",
+    "paths": [
+      {
+        "A": "audio_files/1420.wav",
+        "B": "audio_files/1421.wav"
+      },
+      {
+        "A": "audio_files/1422.wav",
+        "B": "audio_files/1423.wav"
+      },
+      {
+        "A": "audio_files/1424.wav",
+        "B": "audio_files/1425.wav"
+      },
+      {
+        "A": "audio_files/1426.wav",
+        "B": "audio_files/1427.wav"
+      },
+      {
+        "A": "audio_files/1428.wav",
+        "B": "audio_files/1429.wav"
+      }
+    ]
+  },
+  {
+    "word": "水很深",
+    "word_audio_path": "audio_files/1430.wav",
+    "paths": [
+      {
+        "A": "audio_files/1431.wav",
+        "B": "audio_files/1432.wav"
+      },
+      {
+        "A": "audio_files/1433.wav",
+        "B": "audio_files/1434.wav"
+      },
+      {
+        "A": "audio_files/1435.wav",
+        "B": "audio_files/1436.wav"
+      },
+      {
+        "A": "audio_files/1437.wav",
+        "B": "audio_files/1438.wav"
+      },
+      {
+        "A": "audio_files/1439.wav",
+        "B": "audio_files/1440.wav"
+      }
+    ]
+  },
+  {
+    "word": "水軍",
+    "word_audio_path": "audio_files/1441.wav",
+    "paths": [
+      {
+        "A": "audio_files/1442.wav",
+        "B": "audio_files/1443.wav"
+      },
+      {
+        "A": "audio_files/1444.wav",
+        "B": "audio_files/1445.wav"
+      },
+      {
+        "A": "audio_files/1446.wav",
+        "B": "audio_files/1447.wav"
+      },
+      {
+        "A": "audio_files/1448.wav",
+        "B": "audio_files/1449.wav"
+      },
+      {
+        "A": "audio_files/1450.wav",
+        "B": "audio_files/1451.wav"
+      }
+    ]
+  },
+  {
+    "word": "水逆",
+    "word_audio_path": "audio_files/1452.wav",
+    "paths": [
+      {
+        "A": "audio_files/1453.wav",
+        "B": "audio_files/1454.wav"
+      },
+      {
+        "A": "audio_files/1455.wav",
+        "B": "audio_files/1456.wav"
+      },
+      {
+        "A": "audio_files/1457.wav",
+        "B": "audio_files/1458.wav"
+      },
+      {
+        "A": "audio_files/1459.wav",
+        "B": "audio_files/1460.wav"
+      },
+      {
+        "A": "audio_files/1461.wav",
+        "B": "audio_files/1462.wav"
+      }
+    ]
+  },
+  {
+    "word": "水桶",
+    "word_audio_path": "audio_files/1463.wav",
+    "paths": [
+      {
+        "A": "audio_files/1464.wav",
+        "B": "audio_files/1465.wav"
+      },
+      {
+        "A": "audio_files/1466.wav",
+        "B": "audio_files/1467.wav"
+      },
+      {
+        "A": "audio_files/1468.wav",
+        "B": "audio_files/1469.wav"
+      },
+      {
+        "A": "audio_files/1470.wav",
+        "B": "audio_files/1471.wav"
+      },
+      {
+        "A": "audio_files/1472.wav",
+        "B": "audio_files/1473.wav"
+      }
+    ]
+  },
+  {
+    "word": "水喔",
+    "word_audio_path": "audio_files/1474.wav",
+    "paths": [
+      {
+        "A": "audio_files/1475.wav",
+        "B": "audio_files/1476.wav"
+      },
+      {
+        "A": "audio_files/1477.wav",
+        "B": "audio_files/1478.wav"
+      },
+      {
+        "A": "audio_files/1479.wav",
+        "B": "audio_files/1480.wav"
+      },
+      {
+        "A": "audio_files/1481.wav",
+        "B": "audio_files/1482.wav"
+      },
+      {
+        "A": "audio_files/1483.wav",
+        "B": "audio_files/1484.wav"
+      }
+    ]
+  },
+  {
+    "word": "火",
+    "word_audio_path": "audio_files/1485.wav",
+    "paths": [
+      {
+        "A": "audio_files/1486.wav",
+        "B": "audio_files/1487.wav"
+      },
+      {
+        "A": "audio_files/1488.wav",
+        "B": "audio_files/1489.wav"
+      },
+      {
+        "A": "audio_files/1490.wav",
+        "B": "audio_files/1491.wav"
+      },
+      {
+        "A": "audio_files/1492.wav",
+        "B": "audio_files/1493.wav"
+      },
+      {
+        "A": "audio_files/1494.wav",
+        "B": "audio_files/1495.wav"
+      }
+    ]
+  },
+  {
+    "word": "牙拜",
+    "word_audio_path": "audio_files/1496.wav",
+    "paths": [
+      {
+        "A": "audio_files/1497.wav",
+        "B": "audio_files/1498.wav"
+      },
+      {
+        "A": "audio_files/1499.wav",
+        "B": "audio_files/1500.wav"
+      },
+      {
+        "A": "audio_files/1501.wav",
+        "B": "audio_files/1502.wav"
+      },
+      {
+        "A": "audio_files/1503.wav",
+        "B": "audio_files/1504.wav"
+      },
+      {
+        "A": "audio_files/1505.wav",
+        "B": "audio_files/1506.wav"
+      }
+    ]
+  },
+  {
+    "word": "牙起來",
+    "word_audio_path": "audio_files/1507.wav",
+    "paths": [
+      {
+        "A": "audio_files/1508.wav",
+        "B": "audio_files/1509.wav"
+      },
+      {
+        "A": "audio_files/1510.wav",
+        "B": "audio_files/1511.wav"
+      },
+      {
+        "A": "audio_files/1512.wav",
+        "B": "audio_files/1513.wav"
+      },
+      {
+        "A": "audio_files/1514.wav",
+        "B": "audio_files/1515.wav"
+      },
+      {
+        "A": "audio_files/1516.wav",
+        "B": "audio_files/1517.wav"
+      }
+    ]
+  },
+  {
+    "word": "牛肉",
+    "word_audio_path": "audio_files/1518.wav",
+    "paths": [
+      {
+        "A": "audio_files/1519.wav",
+        "B": "audio_files/1520.wav"
+      },
+      {
+        "A": "audio_files/1521.wav",
+        "B": "audio_files/1522.wav"
+      },
+      {
+        "A": "audio_files/1523.wav",
+        "B": "audio_files/1524.wav"
+      },
+      {
+        "A": "audio_files/1525.wav",
+        "B": "audio_files/1526.wav"
+      },
+      {
+        "A": "audio_files/1527.wav",
+        "B": "audio_files/1528.wav"
+      }
+    ]
+  },
+  {
+    "word": "王道",
+    "word_audio_path": "audio_files/1529.wav",
+    "paths": [
+      {
+        "A": "audio_files/1530.wav",
+        "B": "audio_files/1531.wav"
+      },
+      {
+        "A": "audio_files/1532.wav",
+        "B": "audio_files/1533.wav"
+      },
+      {
+        "A": "audio_files/1534.wav",
+        "B": "audio_files/1535.wav"
+      },
+      {
+        "A": "audio_files/1536.wav",
+        "B": "audio_files/1537.wav"
+      },
+      {
+        "A": "audio_files/1538.wav",
+        "B": "audio_files/1539.wav"
+      }
+    ]
+  },
+  {
+    "word": "代駕",
+    "word_audio_path": "audio_files/1540.wav",
+    "paths": [
+      {
+        "A": "audio_files/1541.wav",
+        "B": "audio_files/1542.wav"
+      },
+      {
+        "A": "audio_files/1543.wav",
+        "B": "audio_files/1544.wav"
+      },
+      {
+        "A": "audio_files/1545.wav",
+        "B": "audio_files/1546.wav"
+      },
+      {
+        "A": "audio_files/1547.wav",
+        "B": "audio_files/1548.wav"
+      },
+      {
+        "A": "audio_files/1549.wav",
+        "B": "audio_files/1550.wav"
+      }
+    ]
+  },
+  {
+    "word": "出4",
+    "word_audio_path": "audio_files/1551.wav",
+    "paths": [
+      {
+        "A": "audio_files/1552.wav",
+        "B": "audio_files/1553.wav"
+      },
+      {
+        "A": "audio_files/1554.wav",
+        "B": "audio_files/1555.wav"
+      },
+      {
+        "A": "audio_files/1556.wav",
+        "B": "audio_files/1557.wav"
+      },
+      {
+        "A": "audio_files/1558.wav",
+        "B": "audio_files/1559.wav"
+      },
+      {
+        "A": "audio_files/1560.wav",
+        "B": "audio_files/1561.wav"
+      }
+    ]
+  },
+  {
+    "word": "出征",
+    "word_audio_path": "audio_files/1562.wav",
+    "paths": [
+      {
+        "A": "audio_files/1563.wav",
+        "B": "audio_files/1564.wav"
+      },
+      {
+        "A": "audio_files/1565.wav",
+        "B": "audio_files/1566.wav"
+      },
+      {
+        "A": "audio_files/1567.wav",
+        "B": "audio_files/1568.wav"
+      },
+      {
+        "A": "audio_files/1569.wav",
+        "B": "audio_files/1570.wav"
+      },
+      {
+        "A": "audio_files/1571.wav",
+        "B": "audio_files/1572.wav"
+      }
+    ]
+  },
+  {
+    "word": "出保",
+    "word_audio_path": "audio_files/1573.wav",
+    "paths": [
+      {
+        "A": "audio_files/1574.wav",
+        "B": "audio_files/1575.wav"
+      },
+      {
+        "A": "audio_files/1576.wav",
+        "B": "audio_files/1577.wav"
+      },
+      {
+        "A": "audio_files/1578.wav",
+        "B": "audio_files/1579.wav"
+      },
+      {
+        "A": "audio_files/1580.wav",
+        "B": "audio_files/1581.wav"
+      },
+      {
+        "A": "audio_files/1582.wav",
+        "B": "audio_files/1583.wav"
+      }
+    ]
+  },
+  {
+    "word": "北漂",
+    "word_audio_path": "audio_files/1584.wav",
+    "paths": [
+      {
+        "A": "audio_files/1585.wav",
+        "B": "audio_files/1586.wav"
+      },
+      {
+        "A": "audio_files/1587.wav",
+        "B": "audio_files/1588.wav"
+      },
+      {
+        "A": "audio_files/1589.wav",
+        "B": "audio_files/1590.wav"
+      },
+      {
+        "A": "audio_files/1591.wav",
+        "B": "audio_files/1592.wav"
+      },
+      {
+        "A": "audio_files/1593.wav",
+        "B": "audio_files/1594.wav"
+      }
+    ]
+  },
+  {
+    "word": "卡好",
+    "word_audio_path": "audio_files/1595.wav",
+    "paths": [
+      {
+        "A": "audio_files/1596.wav",
+        "B": "audio_files/1597.wav"
+      },
+      {
+        "A": "audio_files/1598.wav",
+        "B": "audio_files/1599.wav"
+      },
+      {
+        "A": "audio_files/1600.wav",
+        "B": "audio_files/1601.wav"
+      },
+      {
+        "A": "audio_files/1602.wav",
+        "B": "audio_files/1603.wav"
+      },
+      {
+        "A": "audio_files/1604.wav",
+        "B": "audio_files/1605.wav"
+      }
+    ]
+  },
+  {
+    "word": "卡頓",
+    "word_audio_path": "audio_files/1606.wav",
+    "paths": [
+      {
+        "A": "audio_files/1607.wav",
+        "B": "audio_files/1608.wav"
+      },
+      {
+        "A": "audio_files/1609.wav",
+        "B": "audio_files/1610.wav"
+      },
+      {
+        "A": "audio_files/1611.wav",
+        "B": "audio_files/1612.wav"
+      },
+      {
+        "A": "audio_files/1613.wav",
+        "B": "audio_files/1614.wav"
+      },
+      {
+        "A": "audio_files/1615.wav",
+        "B": "audio_files/1616.wav"
+      }
+    ]
+  },
+  {
+    "word": "句點",
+    "word_audio_path": "audio_files/1617.wav",
+    "paths": [
+      {
+        "A": "audio_files/1618.wav",
+        "B": "audio_files/1619.wav"
+      },
+      {
+        "A": "audio_files/1620.wav",
+        "B": "audio_files/1621.wav"
+      },
+      {
+        "A": "audio_files/1622.wav",
+        "B": "audio_files/1623.wav"
+      },
+      {
+        "A": "audio_files/1624.wav",
+        "B": "audio_files/1625.wav"
+      },
+      {
+        "A": "audio_files/1626.wav",
+        "B": "audio_files/1627.wav"
+      }
+    ]
+  },
+  {
+    "word": "可撥",
+    "word_audio_path": "audio_files/1628.wav",
+    "paths": [
+      {
+        "A": "audio_files/1629.wav",
+        "B": "audio_files/1630.wav"
+      },
+      {
+        "A": "audio_files/1631.wav",
+        "B": "audio_files/1632.wav"
+      },
+      {
+        "A": "audio_files/1633.wav",
+        "B": "audio_files/1634.wav"
+      },
+      {
+        "A": "audio_files/1635.wav",
+        "B": "audio_files/1636.wav"
+      },
+      {
+        "A": "audio_files/1637.wav",
+        "B": "audio_files/1638.wav"
+      }
+    ]
+  },
+  {
+    "word": "可黏",
+    "word_audio_path": "audio_files/1639.wav",
+    "paths": [
+      {
+        "A": "audio_files/1640.wav",
+        "B": "audio_files/1641.wav"
+      },
+      {
+        "A": "audio_files/1642.wav",
+        "B": "audio_files/1643.wav"
+      },
+      {
+        "A": "audio_files/1644.wav",
+        "B": "audio_files/1645.wav"
+      },
+      {
+        "A": "audio_files/1646.wav",
+        "B": "audio_files/1647.wav"
+      },
+      {
+        "A": "audio_files/1648.wav",
+        "B": "audio_files/1649.wav"
+      }
+    ]
+  },
+  {
+    "word": "可i",
+    "word_audio_path": "audio_files/1650.wav",
+    "paths": [
+      {
+        "A": "audio_files/1651.wav",
+        "B": "audio_files/1652.wav"
+      },
+      {
+        "A": "audio_files/1653.wav",
+        "B": "audio_files/1654.wav"
+      },
+      {
+        "A": "audio_files/1655.wav",
+        "B": "audio_files/1656.wav"
+      },
+      {
+        "A": "audio_files/1657.wav",
+        "B": "audio_files/1658.wav"
+      },
+      {
+        "A": "audio_files/1659.wav",
+        "B": "audio_files/1660.wav"
+      }
+    ]
+  },
+  {
+    "word": "台女",
+    "word_audio_path": "audio_files/1661.wav",
+    "paths": [
+      {
+        "A": "audio_files/1662.wav",
+        "B": "audio_files/1663.wav"
+      },
+      {
+        "A": "audio_files/1664.wav",
+        "B": "audio_files/1665.wav"
+      },
+      {
+        "A": "audio_files/1666.wav",
+        "B": "audio_files/1667.wav"
+      },
+      {
+        "A": "audio_files/1668.wav",
+        "B": "audio_files/1669.wav"
+      },
+      {
+        "A": "audio_files/1670.wav",
+        "B": "audio_files/1671.wav"
+      }
+    ]
+  },
+  {
+    "word": "台主",
+    "word_audio_path": "audio_files/1672.wav",
+    "paths": [
+      {
+        "A": "audio_files/1673.wav",
+        "B": "audio_files/1674.wav"
+      },
+      {
+        "A": "audio_files/1675.wav",
+        "B": "audio_files/1676.wav"
+      },
+      {
+        "A": "audio_files/1677.wav",
+        "B": "audio_files/1678.wav"
+      },
+      {
+        "A": "audio_files/1679.wav",
+        "B": "audio_files/1680.wav"
+      },
+      {
+        "A": "audio_files/1681.wav",
+        "B": "audio_files/1682.wav"
+      }
+    ]
+  },
+  {
+    "word": "台獨",
+    "word_audio_path": "audio_files/1683.wav",
+    "paths": [
+      {
+        "A": "audio_files/1684.wav",
+        "B": "audio_files/1685.wav"
+      },
+      {
+        "A": "audio_files/1686.wav",
+        "B": "audio_files/1687.wav"
+      },
+      {
+        "A": "audio_files/1688.wav",
+        "B": "audio_files/1689.wav"
+      },
+      {
+        "A": "audio_files/1690.wav",
+        "B": "audio_files/1691.wav"
+      },
+      {
+        "A": "audio_files/1692.wav",
+        "B": "audio_files/1693.wav"
+      }
+    ]
+  },
+  {
+    "word": "史密斯",
+    "word_audio_path": "audio_files/1694.wav",
+    "paths": [
+      {
+        "A": "audio_files/1695.wav",
+        "B": "audio_files/1696.wav"
+      },
+      {
+        "A": "audio_files/1697.wav",
+        "B": "audio_files/1698.wav"
+      },
+      {
+        "A": "audio_files/1699.wav",
+        "B": "audio_files/1700.wav"
+      },
+      {
+        "A": "audio_files/1701.wav",
+        "B": "audio_files/1702.wav"
+      },
+      {
+        "A": "audio_files/1703.wav",
+        "B": "audio_files/1704.wav"
+      }
+    ]
+  },
+  {
+    "word": "四輪",
+    "word_audio_path": "audio_files/1705.wav",
+    "paths": [
+      {
+        "A": "audio_files/1706.wav",
+        "B": "audio_files/1707.wav"
+      },
+      {
+        "A": "audio_files/1708.wav",
+        "B": "audio_files/1709.wav"
+      },
+      {
+        "A": "audio_files/1710.wav",
+        "B": "audio_files/1711.wav"
+      },
+      {
+        "A": "audio_files/1712.wav",
+        "B": "audio_files/1713.wav"
+      },
+      {
+        "A": "audio_files/1714.wav",
+        "B": "audio_files/1715.wav"
+      }
+    ]
+  },
+  {
+    "word": "外掛",
+    "word_audio_path": "audio_files/1716.wav",
+    "paths": [
+      {
+        "A": "audio_files/1717.wav",
+        "B": "audio_files/1718.wav"
+      },
+      {
+        "A": "audio_files/1719.wav",
+        "B": "audio_files/1720.wav"
+      },
+      {
+        "A": "audio_files/1721.wav",
+        "B": "audio_files/1722.wav"
+      },
+      {
+        "A": "audio_files/1723.wav",
+        "B": "audio_files/1724.wav"
+      },
+      {
+        "A": "audio_files/1725.wav",
+        "B": "audio_files/1726.wav"
+      }
+    ]
+  },
+  {
+    "word": "尼",
+    "word_audio_path": "audio_files/1727.wav",
+    "paths": [
+      {
+        "A": "audio_files/1728.wav",
+        "B": "audio_files/1729.wav"
+      },
+      {
+        "A": "audio_files/1730.wav",
+        "B": "audio_files/1731.wav"
+      },
+      {
+        "A": "audio_files/1732.wav",
+        "B": "audio_files/1733.wav"
+      },
+      {
+        "A": "audio_files/1734.wav",
+        "B": "audio_files/1735.wav"
+      },
+      {
+        "A": "audio_files/1736.wav",
+        "B": "audio_files/1737.wav"
+      }
+    ]
+  },
+  {
+    "word": "左膠",
+    "word_audio_path": "audio_files/1738.wav",
+    "paths": [
+      {
+        "A": "audio_files/1739.wav",
+        "B": "audio_files/1740.wav"
+      },
+      {
+        "A": "audio_files/1741.wav",
+        "B": "audio_files/1742.wav"
+      },
+      {
+        "A": "audio_files/1743.wav",
+        "B": "audio_files/1744.wav"
+      },
+      {
+        "A": "audio_files/1745.wav",
+        "B": "audio_files/1746.wav"
+      },
+      {
+        "A": "audio_files/1747.wav",
+        "B": "audio_files/1748.wav"
+      }
+    ]
+  },
+  {
+    "word": "左轉",
+    "word_audio_path": "audio_files/1749.wav",
+    "paths": [
+      {
+        "A": "audio_files/1750.wav",
+        "B": "audio_files/1751.wav"
+      },
+      {
+        "A": "audio_files/1752.wav",
+        "B": "audio_files/1753.wav"
+      },
+      {
+        "A": "audio_files/1754.wav",
+        "B": "audio_files/1755.wav"
+      },
+      {
+        "A": "audio_files/1756.wav",
+        "B": "audio_files/1757.wav"
+      },
+      {
+        "A": "audio_files/1758.wav",
+        "B": "audio_files/1759.wav"
+      }
+    ]
+  },
+  {
+    "word": "平行世界",
+    "word_audio_path": "audio_files/1760.wav",
+    "paths": [
+      {
+        "A": "audio_files/1761.wav",
+        "B": "audio_files/1762.wav"
+      },
+      {
+        "A": "audio_files/1763.wav",
+        "B": "audio_files/1764.wav"
+      },
+      {
+        "A": "audio_files/1765.wav",
+        "B": "audio_files/1766.wav"
+      },
+      {
+        "A": "audio_files/1767.wav",
+        "B": "audio_files/1768.wav"
+      },
+      {
+        "A": "audio_files/1769.wav",
+        "B": "audio_files/1770.wav"
+      }
+    ]
+  },
+  {
+    "word": "平行宇宙",
+    "word_audio_path": "audio_files/1771.wav",
+    "paths": [
+      {
+        "A": "audio_files/1772.wav",
+        "B": "audio_files/1773.wav"
+      },
+      {
+        "A": "audio_files/1774.wav",
+        "B": "audio_files/1775.wav"
+      },
+      {
+        "A": "audio_files/1776.wav",
+        "B": "audio_files/1777.wav"
+      },
+      {
+        "A": "audio_files/1778.wav",
+        "B": "audio_files/1779.wav"
+      },
+      {
+        "A": "audio_files/1780.wav",
+        "B": "audio_files/1781.wav"
+      }
+    ]
+  },
+  {
+    "word": "平行時空",
+    "word_audio_path": "audio_files/1782.wav",
+    "paths": [
+      {
+        "A": "audio_files/1783.wav",
+        "B": "audio_files/1784.wav"
+      },
+      {
+        "A": "audio_files/1785.wav",
+        "B": "audio_files/1786.wav"
+      },
+      {
+        "A": "audio_files/1787.wav",
+        "B": "audio_files/1788.wav"
+      },
+      {
+        "A": "audio_files/1789.wav",
+        "B": "audio_files/1790.wav"
+      },
+      {
+        "A": "audio_files/1791.wav",
+        "B": "audio_files/1792.wav"
+      }
+    ]
+  },
+  {
+    "word": "打卡",
+    "word_audio_path": "audio_files/1793.wav",
+    "paths": [
+      {
+        "A": "audio_files/1794.wav",
+        "B": "audio_files/1795.wav"
+      },
+      {
+        "A": "audio_files/1796.wav",
+        "B": "audio_files/1797.wav"
+      },
+      {
+        "A": "audio_files/1798.wav",
+        "B": "audio_files/1799.wav"
+      },
+      {
+        "A": "audio_files/1800.wav",
+        "B": "audio_files/1801.wav"
+      },
+      {
+        "A": "audio_files/1802.wav",
+        "B": "audio_files/1803.wav"
+      }
+    ]
+  },
+  {
+    "word": "打咖",
+    "word_audio_path": "audio_files/1804.wav",
+    "paths": [
+      {
+        "A": "audio_files/1805.wav",
+        "B": "audio_files/1806.wav"
+      },
+      {
+        "A": "audio_files/1807.wav",
+        "B": "audio_files/1808.wav"
+      },
+      {
+        "A": "audio_files/1809.wav",
+        "B": "audio_files/1810.wav"
+      },
+      {
+        "A": "audio_files/1811.wav",
+        "B": "audio_files/1812.wav"
+      },
+      {
+        "A": "audio_files/1813.wav",
+        "B": "audio_files/1814.wav"
+      }
+    ]
+  },
+  {
+    "word": "打馬",
+    "word_audio_path": "audio_files/1815.wav",
+    "paths": [
+      {
+        "A": "audio_files/1816.wav",
+        "B": "audio_files/1817.wav"
+      },
+      {
+        "A": "audio_files/1818.wav",
+        "B": "audio_files/1819.wav"
+      },
+      {
+        "A": "audio_files/1820.wav",
+        "B": "audio_files/1821.wav"
+      },
+      {
+        "A": "audio_files/1822.wav",
+        "B": "audio_files/1823.wav"
+      },
+      {
+        "A": "audio_files/1824.wav",
+        "B": "audio_files/1825.wav"
+      }
+    ]
+  },
+  {
+    "word": "打臉",
+    "word_audio_path": "audio_files/1826.wav",
+    "paths": [
+      {
+        "A": "audio_files/1827.wav",
+        "B": "audio_files/1828.wav"
+      },
+      {
+        "A": "audio_files/1829.wav",
+        "B": "audio_files/1830.wav"
+      },
+      {
+        "A": "audio_files/1831.wav",
+        "B": "audio_files/1832.wav"
+      },
+      {
+        "A": "audio_files/1833.wav",
+        "B": "audio_files/1834.wav"
+      },
+      {
+        "A": "audio_files/1835.wav",
+        "B": "audio_files/1836.wav"
+      }
+    ]
+  },
+  {
+    "word": "打call",
+    "word_audio_path": "audio_files/1837.wav",
+    "paths": [
+      {
+        "A": "audio_files/1838.wav",
+        "B": "audio_files/1839.wav"
+      },
+      {
+        "A": "audio_files/1840.wav",
+        "B": "audio_files/1841.wav"
+      },
+      {
+        "A": "audio_files/1842.wav",
+        "B": "audio_files/1843.wav"
+      },
+      {
+        "A": "audio_files/1844.wav",
+        "B": "audio_files/1845.wav"
+      },
+      {
+        "A": "audio_files/1846.wav",
+        "B": "audio_files/1847.wav"
+      }
+    ]
+  },
+  {
+    "word": "本子",
+    "word_audio_path": "audio_files/1848.wav",
+    "paths": [
+      {
+        "A": "audio_files/1849.wav",
+        "B": "audio_files/1850.wav"
+      },
+      {
+        "A": "audio_files/1851.wav",
+        "B": "audio_files/1852.wav"
+      },
+      {
+        "A": "audio_files/1853.wav",
+        "B": "audio_files/1854.wav"
+      },
+      {
+        "A": "audio_files/1855.wav",
+        "B": "audio_files/1856.wav"
+      },
+      {
+        "A": "audio_files/1857.wav",
+        "B": "audio_files/1858.wav"
+      }
+    ]
+  },
+  {
+    "word": "本斥但大",
+    "word_audio_path": "audio_files/1859.wav",
+    "paths": [
+      {
+        "A": "audio_files/1860.wav",
+        "B": "audio_files/1861.wav"
+      },
+      {
+        "A": "audio_files/1862.wav",
+        "B": "audio_files/1863.wav"
+      },
+      {
+        "A": "audio_files/1864.wav",
+        "B": "audio_files/1865.wav"
+      },
+      {
+        "A": "audio_files/1866.wav",
+        "B": "audio_files/1867.wav"
+      },
+      {
+        "A": "audio_files/1868.wav",
+        "B": "audio_files/1869.wav"
+      }
+    ]
+  },
+  {
+    "word": "本宅",
+    "word_audio_path": "audio_files/1870.wav",
+    "paths": [
+      {
+        "A": "audio_files/1871.wav",
+        "B": "audio_files/1872.wav"
+      },
+      {
+        "A": "audio_files/1873.wav",
+        "B": "audio_files/1874.wav"
+      },
+      {
+        "A": "audio_files/1875.wav",
+        "B": "audio_files/1876.wav"
+      },
+      {
+        "A": "audio_files/1877.wav",
+        "B": "audio_files/1878.wav"
+      },
+      {
+        "A": "audio_files/1879.wav",
+        "B": "audio_files/1880.wav"
+      }
+    ]
+  },
+  {
+    "word": "正太",
+    "word_audio_path": "audio_files/1881.wav",
+    "paths": [
+      {
+        "A": "audio_files/1882.wav",
+        "B": "audio_files/1883.wav"
+      },
+      {
+        "A": "audio_files/1884.wav",
+        "B": "audio_files/1885.wav"
+      },
+      {
+        "A": "audio_files/1886.wav",
+        "B": "audio_files/1887.wav"
+      },
+      {
+        "A": "audio_files/1888.wav",
+        "B": "audio_files/1889.wav"
+      },
+      {
+        "A": "audio_files/1890.wav",
+        "B": "audio_files/1891.wav"
+      }
+    ]
+  },
+  {
+    "word": "正能量",
+    "word_audio_path": "audio_files/1892.wav",
+    "paths": [
+      {
+        "A": "audio_files/1893.wav",
+        "B": "audio_files/1894.wav"
+      },
+      {
+        "A": "audio_files/1895.wav",
+        "B": "audio_files/1896.wav"
+      },
+      {
+        "A": "audio_files/1897.wav",
+        "B": "audio_files/1898.wav"
+      },
+      {
+        "A": "audio_files/1899.wav",
+        "B": "audio_files/1900.wav"
+      },
+      {
+        "A": "audio_files/1901.wav",
+        "B": "audio_files/1902.wav"
+      }
+    ]
+  },
+  {
+    "word": "正義魔人",
+    "word_audio_path": "audio_files/1903.wav",
+    "paths": [
+      {
+        "A": "audio_files/1904.wav",
+        "B": "audio_files/1905.wav"
+      },
+      {
+        "A": "audio_files/1906.wav",
+        "B": "audio_files/1907.wav"
+      },
+      {
+        "A": "audio_files/1908.wav",
+        "B": "audio_files/1909.wav"
+      },
+      {
+        "A": "audio_files/1910.wav",
+        "B": "audio_files/1911.wav"
+      },
+      {
+        "A": "audio_files/1912.wav",
+        "B": "audio_files/1913.wav"
+      }
+    ]
+  },
+  {
+    "word": "母單",
+    "word_audio_path": "audio_files/1914.wav",
+    "paths": [
+      {
+        "A": "audio_files/1915.wav",
+        "B": "audio_files/1916.wav"
+      },
+      {
+        "A": "audio_files/1917.wav",
+        "B": "audio_files/1918.wav"
+      },
+      {
+        "A": "audio_files/1919.wav",
+        "B": "audio_files/1920.wav"
+      },
+      {
+        "A": "audio_files/1921.wav",
+        "B": "audio_files/1922.wav"
+      },
+      {
+        "A": "audio_files/1923.wav",
+        "B": "audio_files/1924.wav"
+      }
+    ]
+  },
+  {
+    "word": "母湯",
+    "word_audio_path": "audio_files/1925.wav",
+    "paths": [
+      {
+        "A": "audio_files/1926.wav",
+        "B": "audio_files/1927.wav"
+      },
+      {
+        "A": "audio_files/1928.wav",
+        "B": "audio_files/1929.wav"
+      },
+      {
+        "A": "audio_files/1930.wav",
+        "B": "audio_files/1931.wav"
+      },
+      {
+        "A": "audio_files/1932.wav",
+        "B": "audio_files/1933.wav"
+      },
+      {
+        "A": "audio_files/1934.wav",
+        "B": "audio_files/1935.wav"
+      }
+    ]
+  },
+  {
+    "word": "汁妹",
+    "word_audio_path": "audio_files/1936.wav",
+    "paths": [
+      {
+        "A": "audio_files/1937.wav",
+        "B": "audio_files/1938.wav"
+      },
+      {
+        "A": "audio_files/1939.wav",
+        "B": "audio_files/1940.wav"
+      },
+      {
+        "A": "audio_files/1941.wav",
+        "B": "audio_files/1942.wav"
+      },
+      {
+        "A": "audio_files/1943.wav",
+        "B": "audio_files/1944.wav"
+      },
+      {
+        "A": "audio_files/1945.wav",
+        "B": "audio_files/1946.wav"
+      }
+    ]
+  },
+  {
+    "word": "瓜",
+    "word_audio_path": "audio_files/1947.wav",
+    "paths": [
+      {
+        "A": "audio_files/1948.wav",
+        "B": "audio_files/1949.wav"
+      },
+      {
+        "A": "audio_files/1950.wav",
+        "B": "audio_files/1951.wav"
+      },
+      {
+        "A": "audio_files/1952.wav",
+        "B": "audio_files/1953.wav"
+      },
+      {
+        "A": "audio_files/1954.wav",
+        "B": "audio_files/1955.wav"
+      },
+      {
+        "A": "audio_files/1956.wav",
+        "B": "audio_files/1957.wav"
+      }
+    ]
+  },
+  {
+    "word": "瓜張",
+    "word_audio_path": "audio_files/1958.wav",
+    "paths": [
+      {
+        "A": "audio_files/1959.wav",
+        "B": "audio_files/1960.wav"
+      },
+      {
+        "A": "audio_files/1961.wav",
+        "B": "audio_files/1962.wav"
+      },
+      {
+        "A": "audio_files/1963.wav",
+        "B": "audio_files/1964.wav"
+      },
+      {
+        "A": "audio_files/1965.wav",
+        "B": "audio_files/1966.wav"
+      },
+      {
+        "A": "audio_files/1967.wav",
+        "B": "audio_files/1968.wav"
+      }
+    ]
+  },
+  {
+    "word": "甘阿捏",
+    "word_audio_path": "audio_files/1969.wav",
+    "paths": [
+      {
+        "A": "audio_files/1970.wav",
+        "B": "audio_files/1971.wav"
+      },
+      {
+        "A": "audio_files/1972.wav",
+        "B": "audio_files/1973.wav"
+      },
+      {
+        "A": "audio_files/1974.wav",
+        "B": "audio_files/1975.wav"
+      },
+      {
+        "A": "audio_files/1976.wav",
+        "B": "audio_files/1977.wav"
+      },
+      {
+        "A": "audio_files/1978.wav",
+        "B": "audio_files/1979.wav"
+      }
+    ]
+  },
+  {
+    "word": "甘蔗男",
+    "word_audio_path": "audio_files/1980.wav",
+    "paths": [
+      {
+        "A": "audio_files/1981.wav",
+        "B": "audio_files/1982.wav"
+      },
+      {
+        "A": "audio_files/1983.wav",
+        "B": "audio_files/1984.wav"
+      },
+      {
+        "A": "audio_files/1985.wav",
+        "B": "audio_files/1986.wav"
+      },
+      {
+        "A": "audio_files/1987.wav",
+        "B": "audio_files/1988.wav"
+      },
+      {
+        "A": "audio_files/1989.wav",
+        "B": "audio_files/1990.wav"
+      }
+    ]
+  },
+  {
+    "word": "生火",
+    "word_audio_path": "audio_files/1991.wav",
+    "paths": [
+      {
+        "A": "audio_files/1992.wav",
+        "B": "audio_files/1993.wav"
+      },
+      {
+        "A": "audio_files/1994.wav",
+        "B": "audio_files/1995.wav"
+      },
+      {
+        "A": "audio_files/1996.wav",
+        "B": "audio_files/1997.wav"
+      },
+      {
+        "A": "audio_files/1998.wav",
+        "B": "audio_files/1999.wav"
+      },
+      {
+        "A": "audio_files/2000.wav",
+        "B": "audio_files/2001.wav"
+      }
+    ]
+  },
+  {
+    "word": "生肉",
+    "word_audio_path": "audio_files/2002.wav",
+    "paths": [
+      {
+        "A": "audio_files/2003.wav",
+        "B": "audio_files/2004.wav"
+      },
+      {
+        "A": "audio_files/2005.wav",
+        "B": "audio_files/2006.wav"
+      },
+      {
+        "A": "audio_files/2007.wav",
+        "B": "audio_files/2008.wav"
+      },
+      {
+        "A": "audio_files/2009.wav",
+        "B": "audio_files/2010.wav"
+      },
+      {
+        "A": "audio_files/2011.wav",
+        "B": "audio_files/2012.wav"
+      }
+    ]
+  },
+  {
+    "word": "生快",
+    "word_audio_path": "audio_files/2013.wav",
+    "paths": [
+      {
+        "A": "audio_files/2014.wav",
+        "B": "audio_files/2015.wav"
+      },
+      {
+        "A": "audio_files/2016.wav",
+        "B": "audio_files/2017.wav"
+      },
+      {
+        "A": "audio_files/2018.wav",
+        "B": "audio_files/2019.wav"
+      },
+      {
+        "A": "audio_files/2020.wav",
+        "B": "audio_files/2021.wav"
+      },
+      {
+        "A": "audio_files/2022.wav",
+        "B": "audio_files/2023.wav"
+      }
+    ]
+  },
+  {
+    "word": "生無可戀",
+    "word_audio_path": "audio_files/2024.wav",
+    "paths": [
+      {
+        "A": "audio_files/2025.wav",
+        "B": "audio_files/2026.wav"
+      },
+      {
+        "A": "audio_files/2027.wav",
+        "B": "audio_files/2028.wav"
+      },
+      {
+        "A": "audio_files/2029.wav",
+        "B": "audio_files/2030.wav"
+      },
+      {
+        "A": "audio_files/2031.wav",
+        "B": "audio_files/2032.wav"
+      },
+      {
+        "A": "audio_files/2033.wav",
+        "B": "audio_files/2034.wav"
+      }
+    ]
+  },
+  {
+    "word": "甩鍋",
+    "word_audio_path": "audio_files/2035.wav",
+    "paths": [
+      {
+        "A": "audio_files/2036.wav",
+        "B": "audio_files/2037.wav"
+      },
+      {
+        "A": "audio_files/2038.wav",
+        "B": "audio_files/2039.wav"
+      },
+      {
+        "A": "audio_files/2040.wav",
+        "B": "audio_files/2041.wav"
+      },
+      {
+        "A": "audio_files/2042.wav",
+        "B": "audio_files/2043.wav"
+      },
+      {
+        "A": "audio_files/2044.wav",
+        "B": "audio_files/2045.wav"
+      }
+    ]
+  },
+  {
+    "word": "白嫖",
+    "word_audio_path": "audio_files/2046.wav",
+    "paths": [
+      {
+        "A": "audio_files/2047.wav",
+        "B": "audio_files/2048.wav"
+      },
+      {
+        "A": "audio_files/2049.wav",
+        "B": "audio_files/2050.wav"
+      },
+      {
+        "A": "audio_files/2051.wav",
+        "B": "audio_files/2052.wav"
+      },
+      {
+        "A": "audio_files/2053.wav",
+        "B": "audio_files/2054.wav"
+      },
+      {
+        "A": "audio_files/2055.wav",
+        "B": "audio_files/2056.wav"
+      }
+    ]
+  },
+  {
+    "word": "白爛",
+    "word_audio_path": "audio_files/2057.wav",
+    "paths": [
+      {
+        "A": "audio_files/2058.wav",
+        "B": "audio_files/2059.wav"
+      },
+      {
+        "A": "audio_files/2060.wav",
+        "B": "audio_files/2061.wav"
+      },
+      {
+        "A": "audio_files/2062.wav",
+        "B": "audio_files/2063.wav"
+      },
+      {
+        "A": "audio_files/2064.wav",
+        "B": "audio_files/2065.wav"
+      },
+      {
+        "A": "audio_files/2066.wav",
+        "B": "audio_files/2067.wav"
+      }
+    ]
+  },
+  {
+    "word": "立馬",
+    "word_audio_path": "audio_files/2068.wav",
+    "paths": [
+      {
+        "A": "audio_files/2069.wav",
+        "B": "audio_files/2070.wav"
+      },
+      {
+        "A": "audio_files/2071.wav",
+        "B": "audio_files/2072.wav"
+      },
+      {
+        "A": "audio_files/2073.wav",
+        "B": "audio_files/2074.wav"
+      },
+      {
+        "A": "audio_files/2075.wav",
+        "B": "audio_files/2076.wav"
+      },
+      {
+        "A": "audio_files/2077.wav",
+        "B": "audio_files/2078.wav"
+      }
+    ]
+  },
+  {
+    "word": "立flag",
+    "word_audio_path": "audio_files/2079.wav",
+    "paths": [
+      {
+        "A": "audio_files/2080.wav",
+        "B": "audio_files/2081.wav"
+      },
+      {
+        "A": "audio_files/2082.wav",
+        "B": "audio_files/2083.wav"
+      },
+      {
+        "A": "audio_files/2084.wav",
+        "B": "audio_files/2085.wav"
+      },
+      {
+        "A": "audio_files/2086.wav",
+        "B": "audio_files/2087.wav"
+      },
+      {
+        "A": "audio_files/2088.wav",
+        "B": "audio_files/2089.wav"
+      }
+    ]
+  },
+  {
+    "word": "共餐",
+    "word_audio_path": "audio_files/2090.wav",
+    "paths": [
+      {
+        "A": "audio_files/2091.wav",
+        "B": "audio_files/2092.wav"
+      },
+      {
+        "A": "audio_files/2093.wav",
+        "B": "audio_files/2094.wav"
+      },
+      {
+        "A": "audio_files/2095.wav",
+        "B": "audio_files/2096.wav"
+      },
+      {
+        "A": "audio_files/2097.wav",
+        "B": "audio_files/2098.wav"
+      },
+      {
+        "A": "audio_files/2099.wav",
+        "B": "audio_files/2100.wav"
+      }
+    ]
+  },
+  {
+    "word": "再起不能",
+    "word_audio_path": "audio_files/2101.wav",
+    "paths": [
+      {
+        "A": "audio_files/2102.wav",
+        "B": "audio_files/2103.wav"
+      },
+      {
+        "A": "audio_files/2104.wav",
+        "B": "audio_files/2105.wav"
+      },
+      {
+        "A": "audio_files/2106.wav",
+        "B": "audio_files/2107.wav"
+      },
+      {
+        "A": "audio_files/2108.wav",
+        "B": "audio_files/2109.wav"
+      },
+      {
+        "A": "audio_files/2110.wav",
+        "B": "audio_files/2111.wav"
+      }
+    ]
+  },
+  {
+    "word": "再戰十年",
+    "word_audio_path": "audio_files/2112.wav",
+    "paths": [
+      {
+        "A": "audio_files/2113.wav",
+        "B": "audio_files/2114.wav"
+      },
+      {
+        "A": "audio_files/2115.wav",
+        "B": "audio_files/2116.wav"
+      },
+      {
+        "A": "audio_files/2117.wav",
+        "B": "audio_files/2118.wav"
+      },
+      {
+        "A": "audio_files/2119.wav",
+        "B": "audio_files/2120.wav"
+      },
+      {
+        "A": "audio_files/2121.wav",
+        "B": "audio_files/2122.wav"
+      }
+    ]
+  },
+  {
+    "word": "印象派",
+    "word_audio_path": "audio_files/2123.wav",
+    "paths": [
+      {
+        "A": "audio_files/2124.wav",
+        "B": "audio_files/2125.wav"
+      },
+      {
+        "A": "audio_files/2126.wav",
+        "B": "audio_files/2127.wav"
+      },
+      {
+        "A": "audio_files/2128.wav",
+        "B": "audio_files/2129.wav"
+      },
+      {
+        "A": "audio_files/2130.wav",
+        "B": "audio_files/2131.wav"
+      },
+      {
+        "A": "audio_files/2132.wav",
+        "B": "audio_files/2133.wav"
+      }
+    ]
+  },
+  {
+    "word": "吃土",
+    "word_audio_path": "audio_files/2134.wav",
+    "paths": [
+      {
+        "A": "audio_files/2135.wav",
+        "B": "audio_files/2136.wav"
+      },
+      {
+        "A": "audio_files/2137.wav",
+        "B": "audio_files/2138.wav"
+      },
+      {
+        "A": "audio_files/2139.wav",
+        "B": "audio_files/2140.wav"
+      },
+      {
+        "A": "audio_files/2141.wav",
+        "B": "audio_files/2142.wav"
+      },
+      {
+        "A": "audio_files/2143.wav",
+        "B": "audio_files/2144.wav"
+      }
+    ]
+  },
+  {
+    "word": "吃瓜群眾",
+    "word_audio_path": "audio_files/2145.wav",
+    "paths": [
+      {
+        "A": "audio_files/2146.wav",
+        "B": "audio_files/2147.wav"
+      },
+      {
+        "A": "audio_files/2148.wav",
+        "B": "audio_files/2149.wav"
+      },
+      {
+        "A": "audio_files/2150.wav",
+        "B": "audio_files/2151.wav"
+      },
+      {
+        "A": "audio_files/2152.wav",
+        "B": "audio_files/2153.wav"
+      },
+      {
+        "A": "audio_files/2154.wav",
+        "B": "audio_files/2155.wav"
+      }
+    ]
+  },
+  {
+    "word": "吃素的",
+    "word_audio_path": "audio_files/2156.wav",
+    "paths": [
+      {
+        "A": "audio_files/2157.wav",
+        "B": "audio_files/2158.wav"
+      },
+      {
+        "A": "audio_files/2159.wav",
+        "B": "audio_files/2160.wav"
+      },
+      {
+        "A": "audio_files/2161.wav",
+        "B": "audio_files/2162.wav"
+      },
+      {
+        "A": "audio_files/2163.wav",
+        "B": "audio_files/2164.wav"
+      },
+      {
+        "A": "audio_files/2165.wav",
+        "B": "audio_files/2166.wav"
+      }
+    ]
+  },
+  {
+    "word": "吃播",
+    "word_audio_path": "audio_files/2167.wav",
+    "paths": [
+      {
+        "A": "audio_files/2168.wav",
+        "B": "audio_files/2169.wav"
+      },
+      {
+        "A": "audio_files/2170.wav",
+        "B": "audio_files/2171.wav"
+      },
+      {
+        "A": "audio_files/2172.wav",
+        "B": "audio_files/2173.wav"
+      },
+      {
+        "A": "audio_files/2174.wav",
+        "B": "audio_files/2175.wav"
+      },
+      {
+        "A": "audio_files/2176.wav",
+        "B": "audio_files/2177.wav"
+      }
+    ]
+  },
+  {
+    "word": "吉",
+    "word_audio_path": "audio_files/2178.wav",
+    "paths": [
+      {
+        "A": "audio_files/2179.wav",
+        "B": "audio_files/2180.wav"
+      },
+      {
+        "A": "audio_files/2181.wav",
+        "B": "audio_files/2182.wav"
+      },
+      {
+        "A": "audio_files/2183.wav",
+        "B": "audio_files/2184.wav"
+      },
+      {
+        "A": "audio_files/2185.wav",
+        "B": "audio_files/2186.wav"
+      },
+      {
+        "A": "audio_files/2187.wav",
+        "B": "audio_files/2188.wav"
+      }
+    ]
+  },
+  {
+    "word": "同人",
+    "word_audio_path": "audio_files/2189.wav",
+    "paths": [
+      {
+        "A": "audio_files/2190.wav",
+        "B": "audio_files/2191.wav"
+      },
+      {
+        "A": "audio_files/2192.wav",
+        "B": "audio_files/2193.wav"
+      },
+      {
+        "A": "audio_files/2194.wav",
+        "B": "audio_files/2195.wav"
+      },
+      {
+        "A": "audio_files/2196.wav",
+        "B": "audio_files/2197.wav"
+      },
+      {
+        "A": "audio_files/2198.wav",
+        "B": "audio_files/2199.wav"
+      }
+    ]
+  },
+  {
+    "word": "同框",
+    "word_audio_path": "audio_files/2200.wav",
+    "paths": [
+      {
+        "A": "audio_files/2201.wav",
+        "B": "audio_files/2202.wav"
+      },
+      {
+        "A": "audio_files/2203.wav",
+        "B": "audio_files/2204.wav"
+      },
+      {
+        "A": "audio_files/2205.wav",
+        "B": "audio_files/2206.wav"
+      },
+      {
+        "A": "audio_files/2207.wav",
+        "B": "audio_files/2208.wav"
+      },
+      {
+        "A": "audio_files/2209.wav",
+        "B": "audio_files/2210.wav"
+      }
+    ]
+  },
+  {
+    "word": "同溫層",
+    "word_audio_path": "audio_files/2211.wav",
+    "paths": [
+      {
+        "A": "audio_files/2212.wav",
+        "B": "audio_files/2213.wav"
+      },
+      {
+        "A": "audio_files/2214.wav",
+        "B": "audio_files/2215.wav"
+      },
+      {
+        "A": "audio_files/2216.wav",
+        "B": "audio_files/2217.wav"
+      },
+      {
+        "A": "audio_files/2218.wav",
+        "B": "audio_files/2219.wav"
+      },
+      {
+        "A": "audio_files/2220.wav",
+        "B": "audio_files/2221.wav"
+      }
+    ]
+  },
+  {
+    "word": "吐槽",
+    "word_audio_path": "audio_files/2222.wav",
+    "paths": [
+      {
+        "A": "audio_files/2223.wav",
+        "B": "audio_files/2224.wav"
+      },
+      {
+        "A": "audio_files/2225.wav",
+        "B": "audio_files/2226.wav"
+      },
+      {
+        "A": "audio_files/2227.wav",
+        "B": "audio_files/2228.wav"
+      },
+      {
+        "A": "audio_files/2229.wav",
+        "B": "audio_files/2230.wav"
+      },
+      {
+        "A": "audio_files/2231.wav",
+        "B": "audio_files/2232.wav"
+      }
+    ]
+  },
+  {
+    "word": "回文",
+    "word_audio_path": "audio_files/2233.wav",
+    "paths": [
+      {
+        "A": "audio_files/2234.wav",
+        "B": "audio_files/2235.wav"
+      },
+      {
+        "A": "audio_files/2236.wav",
+        "B": "audio_files/2237.wav"
+      },
+      {
+        "A": "audio_files/2238.wav",
+        "B": "audio_files/2239.wav"
+      },
+      {
+        "A": "audio_files/2240.wav",
+        "B": "audio_files/2241.wav"
+      },
+      {
+        "A": "audio_files/2242.wav",
+        "B": "audio_files/2243.wav"
+      }
+    ]
+  },
+  {
+    "word": "回憶殺",
+    "word_audio_path": "audio_files/2244.wav",
+    "paths": [
+      {
+        "A": "audio_files/2245.wav",
+        "B": "audio_files/2246.wav"
+      },
+      {
+        "A": "audio_files/2247.wav",
+        "B": "audio_files/2248.wav"
+      },
+      {
+        "A": "audio_files/2249.wav",
+        "B": "audio_files/2250.wav"
+      },
+      {
+        "A": "audio_files/2251.wav",
+        "B": "audio_files/2252.wav"
+      },
+      {
+        "A": "audio_files/2253.wav",
+        "B": "audio_files/2254.wav"
+      }
+    ]
+  },
+  {
+    "word": "地雷",
+    "word_audio_path": "audio_files/2255.wav",
+    "paths": [
+      {
+        "A": "audio_files/2256.wav",
+        "B": "audio_files/2257.wav"
+      },
+      {
+        "A": "audio_files/2258.wav",
+        "B": "audio_files/2259.wav"
+      },
+      {
+        "A": "audio_files/2260.wav",
+        "B": "audio_files/2261.wav"
+      },
+      {
+        "A": "audio_files/2262.wav",
+        "B": "audio_files/2263.wav"
+      },
+      {
+        "A": "audio_files/2264.wav",
+        "B": "audio_files/2265.wav"
+      }
+    ]
+  },
+  {
+    "word": "地獄",
+    "word_audio_path": "audio_files/2266.wav",
+    "paths": [
+      {
+        "A": "audio_files/2267.wav",
+        "B": "audio_files/2268.wav"
+      },
+      {
+        "A": "audio_files/2269.wav",
+        "B": "audio_files/2270.wav"
+      },
+      {
+        "A": "audio_files/2271.wav",
+        "B": "audio_files/2272.wav"
+      },
+      {
+        "A": "audio_files/2273.wav",
+        "B": "audio_files/2274.wav"
+      },
+      {
+        "A": "audio_files/2275.wav",
+        "B": "audio_files/2276.wav"
+      }
+    ]
+  },
+  {
+    "word": "地獄哽",
+    "word_audio_path": "audio_files/2277.wav",
+    "paths": [
+      {
+        "A": "audio_files/2278.wav",
+        "B": "audio_files/2279.wav"
+      },
+      {
+        "A": "audio_files/2280.wav",
+        "B": "audio_files/2281.wav"
+      },
+      {
+        "A": "audio_files/2282.wav",
+        "B": "audio_files/2283.wav"
+      },
+      {
+        "A": "audio_files/2284.wav",
+        "B": "audio_files/2285.wav"
+      },
+      {
+        "A": "audio_files/2286.wav",
+        "B": "audio_files/2287.wav"
+      }
+    ]
+  },
+  {
+    "word": "好 Chill",
+    "word_audio_path": "audio_files/2288.wav",
+    "paths": [
+      {
+        "A": "audio_files/2289.wav",
+        "B": "audio_files/2290.wav"
+      },
+      {
+        "A": "audio_files/2291.wav",
+        "B": "audio_files/2292.wav"
+      },
+      {
+        "A": "audio_files/2293.wav",
+        "B": "audio_files/2294.wav"
+      },
+      {
+        "A": "audio_files/2295.wav",
+        "B": "audio_files/2296.wav"
+      },
+      {
+        "A": "audio_files/2297.wav",
+        "B": "audio_files/2298.wav"
+      }
+    ]
+  },
+  {
+    "word": "好了啦",
+    "word_audio_path": "audio_files/2299.wav",
+    "paths": [
+      {
+        "A": "audio_files/2300.wav",
+        "B": "audio_files/2301.wav"
+      },
+      {
+        "A": "audio_files/2302.wav",
+        "B": "audio_files/2303.wav"
+      },
+      {
+        "A": "audio_files/2304.wav",
+        "B": "audio_files/2305.wav"
+      },
+      {
+        "A": "audio_files/2306.wav",
+        "B": "audio_files/2307.wav"
+      },
+      {
+        "A": "audio_files/2308.wav",
+        "B": "audio_files/2309.wav"
+      }
+    ]
+  },
+  {
+    "word": "好人卡",
+    "word_audio_path": "audio_files/2310.wav",
+    "paths": [
+      {
+        "A": "audio_files/2311.wav",
+        "B": "audio_files/2312.wav"
+      },
+      {
+        "A": "audio_files/2313.wav",
+        "B": "audio_files/2314.wav"
+      },
+      {
+        "A": "audio_files/2315.wav",
+        "B": "audio_files/2316.wav"
+      },
+      {
+        "A": "audio_files/2317.wav",
+        "B": "audio_files/2318.wav"
+      },
+      {
+        "A": "audio_files/2319.wav",
+        "B": "audio_files/2320.wav"
+      }
+    ]
+  },
+  {
+    "word": "好棒棒",
+    "word_audio_path": "audio_files/2321.wav",
+    "paths": [
+      {
+        "A": "audio_files/2322.wav",
+        "B": "audio_files/2323.wav"
+      },
+      {
+        "A": "audio_files/2324.wav",
+        "B": "audio_files/2325.wav"
+      },
+      {
+        "A": "audio_files/2326.wav",
+        "B": "audio_files/2327.wav"
+      },
+      {
+        "A": "audio_files/2328.wav",
+        "B": "audio_files/2329.wav"
+      },
+      {
+        "A": "audio_files/2330.wav",
+        "B": "audio_files/2331.wav"
+      }
+    ]
+  },
+  {
+    "word": "好解",
+    "word_audio_path": "audio_files/2332.wav",
+    "paths": [
+      {
+        "A": "audio_files/2333.wav",
+        "B": "audio_files/2334.wav"
+      },
+      {
+        "A": "audio_files/2335.wav",
+        "B": "audio_files/2336.wav"
+      },
+      {
+        "A": "audio_files/2337.wav",
+        "B": "audio_files/2338.wav"
+      },
+      {
+        "A": "audio_files/2339.wav",
+        "B": "audio_files/2340.wav"
+      },
+      {
+        "A": "audio_files/2341.wav",
+        "B": "audio_files/2342.wav"
+      }
+    ]
+  },
+  {
+    "word": "好蒿爽爽",
+    "word_audio_path": "audio_files/2343.wav",
+    "paths": [
+      {
+        "A": "audio_files/2344.wav",
+        "B": "audio_files/2345.wav"
+      },
+      {
+        "A": "audio_files/2346.wav",
+        "B": "audio_files/2347.wav"
+      },
+      {
+        "A": "audio_files/2348.wav",
+        "B": "audio_files/2349.wav"
+      },
+      {
+        "A": "audio_files/2350.wav",
+        "B": "audio_files/2351.wav"
+      },
+      {
+        "A": "audio_files/2352.wav",
+        "B": "audio_files/2353.wav"
+      }
+    ]
+  },
+  {
+    "word": "安安",
+    "word_audio_path": "audio_files/2354.wav",
+    "paths": [
+      {
+        "A": "audio_files/2355.wav",
+        "B": "audio_files/2356.wav"
+      },
+      {
+        "A": "audio_files/2357.wav",
+        "B": "audio_files/2358.wav"
+      },
+      {
+        "A": "audio_files/2359.wav",
+        "B": "audio_files/2360.wav"
+      },
+      {
+        "A": "audio_files/2361.wav",
+        "B": "audio_files/2362.wav"
+      },
+      {
+        "A": "audio_files/2363.wav",
+        "B": "audio_files/2364.wav"
+      }
+    ]
+  },
+  {
+    "word": "安堆",
+    "word_audio_path": "audio_files/2365.wav",
+    "paths": [
+      {
+        "A": "audio_files/2366.wav",
+        "B": "audio_files/2367.wav"
+      },
+      {
+        "A": "audio_files/2368.wav",
+        "B": "audio_files/2369.wav"
+      },
+      {
+        "A": "audio_files/2370.wav",
+        "B": "audio_files/2371.wav"
+      },
+      {
+        "A": "audio_files/2372.wav",
+        "B": "audio_files/2373.wav"
+      },
+      {
+        "A": "audio_files/2374.wav",
+        "B": "audio_files/2375.wav"
+      }
+    ]
+  },
+  {
+    "word": "忙內",
+    "word_audio_path": "audio_files/2376.wav",
+    "paths": [
+      {
+        "A": "audio_files/2377.wav",
+        "B": "audio_files/2378.wav"
+      },
+      {
+        "A": "audio_files/2379.wav",
+        "B": "audio_files/2380.wav"
+      },
+      {
+        "A": "audio_files/2381.wav",
+        "B": "audio_files/2382.wav"
+      },
+      {
+        "A": "audio_files/2383.wav",
+        "B": "audio_files/2384.wav"
+      },
+      {
+        "A": "audio_files/2385.wav",
+        "B": "audio_files/2386.wav"
+      }
+    ]
+  },
+  {
+    "word": "扣打",
+    "word_audio_path": "audio_files/2387.wav",
+    "paths": [
+      {
+        "A": "audio_files/2388.wav",
+        "B": "audio_files/2389.wav"
+      },
+      {
+        "A": "audio_files/2390.wav",
+        "B": "audio_files/2391.wav"
+      },
+      {
+        "A": "audio_files/2392.wav",
+        "B": "audio_files/2393.wav"
+      },
+      {
+        "A": "audio_files/2394.wav",
+        "B": "audio_files/2395.wav"
+      },
+      {
+        "A": "audio_files/2396.wav",
+        "B": "audio_files/2397.wav"
+      }
+    ]
+  },
+  {
+    "word": "收割",
+    "word_audio_path": "audio_files/2398.wav",
+    "paths": [
+      {
+        "A": "audio_files/2399.wav",
+        "B": "audio_files/2400.wav"
+      },
+      {
+        "A": "audio_files/2401.wav",
+        "B": "audio_files/2402.wav"
+      },
+      {
+        "A": "audio_files/2403.wav",
+        "B": "audio_files/2404.wav"
+      },
+      {
+        "A": "audio_files/2405.wav",
+        "B": "audio_files/2406.wav"
+      },
+      {
+        "A": "audio_files/2407.wav",
+        "B": "audio_files/2408.wav"
+      }
+    ]
+  },
+  {
+    "word": "早鳥",
+    "word_audio_path": "audio_files/2409.wav",
+    "paths": [
+      {
+        "A": "audio_files/2410.wav",
+        "B": "audio_files/2411.wav"
+      },
+      {
+        "A": "audio_files/2412.wav",
+        "B": "audio_files/2413.wav"
+      },
+      {
+        "A": "audio_files/2414.wav",
+        "B": "audio_files/2415.wav"
+      },
+      {
+        "A": "audio_files/2416.wav",
+        "B": "audio_files/2417.wav"
+      },
+      {
+        "A": "audio_files/2418.wav",
+        "B": "audio_files/2419.wav"
+      }
+    ]
+  },
+  {
+    "word": "有一樁沒一樁",
+    "word_audio_path": "audio_files/2420.wav",
+    "paths": [
+      {
+        "A": "audio_files/2421.wav",
+        "B": "audio_files/2422.wav"
+      },
+      {
+        "A": "audio_files/2423.wav",
+        "B": "audio_files/2424.wav"
+      },
+      {
+        "A": "audio_files/2425.wav",
+        "B": "audio_files/2426.wav"
+      },
+      {
+        "A": "audio_files/2427.wav",
+        "B": "audio_files/2428.wav"
+      },
+      {
+        "A": "audio_files/2429.wav",
+        "B": "audio_files/2430.wav"
+      }
+    ]
+  },
+  {
+    "word": "有料",
+    "word_audio_path": "audio_files/2431.wav",
+    "paths": [
+      {
+        "A": "audio_files/2432.wav",
+        "B": "audio_files/2433.wav"
+      },
+      {
+        "A": "audio_files/2434.wav",
+        "B": "audio_files/2435.wav"
+      },
+      {
+        "A": "audio_files/2436.wav",
+        "B": "audio_files/2437.wav"
+      },
+      {
+        "A": "audio_files/2438.wav",
+        "B": "audio_files/2439.wav"
+      },
+      {
+        "A": "audio_files/2440.wav",
+        "B": "audio_files/2441.wav"
+      }
+    ]
+  },
+  {
+    "word": "次元刀",
+    "word_audio_path": "audio_files/2442.wav",
+    "paths": [
+      {
+        "A": "audio_files/2443.wav",
+        "B": "audio_files/2444.wav"
+      },
+      {
+        "A": "audio_files/2445.wav",
+        "B": "audio_files/2446.wav"
+      },
+      {
+        "A": "audio_files/2447.wav",
+        "B": "audio_files/2448.wav"
+      },
+      {
+        "A": "audio_files/2449.wav",
+        "B": "audio_files/2450.wav"
+      },
+      {
+        "A": "audio_files/2451.wav",
+        "B": "audio_files/2452.wav"
+      }
+    ]
+  },
+  {
+    "word": "次世代",
+    "word_audio_path": "audio_files/2453.wav",
+    "paths": [
+      {
+        "A": "audio_files/2454.wav",
+        "B": "audio_files/2455.wav"
+      },
+      {
+        "A": "audio_files/2456.wav",
+        "B": "audio_files/2457.wav"
+      },
+      {
+        "A": "audio_files/2458.wav",
+        "B": "audio_files/2459.wav"
+      },
+      {
+        "A": "audio_files/2460.wav",
+        "B": "audio_files/2461.wav"
+      },
+      {
+        "A": "audio_files/2462.wav",
+        "B": "audio_files/2463.wav"
+      }
+    ]
+  },
+  {
+    "word": "百搭",
+    "word_audio_path": "audio_files/2464.wav",
+    "paths": [
+      {
+        "A": "audio_files/2465.wav",
+        "B": "audio_files/2466.wav"
+      },
+      {
+        "A": "audio_files/2467.wav",
+        "B": "audio_files/2468.wav"
+      },
+      {
+        "A": "audio_files/2469.wav",
+        "B": "audio_files/2470.wav"
+      },
+      {
+        "A": "audio_files/2471.wav",
+        "B": "audio_files/2472.wav"
+      },
+      {
+        "A": "audio_files/2473.wav",
+        "B": "audio_files/2474.wav"
+      }
+    ]
+  },
+  {
+    "word": "老六",
+    "word_audio_path": "audio_files/2475.wav",
+    "paths": [
+      {
+        "A": "audio_files/2476.wav",
+        "B": "audio_files/2477.wav"
+      },
+      {
+        "A": "audio_files/2478.wav",
+        "B": "audio_files/2479.wav"
+      },
+      {
+        "A": "audio_files/2480.wav",
+        "B": "audio_files/2481.wav"
+      },
+      {
+        "A": "audio_files/2482.wav",
+        "B": "audio_files/2483.wav"
+      },
+      {
+        "A": "audio_files/2484.wav",
+        "B": "audio_files/2485.wav"
+      }
+    ]
+  },
+  {
+    "word": "肉球",
+    "word_audio_path": "audio_files/2486.wav",
+    "paths": [
+      {
+        "A": "audio_files/2487.wav",
+        "B": "audio_files/2488.wav"
+      },
+      {
+        "A": "audio_files/2489.wav",
+        "B": "audio_files/2490.wav"
+      },
+      {
+        "A": "audio_files/2491.wav",
+        "B": "audio_files/2492.wav"
+      },
+      {
+        "A": "audio_files/2493.wav",
+        "B": "audio_files/2494.wav"
+      },
+      {
+        "A": "audio_files/2495.wav",
+        "B": "audio_files/2496.wav"
+      }
+    ]
+  },
+  {
+    "word": "肉搜",
+    "word_audio_path": "audio_files/2497.wav",
+    "paths": [
+      {
+        "A": "audio_files/2498.wav",
+        "B": "audio_files/2499.wav"
+      },
+      {
+        "A": "audio_files/2500.wav",
+        "B": "audio_files/2501.wav"
+      },
+      {
+        "A": "audio_files/2502.wav",
+        "B": "audio_files/2503.wav"
+      },
+      {
+        "A": "audio_files/2504.wav",
+        "B": "audio_files/2505.wav"
+      },
+      {
+        "A": "audio_files/2506.wav",
+        "B": "audio_files/2507.wav"
+      }
+    ]
+  },
+  {
+    "word": "自助餐",
+    "word_audio_path": "audio_files/2508.wav",
+    "paths": [
+      {
+        "A": "audio_files/2509.wav",
+        "B": "audio_files/2510.wav"
+      },
+      {
+        "A": "audio_files/2511.wav",
+        "B": "audio_files/2512.wav"
+      },
+      {
+        "A": "audio_files/2513.wav",
+        "B": "audio_files/2514.wav"
+      },
+      {
+        "A": "audio_files/2515.wav",
+        "B": "audio_files/2516.wav"
+      },
+      {
+        "A": "audio_files/2517.wav",
+        "B": "audio_files/2518.wav"
+      }
+    ]
+  },
+  {
+    "word": "自肥",
+    "word_audio_path": "audio_files/2519.wav",
+    "paths": [
+      {
+        "A": "audio_files/2520.wav",
+        "B": "audio_files/2521.wav"
+      },
+      {
+        "A": "audio_files/2522.wav",
+        "B": "audio_files/2523.wav"
+      },
+      {
+        "A": "audio_files/2524.wav",
+        "B": "audio_files/2525.wav"
+      },
+      {
+        "A": "audio_files/2526.wav",
+        "B": "audio_files/2527.wav"
+      },
+      {
+        "A": "audio_files/2528.wav",
+        "B": "audio_files/2529.wav"
+      }
+    ]
+  },
+  {
+    "word": "自媒體",
+    "word_audio_path": "audio_files/2530.wav",
+    "paths": [
+      {
+        "A": "audio_files/2531.wav",
+        "B": "audio_files/2532.wav"
+      },
+      {
+        "A": "audio_files/2533.wav",
+        "B": "audio_files/2534.wav"
+      },
+      {
+        "A": "audio_files/2535.wav",
+        "B": "audio_files/2536.wav"
+      },
+      {
+        "A": "audio_files/2537.wav",
+        "B": "audio_files/2538.wav"
+      },
+      {
+        "A": "audio_files/2539.wav",
+        "B": "audio_files/2540.wav"
+      }
+    ]
+  },
+  {
+    "word": "自嗨",
+    "word_audio_path": "audio_files/2541.wav",
+    "paths": [
+      {
+        "A": "audio_files/2542.wav",
+        "B": "audio_files/2543.wav"
+      },
+      {
+        "A": "audio_files/2544.wav",
+        "B": "audio_files/2545.wav"
+      },
+      {
+        "A": "audio_files/2546.wav",
+        "B": "audio_files/2547.wav"
+      },
+      {
+        "A": "audio_files/2548.wav",
+        "B": "audio_files/2549.wav"
+      },
+      {
+        "A": "audio_files/2550.wav",
+        "B": "audio_files/2551.wav"
+      }
+    ]
+  },
+  {
+    "word": "自曝",
+    "word_audio_path": "audio_files/2552.wav",
+    "paths": [
+      {
+        "A": "audio_files/2553.wav",
+        "B": "audio_files/2554.wav"
+      },
+      {
+        "A": "audio_files/2555.wav",
+        "B": "audio_files/2556.wav"
+      },
+      {
+        "A": "audio_files/2557.wav",
+        "B": "audio_files/2558.wav"
+      },
+      {
+        "A": "audio_files/2559.wav",
+        "B": "audio_files/2560.wav"
+      },
+      {
+        "A": "audio_files/2561.wav",
+        "B": "audio_files/2562.wav"
+      }
+    ]
+  },
+  {
+    "word": "自爆",
+    "word_audio_path": "audio_files/2563.wav",
+    "paths": [
+      {
+        "A": "audio_files/2564.wav",
+        "B": "audio_files/2565.wav"
+      },
+      {
+        "A": "audio_files/2566.wav",
+        "B": "audio_files/2567.wav"
+      },
+      {
+        "A": "audio_files/2568.wav",
+        "B": "audio_files/2569.wav"
+      },
+      {
+        "A": "audio_files/2570.wav",
+        "B": "audio_files/2571.wav"
+      },
+      {
+        "A": "audio_files/2572.wav",
+        "B": "audio_files/2573.wav"
+      }
+    ]
+  },
+  {
+    "word": "虫合",
+    "word_audio_path": "audio_files/2574.wav",
+    "paths": [
+      {
+        "A": "audio_files/2575.wav",
+        "B": "audio_files/2576.wav"
+      },
+      {
+        "A": "audio_files/2577.wav",
+        "B": "audio_files/2578.wav"
+      },
+      {
+        "A": "audio_files/2579.wav",
+        "B": "audio_files/2580.wav"
+      },
+      {
+        "A": "audio_files/2581.wav",
+        "B": "audio_files/2582.wav"
+      },
+      {
+        "A": "audio_files/2583.wav",
+        "B": "audio_files/2584.wav"
+      }
+    ]
+  },
+  {
+    "word": "血流成河",
+    "word_audio_path": "audio_files/2585.wav",
+    "paths": [
+      {
+        "A": "audio_files/2586.wav",
+        "B": "audio_files/2587.wav"
+      },
+      {
+        "A": "audio_files/2588.wav",
+        "B": "audio_files/2589.wav"
+      },
+      {
+        "A": "audio_files/2590.wav",
+        "B": "audio_files/2591.wav"
+      },
+      {
+        "A": "audio_files/2592.wav",
+        "B": "audio_files/2593.wav"
+      },
+      {
+        "A": "audio_files/2594.wav",
+        "B": "audio_files/2595.wav"
+      }
+    ]
+  },
+  {
+    "word": "行充",
+    "word_audio_path": "audio_files/2596.wav",
+    "paths": [
+      {
+        "A": "audio_files/2597.wav",
+        "B": "audio_files/2598.wav"
+      },
+      {
+        "A": "audio_files/2599.wav",
+        "B": "audio_files/2600.wav"
+      },
+      {
+        "A": "audio_files/2601.wav",
+        "B": "audio_files/2602.wav"
+      },
+      {
+        "A": "audio_files/2603.wav",
+        "B": "audio_files/2604.wav"
+      },
+      {
+        "A": "audio_files/2605.wav",
+        "B": "audio_files/2606.wav"
+      }
+    ]
+  },
+  {
+    "word": "行動支付",
+    "word_audio_path": "audio_files/2607.wav",
+    "paths": [
+      {
+        "A": "audio_files/2608.wav",
+        "B": "audio_files/2609.wav"
+      },
+      {
+        "A": "audio_files/2610.wav",
+        "B": "audio_files/2611.wav"
+      },
+      {
+        "A": "audio_files/2612.wav",
+        "B": "audio_files/2613.wav"
+      },
+      {
+        "A": "audio_files/2614.wav",
+        "B": "audio_files/2615.wav"
+      },
+      {
+        "A": "audio_files/2616.wav",
+        "B": "audio_files/2617.wav"
+      }
+    ]
+  },
+  {
+    "word": "伸手",
+    "word_audio_path": "audio_files/2618.wav",
+    "paths": [
+      {
+        "A": "audio_files/2619.wav",
+        "B": "audio_files/2620.wav"
+      },
+      {
+        "A": "audio_files/2621.wav",
+        "B": "audio_files/2622.wav"
+      },
+      {
+        "A": "audio_files/2623.wav",
+        "B": "audio_files/2624.wav"
+      },
+      {
+        "A": "audio_files/2625.wav",
+        "B": "audio_files/2626.wav"
+      },
+      {
+        "A": "audio_files/2627.wav",
+        "B": "audio_files/2628.wav"
+      }
+    ]
+  },
+  {
+    "word": "伸手牌",
+    "word_audio_path": "audio_files/2629.wav",
+    "paths": [
+      {
+        "A": "audio_files/2630.wav",
+        "B": "audio_files/2631.wav"
+      },
+      {
+        "A": "audio_files/2632.wav",
+        "B": "audio_files/2633.wav"
+      },
+      {
+        "A": "audio_files/2634.wav",
+        "B": "audio_files/2635.wav"
+      },
+      {
+        "A": "audio_files/2636.wav",
+        "B": "audio_files/2637.wav"
+      },
+      {
+        "A": "audio_files/2638.wav",
+        "B": "audio_files/2639.wav"
+      }
+    ]
+  },
+  {
+    "word": "低消",
+    "word_audio_path": "audio_files/2640.wav",
+    "paths": [
+      {
+        "A": "audio_files/2641.wav",
+        "B": "audio_files/2642.wav"
+      },
+      {
+        "A": "audio_files/2643.wav",
+        "B": "audio_files/2644.wav"
+      },
+      {
+        "A": "audio_files/2645.wav",
+        "B": "audio_files/2646.wav"
+      },
+      {
+        "A": "audio_files/2647.wav",
+        "B": "audio_files/2648.wav"
+      },
+      {
+        "A": "audio_files/2649.wav",
+        "B": "audio_files/2650.wav"
+      }
+    ]
+  },
+  {
+    "word": "低碳",
+    "word_audio_path": "audio_files/2651.wav",
+    "paths": [
+      {
+        "A": "audio_files/2652.wav",
+        "B": "audio_files/2653.wav"
+      },
+      {
+        "A": "audio_files/2654.wav",
+        "B": "audio_files/2655.wav"
+      },
+      {
+        "A": "audio_files/2656.wav",
+        "B": "audio_files/2657.wav"
+      },
+      {
+        "A": "audio_files/2658.wav",
+        "B": "audio_files/2659.wav"
+      },
+      {
+        "A": "audio_files/2660.wav",
+        "B": "audio_files/2661.wav"
+      }
+    ]
+  },
+  {
+    "word": "低端",
+    "word_audio_path": "audio_files/2662.wav",
+    "paths": [
+      {
+        "A": "audio_files/2663.wav",
+        "B": "audio_files/2664.wav"
+      },
+      {
+        "A": "audio_files/2665.wav",
+        "B": "audio_files/2666.wav"
+      },
+      {
+        "A": "audio_files/2667.wav",
+        "B": "audio_files/2668.wav"
+      },
+      {
+        "A": "audio_files/2669.wav",
+        "B": "audio_files/2670.wav"
+      },
+      {
+        "A": "audio_files/2671.wav",
+        "B": "audio_files/2672.wav"
+      }
+    ]
+  },
+  {
+    "word": "低端人口",
+    "word_audio_path": "audio_files/2673.wav",
+    "paths": [
+      {
+        "A": "audio_files/2674.wav",
+        "B": "audio_files/2675.wav"
+      },
+      {
+        "A": "audio_files/2676.wav",
+        "B": "audio_files/2677.wav"
+      },
+      {
+        "A": "audio_files/2678.wav",
+        "B": "audio_files/2679.wav"
+      },
+      {
+        "A": "audio_files/2680.wav",
+        "B": "audio_files/2681.wav"
+      },
+      {
+        "A": "audio_files/2682.wav",
+        "B": "audio_files/2683.wav"
+      }
+    ]
+  },
+  {
+    "word": "住海邊",
+    "word_audio_path": "audio_files/2684.wav",
+    "paths": [
+      {
+        "A": "audio_files/2685.wav",
+        "B": "audio_files/2686.wav"
+      },
+      {
+        "A": "audio_files/2687.wav",
+        "B": "audio_files/2688.wav"
+      },
+      {
+        "A": "audio_files/2689.wav",
+        "B": "audio_files/2690.wav"
+      },
+      {
+        "A": "audio_files/2691.wav",
+        "B": "audio_files/2692.wav"
+      },
+      {
+        "A": "audio_files/2693.wav",
+        "B": "audio_files/2694.wav"
+      }
+    ]
+  },
+  {
+    "word": "佛",
+    "word_audio_path": "audio_files/2695.wav",
+    "paths": [
+      {
+        "A": "audio_files/2696.wav",
+        "B": "audio_files/2697.wav"
+      },
+      {
+        "A": "audio_files/2698.wav",
+        "B": "audio_files/2699.wav"
+      },
+      {
+        "A": "audio_files/2700.wav",
+        "B": "audio_files/2701.wav"
+      },
+      {
+        "A": "audio_files/2702.wav",
+        "B": "audio_files/2703.wav"
+      },
+      {
+        "A": "audio_files/2704.wav",
+        "B": "audio_files/2705.wav"
+      }
+    ]
+  },
+  {
+    "word": "佛心",
+    "word_audio_path": "audio_files/2706.wav",
+    "paths": [
+      {
+        "A": "audio_files/2707.wav",
+        "B": "audio_files/2708.wav"
+      },
+      {
+        "A": "audio_files/2709.wav",
+        "B": "audio_files/2710.wav"
+      },
+      {
+        "A": "audio_files/2711.wav",
+        "B": "audio_files/2712.wav"
+      },
+      {
+        "A": "audio_files/2713.wav",
+        "B": "audio_files/2714.wav"
+      },
+      {
+        "A": "audio_files/2715.wav",
+        "B": "audio_files/2716.wav"
+      }
+    ]
+  },
+  {
+    "word": "佛系",
+    "word_audio_path": "audio_files/2717.wav",
+    "paths": [
+      {
+        "A": "audio_files/2718.wav",
+        "B": "audio_files/2719.wav"
+      },
+      {
+        "A": "audio_files/2720.wav",
+        "B": "audio_files/2721.wav"
+      },
+      {
+        "A": "audio_files/2722.wav",
+        "B": "audio_files/2723.wav"
+      },
+      {
+        "A": "audio_files/2724.wav",
+        "B": "audio_files/2725.wav"
+      },
+      {
+        "A": "audio_files/2726.wav",
+        "B": "audio_files/2727.wav"
+      }
+    ]
+  },
+  {
+    "word": "你那邊還來得及",
+    "word_audio_path": "audio_files/2728.wav",
+    "paths": [
+      {
+        "A": "audio_files/2729.wav",
+        "B": "audio_files/2730.wav"
+      },
+      {
+        "A": "audio_files/2731.wav",
+        "B": "audio_files/2732.wav"
+      },
+      {
+        "A": "audio_files/2733.wav",
+        "B": "audio_files/2734.wav"
+      },
+      {
+        "A": "audio_files/2735.wav",
+        "B": "audio_files/2736.wav"
+      },
+      {
+        "A": "audio_files/2737.wav",
+        "B": "audio_files/2738.wav"
+      }
+    ]
+  },
+  {
+    "word": "免運",
+    "word_audio_path": "audio_files/2739.wav",
+    "paths": [
+      {
+        "A": "audio_files/2740.wav",
+        "B": "audio_files/2741.wav"
+      },
+      {
+        "A": "audio_files/2742.wav",
+        "B": "audio_files/2743.wav"
+      },
+      {
+        "A": "audio_files/2744.wav",
+        "B": "audio_files/2745.wav"
+      },
+      {
+        "A": "audio_files/2746.wav",
+        "B": "audio_files/2747.wav"
+      },
+      {
+        "A": "audio_files/2748.wav",
+        "B": "audio_files/2749.wav"
+      }
+    ]
+  },
+  {
+    "word": "初4",
+    "word_audio_path": "audio_files/2750.wav",
+    "paths": [
+      {
+        "A": "audio_files/2751.wav",
+        "B": "audio_files/2752.wav"
+      },
+      {
+        "A": "audio_files/2753.wav",
+        "B": "audio_files/2754.wav"
+      },
+      {
+        "A": "audio_files/2755.wav",
+        "B": "audio_files/2756.wav"
+      },
+      {
+        "A": "audio_files/2757.wav",
+        "B": "audio_files/2758.wav"
+      },
+      {
+        "A": "audio_files/2759.wav",
+        "B": "audio_files/2760.wav"
+      }
+    ]
+  },
+  {
+    "word": "初四",
+    "word_audio_path": "audio_files/2761.wav",
+    "paths": [
+      {
+        "A": "audio_files/2762.wav",
+        "B": "audio_files/2763.wav"
+      },
+      {
+        "A": "audio_files/2764.wav",
+        "B": "audio_files/2765.wav"
+      },
+      {
+        "A": "audio_files/2766.wav",
+        "B": "audio_files/2767.wav"
+      },
+      {
+        "A": "audio_files/2768.wav",
+        "B": "audio_files/2769.wav"
+      },
+      {
+        "A": "audio_files/2770.wav",
+        "B": "audio_files/2771.wav"
+      }
+    ]
+  },
+  {
+    "word": "否放",
+    "word_audio_path": "audio_files/2772.wav",
+    "paths": [
+      {
+        "A": "audio_files/2773.wav",
+        "B": "audio_files/2774.wav"
+      },
+      {
+        "A": "audio_files/2775.wav",
+        "B": "audio_files/2776.wav"
+      },
+      {
+        "A": "audio_files/2777.wav",
+        "B": "audio_files/2778.wav"
+      },
+      {
+        "A": "audio_files/2779.wav",
+        "B": "audio_files/2780.wav"
+      },
+      {
+        "A": "audio_files/2781.wav",
+        "B": "audio_files/2782.wav"
+      }
+    ]
+  },
+  {
+    "word": "含金量",
+    "word_audio_path": "audio_files/2783.wav",
+    "paths": [
+      {
+        "A": "audio_files/2784.wav",
+        "B": "audio_files/2785.wav"
+      },
+      {
+        "A": "audio_files/2786.wav",
+        "B": "audio_files/2787.wav"
+      },
+      {
+        "A": "audio_files/2788.wav",
+        "B": "audio_files/2789.wav"
+      },
+      {
+        "A": "audio_files/2790.wav",
+        "B": "audio_files/2791.wav"
+      },
+      {
+        "A": "audio_files/2792.wav",
+        "B": "audio_files/2793.wav"
+      }
+    ]
+  },
+  {
+    "word": "吹哨者",
+    "word_audio_path": "audio_files/2794.wav",
+    "paths": [
+      {
+        "A": "audio_files/2795.wav",
+        "B": "audio_files/2796.wav"
+      },
+      {
+        "A": "audio_files/2797.wav",
+        "B": "audio_files/2798.wav"
+      },
+      {
+        "A": "audio_files/2799.wav",
+        "B": "audio_files/2800.wav"
+      },
+      {
+        "A": "audio_files/2801.wav",
+        "B": "audio_files/2802.wav"
+      },
+      {
+        "A": "audio_files/2803.wav",
+        "B": "audio_files/2804.wav"
+      }
+    ]
+  },
+  {
+    "word": "囧",
+    "word_audio_path": "audio_files/2805.wav",
+    "paths": [
+      {
+        "A": "audio_files/2806.wav",
+        "B": "audio_files/2807.wav"
+      },
+      {
+        "A": "audio_files/2808.wav",
+        "B": "audio_files/2809.wav"
+      },
+      {
+        "A": "audio_files/2810.wav",
+        "B": "audio_files/2811.wav"
+      },
+      {
+        "A": "audio_files/2812.wav",
+        "B": "audio_files/2813.wav"
+      },
+      {
+        "A": "audio_files/2814.wav",
+        "B": "audio_files/2815.wav"
+      }
+    ]
+  },
+  {
+    "word": "坑",
+    "word_audio_path": "audio_files/2816.wav",
+    "paths": [
+      {
+        "A": "audio_files/2817.wav",
+        "B": "audio_files/2818.wav"
+      },
+      {
+        "A": "audio_files/2819.wav",
+        "B": "audio_files/2820.wav"
+      },
+      {
+        "A": "audio_files/2821.wav",
+        "B": "audio_files/2822.wav"
+      },
+      {
+        "A": "audio_files/2823.wav",
+        "B": "audio_files/2824.wav"
+      },
+      {
+        "A": "audio_files/2825.wav",
+        "B": "audio_files/2826.wav"
+      }
+    ]
+  },
+  {
+    "word": "尬",
+    "word_audio_path": "audio_files/2827.wav",
+    "paths": [
+      {
+        "A": "audio_files/2828.wav",
+        "B": "audio_files/2829.wav"
+      },
+      {
+        "A": "audio_files/2830.wav",
+        "B": "audio_files/2831.wav"
+      },
+      {
+        "A": "audio_files/2832.wav",
+        "B": "audio_files/2833.wav"
+      },
+      {
+        "A": "audio_files/2834.wav",
+        "B": "audio_files/2835.wav"
+      },
+      {
+        "A": "audio_files/2836.wav",
+        "B": "audio_files/2837.wav"
+      }
+    ]
+  },
+  {
+    "word": "尬車",
+    "word_audio_path": "audio_files/2838.wav",
+    "paths": [
+      {
+        "A": "audio_files/2839.wav",
+        "B": "audio_files/2840.wav"
+      },
+      {
+        "A": "audio_files/2841.wav",
+        "B": "audio_files/2842.wav"
+      },
+      {
+        "A": "audio_files/2843.wav",
+        "B": "audio_files/2844.wav"
+      },
+      {
+        "A": "audio_files/2845.wav",
+        "B": "audio_files/2846.wav"
+      },
+      {
+        "A": "audio_files/2847.wav",
+        "B": "audio_files/2848.wav"
+      }
+    ]
+  },
+  {
+    "word": "尬聊",
+    "word_audio_path": "audio_files/2849.wav",
+    "paths": [
+      {
+        "A": "audio_files/2850.wav",
+        "B": "audio_files/2851.wav"
+      },
+      {
+        "A": "audio_files/2852.wav",
+        "B": "audio_files/2853.wav"
+      },
+      {
+        "A": "audio_files/2854.wav",
+        "B": "audio_files/2855.wav"
+      },
+      {
+        "A": "audio_files/2856.wav",
+        "B": "audio_files/2857.wav"
+      },
+      {
+        "A": "audio_files/2858.wav",
+        "B": "audio_files/2859.wav"
+      }
+    ]
+  },
+  {
+    "word": "尬電",
+    "word_audio_path": "audio_files/2860.wav",
+    "paths": [
+      {
+        "A": "audio_files/2861.wav",
+        "B": "audio_files/2862.wav"
+      },
+      {
+        "A": "audio_files/2863.wav",
+        "B": "audio_files/2864.wav"
+      },
+      {
+        "A": "audio_files/2865.wav",
+        "B": "audio_files/2866.wav"
+      },
+      {
+        "A": "audio_files/2867.wav",
+        "B": "audio_files/2868.wav"
+      },
+      {
+        "A": "audio_files/2869.wav",
+        "B": "audio_files/2870.wav"
+      }
+    ]
+  },
+  {
+    "word": "尿性",
+    "word_audio_path": "audio_files/2871.wav",
+    "paths": [
+      {
+        "A": "audio_files/2872.wav",
+        "B": "audio_files/2873.wav"
+      },
+      {
+        "A": "audio_files/2874.wav",
+        "B": "audio_files/2875.wav"
+      },
+      {
+        "A": "audio_files/2876.wav",
+        "B": "audio_files/2877.wav"
+      },
+      {
+        "A": "audio_files/2878.wav",
+        "B": "audio_files/2879.wav"
+      },
+      {
+        "A": "audio_files/2880.wav",
+        "B": "audio_files/2881.wav"
+      }
+    ]
+  },
+  {
+    "word": "屁孩",
+    "word_audio_path": "audio_files/2882.wav",
+    "paths": [
+      {
+        "A": "audio_files/2883.wav",
+        "B": "audio_files/2884.wav"
+      },
+      {
+        "A": "audio_files/2885.wav",
+        "B": "audio_files/2886.wav"
+      },
+      {
+        "A": "audio_files/2887.wav",
+        "B": "audio_files/2888.wav"
+      },
+      {
+        "A": "audio_files/2889.wav",
+        "B": "audio_files/2890.wav"
+      },
+      {
+        "A": "audio_files/2891.wav",
+        "B": "audio_files/2892.wav"
+      }
+    ]
+  },
+  {
+    "word": "快充",
+    "word_audio_path": "audio_files/2893.wav",
+    "paths": [
+      {
+        "A": "audio_files/2894.wav",
+        "B": "audio_files/2895.wav"
+      },
+      {
+        "A": "audio_files/2896.wav",
+        "B": "audio_files/2897.wav"
+      },
+      {
+        "A": "audio_files/2898.wav",
+        "B": "audio_files/2899.wav"
+      },
+      {
+        "A": "audio_files/2900.wav",
+        "B": "audio_files/2901.wav"
+      },
+      {
+        "A": "audio_files/2902.wav",
+        "B": "audio_files/2903.wav"
+      }
+    ]
+  },
+  {
+    "word": "快閃",
+    "word_audio_path": "audio_files/2904.wav",
+    "paths": [
+      {
+        "A": "audio_files/2905.wav",
+        "B": "audio_files/2906.wav"
+      },
+      {
+        "A": "audio_files/2907.wav",
+        "B": "audio_files/2908.wav"
+      },
+      {
+        "A": "audio_files/2909.wav",
+        "B": "audio_files/2910.wav"
+      },
+      {
+        "A": "audio_files/2911.wav",
+        "B": "audio_files/2912.wav"
+      },
+      {
+        "A": "audio_files/2913.wav",
+        "B": "audio_files/2914.wav"
+      }
+    ]
+  },
+  {
+    "word": "我有一個大膽的想法",
+    "word_audio_path": "audio_files/2915.wav",
+    "paths": [
+      {
+        "A": "audio_files/2916.wav",
+        "B": "audio_files/2917.wav"
+      },
+      {
+        "A": "audio_files/2918.wav",
+        "B": "audio_files/2919.wav"
+      },
+      {
+        "A": "audio_files/2920.wav",
+        "B": "audio_files/2921.wav"
+      },
+      {
+        "A": "audio_files/2922.wav",
+        "B": "audio_files/2923.wav"
+      },
+      {
+        "A": "audio_files/2924.wav",
+        "B": "audio_files/2925.wav"
+      }
+    ]
+  },
+  {
+    "word": "我沒了",
+    "word_audio_path": "audio_files/2926.wav",
+    "paths": [
+      {
+        "A": "audio_files/2927.wav",
+        "B": "audio_files/2928.wav"
+      },
+      {
+        "A": "audio_files/2929.wav",
+        "B": "audio_files/2930.wav"
+      },
+      {
+        "A": "audio_files/2931.wav",
+        "B": "audio_files/2932.wav"
+      },
+      {
+        "A": "audio_files/2933.wav",
+        "B": "audio_files/2934.wav"
+      },
+      {
+        "A": "audio_files/2935.wav",
+        "B": "audio_files/2936.wav"
+      }
+    ]
+  },
+  {
+    "word": "我是什麼很賤的人嗎",
+    "word_audio_path": "audio_files/2937.wav",
+    "paths": [
+      {
+        "A": "audio_files/2938.wav",
+        "B": "audio_files/2939.wav"
+      },
+      {
+        "A": "audio_files/2940.wav",
+        "B": "audio_files/2941.wav"
+      },
+      {
+        "A": "audio_files/2942.wav",
+        "B": "audio_files/2943.wav"
+      },
+      {
+        "A": "audio_files/2944.wav",
+        "B": "audio_files/2945.wav"
+      },
+      {
+        "A": "audio_files/2946.wav",
+        "B": "audio_files/2947.wav"
+      }
+    ]
+  },
+  {
+    "word": "我們懷念他",
+    "word_audio_path": "audio_files/2948.wav",
+    "paths": [
+      {
+        "A": "audio_files/2949.wav",
+        "B": "audio_files/2950.wav"
+      },
+      {
+        "A": "audio_files/2951.wav",
+        "B": "audio_files/2952.wav"
+      },
+      {
+        "A": "audio_files/2953.wav",
+        "B": "audio_files/2954.wav"
+      },
+      {
+        "A": "audio_files/2955.wav",
+        "B": "audio_files/2956.wav"
+      },
+      {
+        "A": "audio_files/2957.wav",
+        "B": "audio_files/2958.wav"
+      }
+    ]
+  },
+  {
+    "word": "我婆",
+    "word_audio_path": "audio_files/2959.wav",
+    "paths": [
+      {
+        "A": "audio_files/2960.wav",
+        "B": "audio_files/2961.wav"
+      },
+      {
+        "A": "audio_files/2962.wav",
+        "B": "audio_files/2963.wav"
+      },
+      {
+        "A": "audio_files/2964.wav",
+        "B": "audio_files/2965.wav"
+      },
+      {
+        "A": "audio_files/2966.wav",
+        "B": "audio_files/2967.wav"
+      },
+      {
+        "A": "audio_files/2968.wav",
+        "B": "audio_files/2969.wav"
+      }
+    ]
+  },
+  {
+    "word": "我就爛",
+    "word_audio_path": "audio_files/2970.wav",
+    "paths": [
+      {
+        "A": "audio_files/2971.wav",
+        "B": "audio_files/2972.wav"
+      },
+      {
+        "A": "audio_files/2973.wav",
+        "B": "audio_files/2974.wav"
+      },
+      {
+        "A": "audio_files/2975.wav",
+        "B": "audio_files/2976.wav"
+      },
+      {
+        "A": "audio_files/2977.wav",
+        "B": "audio_files/2978.wav"
+      },
+      {
+        "A": "audio_files/2979.wav",
+        "B": "audio_files/2980.wav"
+      }
+    ]
+  }
+]
