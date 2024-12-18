@@ -20,8 +20,9 @@ torch_dtype = torch.float16 if torch.cuda.is_available() else torch.float32
 
 ################### Chat LLM: TAIDE ####################
 chat_tokenizer = AutoTokenizer.from_pretrained(
-    "/home/nlp/b10902031/emer_llm/models/taide/Llama3-TAIDE-LX-8B-Chat-Alpha1",
-    local_files_only=True
+    # "/home/nlp/b10902031/emer_llm/models/taide/Llama3-TAIDE-LX-8B-Chat-Alpha1",
+    "taide/Llama3-TAIDE-LX-8B-Chat-Alpha1",
+    # local_files_only=True
 )
 if chat_tokenizer.pad_token is None:
     chat_tokenizer.add_special_tokens({'pad_token': '[PAD]'})
@@ -32,7 +33,8 @@ quantization_config = BitsAndBytesConfig(
     bnb_4bit_compute_dtype=torch_dtype
 )
 chat_model = AutoModelForCausalLM.from_pretrained(
-    "/home/nlp/b10902031/emer_llm/models/taide/Llama3-TAIDE-LX-8B-Chat-Alpha1",
+    # "/home/nlp/b10902031/emer_llm/models/taide/Llama3-TAIDE-LX-8B-Chat-Alpha1",
+    "taide/Llama3-TAIDE-LX-8B-Chat-Alpha1",
     quantization_config=quantization_config, 
     device_map="auto"
 )
@@ -66,7 +68,7 @@ def get_chat_output(input, tokenizer, model, device):
     return generated_text
 
 word_idx = 1
-exp_idx = 0
+exp_idx = 4
 
 with open("adl_dataset/keyword_query.json") as f:
     data = json.load(f)[word_idx]
