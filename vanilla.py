@@ -67,36 +67,45 @@ def get_chat_output(input, tokenizer, model, device):
 
     return generated_text
 
-word_idx = 1
-exp_idx = 4
+with open ("raw_dataset/text.json") as f:
+    data = json.load(f)
 
-with open("adl_dataset/keyword_query.json") as f:
-    data = json.load(f)[word_idx]
+for word_entry in data:
+    dialogues = word_entry["dialogues"]
+    for dialogue in dialogues:
+        A = dialogue["A"]
+        B = dialogue["B"]
+        print(f"A: {A}\nB: {B}")
+        raw_output = get_chat_output(f"解釋這段對話：「{A + B}」", chat_tokenizer, chat_model, device)
+        print(f"raw output: {raw_output}")
 
-with open("adl_dataset/text.json") as f:
-    text = json.load(f)[word_idx]
-definition = text["definition"]
+# with open("adl_dataset/keyword_query.json") as f:
+#     data = json.load(f)[word_idx]
+
+# with open("adl_dataset/text.json") as f:
+#     text = json.load(f)[word_idx]
+# definition = text["definition"]
 
 
-word = data["word"]
-A = data["transcriptions"][exp_idx]["A"]["text"]
-B = data["transcriptions"][exp_idx]["B"]["text"]
-replace_segment = data["transcriptions"][exp_idx]["B"]["segmented"].split(" ")
-replace_idx = data["transcriptions"][exp_idx]["B"]["best_match"]["start_index"]
-replace_len = data["transcriptions"][exp_idx]["B"]["best_match"]["segment_length"]
-for i in range(replace_idx, replace_idx + replace_len):
-    if i == replace_idx:
-        replace_segment[i] = word
-    else:
-        replace_segment[i] = ""
-fixB = "".join(replace_segment)
+# word = data["word"]
+# A = data["transcriptions"][exp_idx]["A"]["text"]
+# B = data["transcriptions"][exp_idx]["B"]["text"]
+# replace_segment = data["transcriptions"][exp_idx]["B"]["segmented"].split(" ")
+# replace_idx = data["transcriptions"][exp_idx]["B"]["best_match"]["start_index"]
+# replace_len = data["transcriptions"][exp_idx]["B"]["best_match"]["segment_length"]
+# for i in range(replace_idx, replace_idx + replace_len):
+#     if i == replace_idx:
+#         replace_segment[i] = word
+#     else:
+#         replace_segment[i] = ""
+# fixB = "".join(replace_segment)
 
-print(f"A: {A}\nB: {B}\nfixB: {fixB}")
+# print(f"A: {A}\nB: {B}\nfixB: {fixB}")
 
-raw_output = get_chat_output(f"解釋這段對話：「{A + B}」", chat_tokenizer, chat_model, device)
-fix_output = get_chat_output(f"解釋這段對話：「{A + fixB}」\n詞彙釋義：{word}。{definition}", chat_tokenizer, chat_model, device)
+# raw_output = get_chat_output(f"解釋這段對話：「{A + B}」", chat_tokenizer, chat_model, device)
+# fix_output = get_chat_output(f"解釋這段對話：「{A + fixB}」\n詞彙釋義：{word}。{definition}", chat_tokenizer, chat_model, device)
 
-print(f"raw output: {raw_output}\nfix output: {fix_output}")
+# print(f"raw output: {raw_output}\nfix output: {fix_output}")
 
 # A: 有,你昨天有看到阿明的IG線動嗎?
 # B: 有,他居然逃去沖繩玩,完全沒跟我們說,傻抱屁眼。
