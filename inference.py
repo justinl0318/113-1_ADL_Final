@@ -37,15 +37,21 @@ def inference_entry(model, tokenizer, entry, max_length=512):
     response = output_text
     return response
 
-# 測試函數
-if __name__ == "__main__":
-    # 加載模型和 Tokenizer
+
+def do_inference(with_lora_and_ref):
+    """
+    主推論函數，處理所有資料，並生成模型的回應。
+    """
+    # 載入模型和 Tokenizer
+
     base_model_path = "taide"
     peft_path = "lora"
     
     model = AutoModelForCausalLM.from_pretrained(base_model_path, torch_dtype=torch.bfloat16).to(device)
     tokenizer = AutoTokenizer.from_pretrained(base_model_path)
-    model = PeftModel.from_pretrained(model, peft_path)
+    if with_lora_and_ref:
+        model= PeftModel.from_pretrained(model, peft_path)
+    
     model.eval()
 
     with open("retrieval/keyword_query.json") as f:
@@ -58,8 +64,9 @@ if __name__ == "__main__":
     output_list = []    
     for d in test_data:
         responses_list = []
-        responses = {}   
+        
         for entry in d["transcriptions"]:
+            responses = {}   
             conversation = entry["A"]
             text = conversation["text"]
             best_matches_ids = [id["matched_index"] for id in conversation["top_matches"]]
@@ -70,8 +77,12 @@ if __name__ == "__main__":
             definitions = "\n".join(
                 [f"詞語定義{i+1}: {word} - {definition}" for i, (word, definition) in enumerate(zip(best_matches_words, best_matches_def))]
             )
-            input_text = f"{definitions}\nA: {text}\nB: "
 
+            if with_lora_and_ref:
+                input_text = f"{definitions}\nA: {text}\nB: "
+            else:
+                input_text = f"A: {text}\nB: "
+        
             #print("Input:\n", input_text)
             test_entry = {
                 "instruction": "根據以下對話生成適當的回應。",
@@ -84,6 +95,16 @@ if __name__ == "__main__":
             responses["response"] = response
             responses_list.append(responses)
         output_list.append(responses_list)
-      
-    with open("inference_output.json", "w") as f:
-        json.dump(output_list, f, ensure_ascii=False, indent=4)   
+
+    if with_lora_and_ref:
+        with open("inference_output_with_lora_and_rag.json", "w") as f:
+            json.dump(output_list, f, ensure_ascii=False, indent=4)
+    else:
+        with open("inference_output.json", "w") as f:
+            json.dump(output_list, f, ensure_ascii=False, indent=4)   
+
+# 測試函數
+if __name__ == "__main__":
+    # 加載模型和 Tokenizer
+    do_inference(with_lora_and_ref=True)
+    do_inference(with_lora_and_ref=False)
