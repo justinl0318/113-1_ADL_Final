@@ -12,4 +12,7 @@ chromadb
 librosa
 soundfile
 bitsandbytes
-
+pydub
+datasets
+chromadb
+accelerate
