@@ -27,7 +27,38 @@ We present two strategies to perform retrieval.
 
 ### Training
 
+#### 1. Prepare Axolotl Environment
 
+```bash
+conda create -n adlhw3 python=3.10
+conda activate adlhw3
+pip install torch==2.4.1 transformers==4.45.1 bitsandbytes==0.44.1 peft==0.13.0
+
+conda install -c conda-forge cudatoolkit-dev
+git clone https://github.com/axolotl-ai-cloud/axolotl
+cd axolotl
+
+pip3 install packaging ninja
+pip3 install -e '.[flash-attn,deepspeed]'
+```
+
+#### 2. Start Training
+
+##### `train.yml`
+
+
+```
+base_model: models/taide/Llama3-TAIDE-LX-8B-Chat-Alpha1
+datasets:
+  - path: ./raw_dataset/alpaca_dataset.json
+output_dir: ./lora
+```
+
+##### command
+
+```bash
+accelerate launch -m axolotl.cli.train train_bonus.yml 
+```
 
 ### Inference
 
