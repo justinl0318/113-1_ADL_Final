@@ -45,7 +45,7 @@ if __name__ == "__main__":
     
     model = AutoModelForCausalLM.from_pretrained(base_model_path, torch_dtype=torch.bfloat16).to(device)
     tokenizer = AutoTokenizer.from_pretrained(base_model_path)
-    model_with_peft = PeftModel.from_pretrained(model, peft_path)
+    model = PeftModel.from_pretrained(model, peft_path)
     model.eval()
 
     with open("retrieval/keyword_query.json") as f:
