@@ -62,5 +62,10 @@ accelerate launch -m axolotl.cli.train train_bonus.yml
 
 ### Inference
 
+Place the llama3 model under the `model` folder, and LoRA model under `lora` folder. Then run this file.
 
-
+```bash
+python inference.py
+```
+link of the LoRA:
+[link](https://drive.google.com/file/d/1TTAYl6LRh3taw8gBS50aUG6dINF8j2xD/view?usp=sharing) 
