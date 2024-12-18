@@ -23,7 +23,7 @@ Run `./preprocessing/preprocess.sh`. After that, a file named `aligned_phoneme.j
 We present two strategies to perform retrieval. 
 
 1. Segmentation (斷詞) -> Identify the segment that best matches the keyword in the databse -> Extract keyword + definition + example 
-2. 
+2. Using prompt and LLM(Gemini 2.0 Flash Experimental) to output the part which LLM think should be keyword as extraction
 
 ### Training
 
