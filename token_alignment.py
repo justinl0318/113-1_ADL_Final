@@ -7,7 +7,6 @@ def align_segments_with_audio(segments, word_timings):
     segments = segments.split()
     current_word_segment = ""
     ptr2_start = ptr2 # start of current word timing
-    ptr2_start_index = 0 # the starting index of word_timings[ptr2_start]
 
     while ptr1 < len(segments) and ptr2 < len(word_timings):
         segment = segments[ptr1]
@@ -26,24 +25,36 @@ def align_segments_with_audio(segments, word_timings):
 
             ptr1 += 1 # move to next segment
 
-            if len(segment) == len(current_word_segment[ptr2_start_index:]): # exact match
-                ptr2 += 1 # advance ptr2
-                ptr2_start = ptr2
-                ptr2_start_index = 0
-            elif len(segment) < len(current_word_segment[ptr2_start_index:]): # partial match, leftover is used at the next starting index
-                ptr2_start_index = len(current_word_segment[ptr2_start_index:]) - len(segment)
-                ptr2_start = ptr2
+            # Calculate how much of the current_word_segment has been consumed
+            consumed_length = current_word_segment.find(segment) + len(segment)
+            leftover_length = len(current_word_segment) - consumed_length
+
+            if leftover_length > 0:
+                # ff there's leftover, adjust ptr2_start to skip consumed word_timings
+                # Calculate how many word_timings have been consumed to form the segment, so that we can correctly skip the consumed timings
+                # This is essential to correctly skip the consumed timings
+                consumed_word = segment
+                consumed_timings = 0
+                temp_length = 0
+
+                for i in range(ptr2_start, ptr2 + 1):
+                    temp_length += len(word_timings[i]["word"])
+                    consumed_timings += 1
+                    if temp_length >= len(consumed_word):
+                        break
+
+                # Update ptr2 to skip the consumed word_timings
+                ptr2_start += consumed_timings - 1
+            else:
+                # Exact match, move ptr2 forward
+                ptr2 += 1
+                ptr2_start = ptr2  # Update the start pointer for the next segment
 
             current_word_segment = ""
 
-        # reset if we've accumulated too much words without a match
-        elif ptr2 - ptr2_start > 3:
-            ptr2 = ptr2_start + 1
-            ptr2_start = ptr2
-            ptr2_start_index = 0
-            current_word_segment = ""
+            if segment == "遲到":
+                print(ptr2_start, ptr2, consumed_length, leftover_length)
 
-        # no match, move to next word timing
         else:
             ptr2 += 1
 
@@ -62,6 +73,11 @@ def align_segments_with_audio(segments, word_timings):
 def process_json_file(data):
     for word_entry in data:
         for i, transcript in enumerate(word_entry["transcriptions"]):
+            a_segmented = transcript["A"]["segmented"]
+            a_word_timings = word_entry["word_level_transcriptions"][i]["A"]
+            alignments = align_segments_with_audio(a_segmented, a_word_timings)
+            transcript["A"]["alignments"] = alignments
+
             b_segmented = transcript["B"]["segmented"]
             b_word_timings = word_entry["word_level_transcriptions"][i]["B"]
 
@@ -82,6 +98,3 @@ if __name__ == "__main__":
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(processed_data, f, ensure_ascii=False, indent=2)
-
-
-

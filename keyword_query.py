@@ -74,15 +74,16 @@ def get_best_match(segmented, alignments, LEN, max_segment_length=None):
     return best_match
 
 def process_data(data):
-    for word_entry in data:
+    for i, word_entry in enumerate(data):
         for transcript in word_entry["transcriptions"]:
-            segmented = transcript["B"]["segmented"].split()
-            alignments = transcript["B"]["alignments"]
-            LEN = len(segmented)
-
-            best_match = get_best_match(segmented, alignments, LEN, max_segment_length=3)
-            # print(f"Best match: {best_match}")
-            transcript["B"]["best_match"] = best_match
+            for c in ["A", "B"]:
+                segmented = transcript[c]["segmented"].split()
+                alignments = transcript[c]["alignments"]
+                LEN = len(segmented)
+                print(f"word: {word_entry['word']}, speaker: {c}, index{i}")
+                best_match = get_best_match(segmented, alignments, LEN, max_segment_length=3)
+                # print(f"Best match: {best_match}")
+                transcript[c]["best_match"] = best_match
 
     return data
 
@@ -98,3 +99,9 @@ if __name__ == "__main__":
 
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(processed_data, f, ensure_ascii=False, indent=2)
+
+
+# # RAG output:
+# 校正後的句子，跟活網用詞的定義 text version
+# 原本user的語音，跟活網用詞的定義 text version
+
