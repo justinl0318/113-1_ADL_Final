@@ -45,7 +45,7 @@ if __name__ == "__main__":
     
     model = AutoModelForCausalLM.from_pretrained(base_model_path, torch_dtype=torch.bfloat16).to(device)
     tokenizer = AutoTokenizer.from_pretrained(base_model_path)
-    model = PeftModel.from_pretrained(model, peft_path)
+    model_with_peft = PeftModel.from_pretrained(model, peft_path)
     model.eval()
 
     with open("retrieval/keyword_query.json") as f:
@@ -54,10 +54,12 @@ if __name__ == "__main__":
     with open("raw_dataset/活網用語辭典.csv", newline="") as f:
         reader = csv.DictReader(f)
         keyword_list = [(row["詞彙"],row["釋義"]) for row in reader]
-
+    
+    output_list = []    
     for d in test_data:
+        responses_list = []
+        responses = {}   
         for entry in d["transcriptions"]:
-
             conversation = entry["A"]
             text = conversation["text"]
             best_matches_ids = [id["matched_index"] for id in conversation["top_matches"]]
@@ -78,3 +80,10 @@ if __name__ == "__main__":
             print("Input:\nA: ", text)
             response = inference_entry(model, tokenizer, test_entry).split("B: ")[1]  
             print("Response:\nB: ", response)
+            responses["input"]  = text
+            responses["response"] = response
+            responses_list.append(responses)
+        output_list.append(responses_list)
+      
+    with open("inference_output.json", "w") as f:
+        json.dump(output_list, f, ensure_ascii=False, indent=4)   
