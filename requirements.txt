@@ -11,4 +11,5 @@ datasets
 chromadb
 librosa
 soundfile
+bitsandbytes
 
