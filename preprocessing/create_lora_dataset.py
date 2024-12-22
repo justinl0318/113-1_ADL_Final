@@ -24,7 +24,6 @@ def convert_to_alpaca_format(data):
             instruction = "根據以下對話生成適當的回應。"
             int2zh = {0: "零", 1: "一", 2: "二", 3: "三", 4: "四", 5: "五"}
             input_text = ""
-            print(words)
             for i in range(len(words)):
                 input_text += f"定義{int2zh[i+1]}: {words[i]["word"]} 的意思是 {words[i]["definition"]}\n"
             input_text += f"\nA: {dialogue['A']}\nB: "

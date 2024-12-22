@@ -74,8 +74,9 @@ def do_inference(with_lora_and_ref):
             best_matches_def = [keyword_list[i][1] for i in best_matches_ids]
 
             # 組合詞彙和釋義為詞語定義
+            int2zh = {0: "零", 1: "一", 2: "二", 3: "三", 4: "四", 5: "五"}
             definitions = "\n".join(
-                [f"詞語定義{i+1}: {word} - {definition}" for i, (word, definition) in enumerate(zip(best_matches_words, best_matches_def))]
+                [f"定義{int2zh[i+1]}: {word} 的意思是 {definition}" for i, (word, definition) in enumerate(zip(best_matches_words, best_matches_def))]
             )
 
             if with_lora_and_ref:
