@@ -1,6 +1,8 @@
+import os
 __import__('pysqlite3')
 import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 
 from transformers import ClapModel, ClapProcessor, AutoTokenizer
 from datasets import Dataset, Audio
@@ -16,6 +18,7 @@ from chromadb.api.types import (
     EmbeddingFunction,
     Embeddings,
 )
+
 
 class CLAPEmbeddingFunction(EmbeddingFunction[Union[Documents, Documents]]):
     def __init__(
@@ -86,7 +89,7 @@ class Chromadb:
         with open(path_to_data, 'r') as f:
             data = json.load(f)
         
-        items = []    
+        items = []
         ids = []
         for i in range(len(data)):
             items.append('../raw_dataset/' + data[i]['word_audio_path'])
@@ -116,9 +119,8 @@ def query_text(db, k):
         data = json.load(f)
     
     for i in range(len(data)):
-        if i % 20 == 0:
-            print(i)
-        for j in range(len(data[i]['transcriptions'])):
+        print(i)
+        for j in range(len(data[i]['transcriptions'])-1):
             for c in ['A', 'B']:
                 results = db.retrieve_from_text(data[i]['transcriptions'][j][c]['best_match']['word'], k)
                 data[i]['transcriptions'][j][c]['retrieve'] = results
@@ -131,6 +133,7 @@ def query_text(db, k):
     
         
 def segment_audio(input_file, start_time, end_time, output_file):
+        
     audio = AudioSegment.from_wav(input_file)
     
     start_ms = start_time * 1000
@@ -138,7 +141,8 @@ def segment_audio(input_file, start_time, end_time, output_file):
     
     segmented_audio = audio[start_ms:end_ms]
     
-    segmented_audio.export(output_file, format="wav")
+    out = segmented_audio.export(output_file, format="wav")
+    out.close()
                     
     
 def query_audio(db, k):
@@ -148,31 +152,42 @@ def query_audio(db, k):
         path = json.load(f)
         
     for i in range(len(data)):
+        print(i)
         for j in range(len(data[i]['transcriptions'])):
             for c in ['A', 'B']:
-                if i % 20 == 0:
-                    print(i)
                 input_audio = '../raw_dataset/' + path[i]['paths'][j][c]
                 segment_audio(input_audio, data[i]['transcriptions'][j][c]['best_match']['start_time'], data[i]['transcriptions'][j][c]['best_match']['end_time'], 'tmp.wav')
                 results = db.retrieve_from_audio('tmp.wav', k)
                 data[i]['transcriptions'][j][c]['retrieve'] = results
-                if str(i) in results['ids'][0]:
-                    data[i]['transcriptions'][j][c]['correct'] = '1'
-                else:
-                    data[i]['transcriptions'][j][c]['correct'] = '0'
+                # if str(i) in results['ids'][0]:
+                #     data[i]['transcriptions'][j][c]['correct'] = '1'
+                # else:
+                #     data[i]['transcriptions'][j][c]['correct'] = '0'
+    
+    return data
                     
 def main():
     db = Chromadb()
     db.store_text()
+    os.environ["TOKENIZERS_PARALLELISM"] = "true"
     data = query_text(db, 10)
     with open('retrieve_text2text.json', 'w') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+    data = query_audio(db, 10)
+    with open('retrieve_audio2text.json', 'w') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     
     db = Chromadb()
     db.store_audio()
+    os.environ["TOKENIZERS_PARALLELISM"] = "true"
     data = query_text(db, 10)
     with open('retrieve_text2audio.json', 'w') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+    data = query_audio(db, 10)
+    with open('retrieve_audio2audio.json', 'w') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     
