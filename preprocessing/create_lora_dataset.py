@@ -17,8 +17,10 @@ def convert_to_alpaca_format(data):
         for dialogue in item["dialogues"]:
             words = []
             if word in dialogue["A"]:
+
+                words = random.sample([d for d in data if d["word"] != word], 2)
                 words.append(item)
-                words += random.sample([d for d in data if d["word"] != word], 2)
+                random.shuffle(words)
             else:
                 words += random.sample([d for d in data], 3)
 
